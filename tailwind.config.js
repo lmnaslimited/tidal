@@ -4,7 +4,11 @@ module.exports = {
     './components/**/*.{js,ts,jsx,tsx}',
   ],
   theme: {
-    extend: {},
+    extend: {
+      backgroundImage: {
+        'hero': "url('https://www.chambers.law/wp-content/uploads/2020/06/ship-finance-morgages-03.jpg')"
+      }
+    },
   },
   plugins: [],
 }
