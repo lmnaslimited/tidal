@@ -1,3 +1,4 @@
+import React from "react"
 import Head from 'next/head'
 import Contact from '../components/contact'
 import Footer from '../components/footer'
@@ -8,6 +9,8 @@ import AllWorld from '../components/allWorld'
 import Country from '../components/country'
 import Steps from '../components/steps'
 import Insurance from '../components/insurance'
+import Brands from '../components/brands'
+
 
 export default function Home() {
   const patternText = 'abc'
@@ -29,6 +32,7 @@ export default function Home() {
       <AllWorld />
       <Steps />
       <Insurance />
+      <Brands/>
       <Contact />
       <Footer />
     </div>
