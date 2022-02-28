@@ -46,7 +46,7 @@ export default function ScopeOfSupply() {
             <div className="rounded-lg shadow-lg flex flex-row">
               <img
                 className="bg-gray-100 rounded-l-lg h-48 sm:h-auto w-48 sm:w-48 border-8 border-white p-5"
-                src="assets/motorcycle.png"
+                src="motorcycle.png"
                 alt=""
               />
               <div className="p-3 flex flex-col justify-start">
@@ -56,7 +56,7 @@ export default function ScopeOfSupply() {
                 <div className="flex inline-flex px-2">
                   <img
                     className="h-8 w-8 rounded-full border border-gray-400"
-                    src="./europe.png"
+                    src="./european-union.png"
                     alt=""
                   />
                   <img
@@ -66,12 +66,12 @@ export default function ScopeOfSupply() {
                   />
                   <img
                     className="h-8 w-8 ml-2 rounded-full border border-gray-400"
-                    src="./assets/japan.png"
+                    src="./japan.png"
                     alt=""
                   />
                   <img
                     className="h-8 w-8 ml-2 rounded-full border border-gray-400"
-                    src="./assets/korea.png"
+                    src="./south-korea.png"
                     alt=""
                   />
                 </div>
@@ -79,31 +79,11 @@ export default function ScopeOfSupply() {
                   Brand
                 </h1>
                 <div className="grid mx-auto gap-1 sm:grid-cols-4 lg:grid-cols-5">
-                  <img
-                    className="h-4 px-2 mt-3"
-                    src="./assets/yamaha.png"
-                    alt=""
-                  />
-                  <img
-                    className="h-4 px-2 mt-3"
-                    src="./assets/vercel.svg"
-                    alt=""
-                  />
-                  <img
-                    className="h-4 px-2 mt-3"
-                    src="./assets/scania.png"
-                    alt=""
-                  />
-                  <img
-                    className="h-4 px-2 mt-3"
-                    src="./assets/cat.png"
-                    alt=""
-                  />
-                  <img
-                    className="h-7 -ml-5 mt-2"
-                    src="./assets/more.png"
-                    alt=""
-                  />
+                  <img className="h-4 px-2 mt-3" src="./yamaha.png" alt="" />
+                  <img className="h-4 px-2 mt-3" src="./vercel.svg" alt="" />
+                  <img className="h-4 px-2 mt-3" src="./scania.png" alt="" />
+                  <img className="h-4 px-2 mt-3" src="./cat.png" alt="" />
+                  <img className="h-7 -ml-5 mt-2" src="./more.png" alt="" />
                 </div>
               </div>
               <div className="mt-2">
@@ -130,7 +110,7 @@ export default function ScopeOfSupply() {
             <div className="rounded-lg shadow-2xl flex flex-row">
               <img
                 className="bg-gray-100 rounded-l-lg h-48 sm:h-auto w-48 sm:w-48 border-8 border-white p-5"
-                src="assets/construction.png"
+                src="./construction.png"
                 alt=""
               />
               <div className="p-3 flex flex-col justify-start">
@@ -140,22 +120,22 @@ export default function ScopeOfSupply() {
                 <div className="flex">
                   <img
                     className="h-8 w-8 rounded-full border border-gray-400"
-                    src="./assets/europe.png"
+                    src="./european-union.png"
                     alt=""
                   />
                   <img
                     className="h-8 w-8 ml-2 rounded-full border border-gray-400"
-                    src="./assets/china.png"
+                    src="./china.png"
                     alt=""
                   />
                   <img
                     className="h-8 w-8 ml-2 rounded-full border border-gray-400"
-                    src="./assets/japan.png"
+                    src="./japan.png"
                     alt=""
                   />
                   <img
                     className="h-8 w-8 ml-2 rounded-full border border-gray-400"
-                    src="./assets/korea.png"
+                    src="./south-korea.png"
                     alt=""
                   />
                 </div>
@@ -163,36 +143,11 @@ export default function ScopeOfSupply() {
                   Brand
                 </h1>
                 <div className="grid mx-auto sm:grid-cols-4 lg:grid-cols-5">
-                  <img
-                    className="h-4 px-2 mt-3"
-                    src="./assets/yamaha.png"
-                    alt=""
-                  />
-                  <img
-                    className="h-4 px-2 mt-3"
-                    src="./assets/vercel.svg"
-                    alt=""
-                  />
-                  <img
-                    className="h-4 px-2 mt-3"
-                    src="./assets/yamaha.png"
-                    alt=""
-                  />
-                  <img
-                    className="h-4 px-2 mt-3"
-                    src="./assets/vercel.svg"
-                    alt=""
-                  />
-                  <img
-                    className="h-4 px-2 mt-3"
-                    src="./assets/vercel.svg"
-                    alt=""
-                  />
-                  <img
-                    className="h-4 px-2 mt-3"
-                    src="./assets/yamaha.png"
-                    alt=""
-                  />
+                  <img className="h-4 px-2 mt-3" src="./yamaha.png" alt="" />
+                  <img className="h-4 px-2 mt-3" src="./vercel.svg" alt="" />
+                  <img className="h-4 px-2 mt-3" src="./scania.png" alt="" />
+                  <img className="h-4 px-2 mt-3" src="./cat.png" alt="" />
+                  <img className="h-7 -ml-5 mt-2" src="./more.png" alt="" />
                 </div>
               </div>
               <div className="mt-2">
@@ -219,7 +174,7 @@ export default function ScopeOfSupply() {
             <div className="rounded-lg shadow-2xl flex flex-row">
               <img
                 className="bg-gray-100 rounded-l-lg h-48 sm:h-auto w-48 sm:w-48 border-8 border-white p-5"
-                src="assets/pump.png"
+                src="./pump.png"
                 alt=""
               />
               <div className="p-3 flex flex-col justify-start">
@@ -229,22 +184,22 @@ export default function ScopeOfSupply() {
                 <div className="flex">
                   <img
                     className="h-8 w-8 rounded-full border border-gray-400"
-                    src="./assets/europe.png"
+                    src="./european-union.png"
                     alt=""
                   />
                   <img
                     className="h-8 w-8 ml-2 rounded-full border border-gray-400"
-                    src="./assets/china.png"
+                    src="./china.png"
                     alt=""
                   />
                   <img
                     className="h-8 w-8 ml-2 rounded-full border border-gray-400"
-                    src="./assets/japan.png"
+                    src="./japan.png"
                     alt=""
                   />
                   <img
                     className="h-8 w-8 ml-2 rounded-full border border-gray-400"
-                    src="./assets/korea.png"
+                    src="./south-korea.png"
                     alt=""
                   />
                 </div>
@@ -252,36 +207,11 @@ export default function ScopeOfSupply() {
                   Brand
                 </h1>
                 <div className="grid mx-auto sm:grid-cols-4 lg:grid-cols-5">
-                  <img
-                    className="h-4 px-2 mt-3"
-                    src="./assets/yamaha.png"
-                    alt=""
-                  />
-                  <img
-                    className="h-4 px-2 mt-3"
-                    src="./assets/vercel.svg"
-                    alt=""
-                  />
-                  <img
-                    className="h-4 px-2 mt-3"
-                    src="./assets/yamaha.png"
-                    alt=""
-                  />
-                  <img
-                    className="h-4 px-2 mt-3"
-                    src="./assets/vercel.svg"
-                    alt=""
-                  />
-                  <img
-                    className="h-4 px-2 mt-3"
-                    src="./assets/vercel.svg"
-                    alt=""
-                  />
-                  <img
-                    className="h-4 px-2 mt-3"
-                    src="./assets/yamaha.png"
-                    alt=""
-                  />
+                  <img className="h-4 px-2 mt-3" src="./yamaha.png" alt="" />
+                  <img className="h-4 px-2 mt-3" src="./vercel.svg" alt="" />
+                  <img className="h-4 px-2 mt-3" src="./scania.png" alt="" />
+                  <img className="h-4 px-2 mt-3" src="./cat.png" alt="" />
+                  <img className="h-7 -ml-5 mt-2" src="./more.png" alt="" />
                 </div>
               </div>
               <div className="mt-2">
