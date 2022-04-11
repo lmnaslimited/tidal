@@ -93,10 +93,9 @@ export default function AboutUs() {
                 </h2>
               </div>
               <div className="lg:w-1/2 md:ml-16">
-                <p className="font-sans font-medium text-3xl">
-                  Customer satisfaction is essential and
-                  <span className="text-indigo-800"> hardwork</span> is the key
-                  ingredient
+                <p className="font-sans font-medium text-4xl">
+                We provide Services on board of Marine Equipment & ship spare parts all around the world with 
+               <span className="text-indigo-800"> 100% Customer satisfication </span>
                 </p>
               </div>
             </div>
@@ -136,31 +135,30 @@ export default function AboutUs() {
               <span className="text-purple-700">Tidal</span> Groups
             </h2>
             <p className="text-base text-gray-700 md:text-lg">
-              we have big this canvas in front of us, we wish to paint it with
-              great colours and perspectives.
+            We ensure in the simplest way the export of Marine Equipments through Logistics even in the most difficult situations that a ship will face.
+We will be the bridge between the customer satisfaction and logistics movements. 
+
             </p>
           </div>
           <div className="grid gap-8 row-gap-12 lg:grid-cols-2 mt-10">
             <div className="max-w-md sm:mx-auto sm:text-center">
               <h6 className="inline-block px-3 py-px mb-4 text-lg font-semibold tracking-wider text-white uppercase rounded-full bg-purple-700">
-                Our today
+                MISSION
               </h6>
-              <p className="mb-3 text-lg font-light text-gray-900">
-                Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-                accusantium rem aperiam, eaque ipsa quae. Sed ut perspiciatis
-                unde omnis iste natus error sit voluptatem accusantium
-                doloremque.
+              <p className="mb-3 text-lg font-semibold text-gray-900">
+              We will ship the Marine Equipments & ship spare to each and every part of the world.
+
               </p>
             </div>
             <div className="max-w-md sm:mx-auto sm:text-center">
               <h6 className="inline-block px-3 py-px mb-4 text-lg font-semibold tracking-wider text-white uppercase rounded-full bg-purple-700">
-                Our tomorrow
+               VISION
               </h6>
-              <p className="mb-3 text-lg font-light text-gray-900">
-                Yolo ipsum dolor sit amet, consectetur adipiscing elit. Ut ac
-                suscipit leo. Carpe diem vulputate est nec commodo rutrum.
-                Pellentesque mattis convallis nisi eu and I aint stoppin until
-                the swear jars full.
+              <p className="mb-3 text-lg font-semibold text-gray-900">
+              "Company products we will Travel all around the Sea"
+             "Company we will conquer the ocean "
+            "BY 2025 Company will be the father of Ocean Logistics Network"
+ 
               </p>
             </div>
           </div>
@@ -171,20 +169,17 @@ export default function AboutUs() {
           <div className="flex flex-col lg:flex-row">
             <div className="mb-6 lg:mb-0 lg:w-1/2 lg:pr-5">
               <h2 className="font- text-xl font-bold tracking-tight text-gray-900 sm:text-5xl sm:leading-none">
-                Our growth
-                <br className="hidden md:block" />
-                towards
+               OUR COMPANY
                 <span className="relative inline-block px-2">
                   <div className="absolute inset-0 transform -skew-x-12 bg-purple-700"></div>
-                  <span className="relative text-white">The success</span>
+                  <span className="relative text-white">GOAL</span>
                 </span>
               </h2>
             </div>
             <div className="lg:w-1/2">
-              <p className="text-base text-gray-700 font-light text-xl">
-                Our industrial experties, transparent deals, fast delivery,
-                customer based approach and most importantly a zero defect range
-                of products has assisted us to the success we target to acheive
+              <p className="text-base text-gray-700 font-semibold text-xl">
+              We are coming to a new generation that B2B or B2C opinion consume away.
+              The new Ideology is the H2H, Human to Human and I believe on this, "WHat and How you offer to humanity, to our Earth?".
               </p>
             </div>
           </div>

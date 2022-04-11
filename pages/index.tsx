@@ -10,6 +10,7 @@ import Country from '../components/country'
 import Steps from '../components/steps'
 import Insurance from '../components/insurance'
 import Brands from '../components/brands'
+import Clients from "../components/client"
 
 
 export default function Home() {
@@ -33,6 +34,7 @@ export default function Home() {
       <Steps />
       <Insurance />
       <Brands/>
+      <Clients/>
       <Contact />
       <Footer />
     </div>
