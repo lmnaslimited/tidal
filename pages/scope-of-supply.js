@@ -60,11 +60,11 @@ export default function ScopeOfSupply() {
                     src="./european-union.png"
                     alt=""
                   />
-                <div className="grid mx-auto gap-1 sm:grid-cols-4 lg:grid-cols-5">
-                  <img className="h-8 w-8 rounded-full border border-gray-400 ml-4" src="./brands/matsubara-238x238.png" alt="" />
-                  <img className="h-4 ml-2 mt-2" src="./vercel.svg" alt="" />
-                  <img className="h-4 ml-2 mt-2" src="./scania.png" alt="" />
-                  <img className="h-4 ml-2 mt-2" src="./cat.png" alt="" />
+                <div className="grid mx-auto gap-1 sm:grid-cols-6 lg:grid-cols-5">
+                  <img className="h-8 w-8 rounded-full border border-gray-400 ml-4" src="./clients/matsubara-238x238.png" alt="" />
+                  <img className="h-4 xl:ml-2 md:ml-6 mt-2" src="./vercel.svg" alt="" />
+                  <img className="h-4 xl:ml-2 md:ml-6  mt-2" src="./scania.png" alt="" />
+                  <img className="h-4 xl:ml-2 md:ml-6 mt-2" src="./cat.png" alt="" />
                   <img className="h-4 -ml-5 mt-2" src="./more.png" alt="" />
                 </div>
                 </div>

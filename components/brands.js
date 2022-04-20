@@ -13,7 +13,7 @@ export default function brands() {
                 <div className="grid grid-cols-11 gap-8 text-center lg:grid-cols-11 mx-4">
                 <div className="px-3">
                     <Image
-                        src='/clients/sulzer-logo-238x238.png'
+                        src='/Brands/sulzer-logo-238x238.png'
                         height='100'
                         width='100'
                         className="absolute inset-0 w-full h-full object-center border-gray-200"
@@ -21,7 +21,7 @@ export default function brands() {
                 </div>
                 <div className="px-3">
                     <Image
-                        src='/clients/Kawasaki-Logo-238x238.png'
+                        src='/Brands/Kawasaki-Logo-238x238.png'
                         height='100'
                         width='100'
                         className="absolute inset-0 w-full h-full object-center border-gray-200"
@@ -29,7 +29,7 @@ export default function brands() {
                 </div>
                 <div className="px-3">
                     <Image
-                        src='/clients/makita-logo-238x238.png'
+                        src='/Brands/makita-logo-238x238.png'
                         height='100'
                         width='100'
                         className="absolute inset-0 w-full h-full object-center border-gray-200"
@@ -37,7 +37,7 @@ export default function brands() {
                 </div>
                 <div className="px-3">
                     <Image
-                        src='/clients/Mitsubishi-logo-238x238.png'
+                        src='/Brands/Mitsubishi-logo-238x238.png'
                         height='100'
                         width='100'
                         className="absolute inset-0 w-full h-full object-center border-gray-200"
@@ -45,7 +45,7 @@ export default function brands() {
                 </div>
                 <div className="px-3">
                     <Image
-                        src='/clients/hyundai-logo-238x238.png'
+                        src='/Brands/hyundai-logo-238x238.png'
                         height='100'
                         width='100'
                         className="absolute inset-0 w-full h-full object-center border-gray-200"
@@ -53,7 +53,7 @@ export default function brands() {
                 </div>
                 <div className="px-3">
                     <Image
-                        src='/clients/doosan-logo-238x238.png'
+                        src='/Brands/doosan-logo-238x238.png'
                         height='100'
                         width='100'
                         className="absolute inset-0 w-full h-full object-center border-gray-200"
@@ -61,7 +61,7 @@ export default function brands() {
                 </div>
                 <div className="px-3">
                     <Image
-                        src='/clients/diesel-logo-238x238.png'
+                        src='/Brands/diesel-logo-238x238.png'
                         height='100'
                         width='100'
                         className="absolute inset-0 w-full h-full object-center border-gray-200"
@@ -69,7 +69,7 @@ export default function brands() {
                 </div>
                 <div className="px-3">
                     <Image
-                        src='/clients/yanmar-logo-238x238.png'
+                        src='/Brands/yanmar-logo-238x238.png'
                         height='100'
                         width='100'
                         className="absolute inset-0 w-full h-full object-center border-gray-200"
@@ -77,7 +77,7 @@ export default function brands() {
                 </div>
                 <div className="px-3">
                     <Image
-                        src='/clients/caterpillar-logo-238x238.png'
+                        src='/Brands/caterpillar-logo-238x238.png'
                         height='100'
                         width='100'
                         className="absolute inset-0 w-full h-full object-center border-gray-200"
@@ -85,7 +85,7 @@ export default function brands() {
                 </div>
                 <div className="px-3 mt-2">
                     <Image
-                        src='/clients/tamrotor-logo-238x238.png'
+                        src='/Brands/tamrotor-logo-238x238.png'
                         height='100'
                         width='100'
                         className="absolute inset-0 w-full h-full object-center border-gray-200"
@@ -93,7 +93,7 @@ export default function brands() {
                 </div>
                 <div className="px-3">
                     <Image
-                        src='/clients/teikoku-logo-238x238.png'
+                        src='/Brands/teikoku-logo-238x238.png'
                         height='100'
                         width='100'
                         className="absolute inset-0 w-full h-full object-center border-gray-200"

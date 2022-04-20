@@ -1,7 +1,7 @@
 import Service from '../components/service'
 export default function services(){
     return (
-        <div className="xl:w-3/5 md:w-3/4 w-3/5 p-4 ">
+        <div className="xl:w-3/5 md:w-3/4  p-4 ">
           <div className="border border-gray-200 p-6 rounded-lg lg:shadow-xl   bg-white  -mt-20 ">
             <div className="flex flex-wrap -m-4">
               <Service icon="/engine.png" title="Main Engines" />

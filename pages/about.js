@@ -56,7 +56,7 @@ export default function AboutUs() {
           <div className="px-4 py-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-20">
             <div className="flex flex-col mb-6 lg:flex-row md:mb-10">
               <div className="lg:w-1/2">
-                <h2 className="max-w-lg mb-6 font-sans text-5xl font-bold leading-none tracking-tight text-gray-900 sm:text-6xl md:mx-auto">
+                <h2 className="max-w-lg mb-6 font-sans text-3xl md:text-5xl font-bold leading-none tracking-tight text-gray-900 sm:text-6xl md:mx-auto">
                   <span className="relative inline-block">
                     <svg
                       viewBox="0 0 52 24"
@@ -80,10 +80,10 @@ export default function AboutUs() {
                         height="24"
                       ></rect>
                     </svg>
-                    <span className="relative">The</span>
+                    <span className="relative mr-2">The</span>
                   </span>
-                  things to <br className="hidden md:block" />
-                  know
+                   <br className="hidden md:block" />
+                   things to know
                   <span className="relative px-1">
                     <div className="absolute inset-x-0 bottom-0 h-4 transform -skew-x-12 bg--800"></div>
                     <span className="relative inline-block text-indigo-800">
@@ -93,7 +93,7 @@ export default function AboutUs() {
                 </h2>
               </div>
               <div className="lg:w-1/2 md:ml-16">
-                <p className="font-sans font-medium text-4xl">
+                <p className="font-sans font-medium text-2xl md:text-4xl">
                 We provide Services on board of Marine Equipment & ship spare parts all around the world with 
                <span className="text-indigo-800"> 100% Customer satisfication </span>
                 </p>
@@ -105,7 +105,7 @@ export default function AboutUs() {
       <section className="text-gray-600 body-font overflow-hidden">
         <div className="px-4 py-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-20">
           <div className="max-w-xl mb-10 md:mx-auto sm:text-center lg:max-w-2xl md:mb-12">
-            <h2 className="max-w-lg mb-6 font-sans font-bold leading-none tracking-tight text-gray-900 text-5xl md:mx-auto">
+            <h2 className="max-w-lg mb-6 font-sans font-bold leading-none tracking-tight text-gray-900 text-3xl md:text-5xl md:mx-auto">
               <span className="relative inline-block">
                 <svg
                   viewBox="0 0 52 24"
@@ -129,7 +129,7 @@ export default function AboutUs() {
                     height="24"
                   ></rect>
                 </svg>
-                <span className="relative">The</span>
+                <span className="relative mr-2">The</span>
               </span>
               journey of <br />
               <span className="text-purple-700">Tidal</span> Groups
@@ -190,7 +190,7 @@ We will be the bridge between the customer satisfaction and logistics movements.
         <div className="max-w-xl mb-10 md:mx-auto sm:text-center lg:max-w-2xl md:mb-12">
           <div>
             <p className="inline-block px-3 py-px mb-4 text-lg font-semibold tracking-wider text-white uppercase rounded-full bg-purple-700">
-              Core Team
+              Core Values
             </p>
           </div>
           <h2 className="max-w-lg mb-6 font-sans text-3xl font-bold leading-none tracking-tight text-gray-900 sm:text-4xl md:mx-auto">
@@ -217,9 +217,9 @@ We will be the bridge between the customer satisfaction and logistics movements.
                   height="24"
                 ></rect>
               </svg>
-              <span className="relative">Welcome</span>
+              <span className="relative mr-2">Core values</span>
             </span>
-            our talented team of professionals
+            of our company
           </h2>
           <p className="text-base text-white md:text-xl">
             we are the few you will be in touch with through out the process
@@ -231,138 +231,61 @@ We will be the bridge between the customer satisfaction and logistics movements.
             <div className="relative w-full h-48 max-h-full rounded shadow sm:h-auto">
               <img
                 className="absolute object-cover w-full h-full rounded"
-                src="https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=3&amp;h=750&amp;w=1260"
+                src="/about/identify-1200x800.jpg"
                 alt="Person"
               />
             </div>
             <div className="flex flex-col justify-center mt-5 sm:mt-0 sm:p-5 sm:col-span-2">
-              <p className="text-lg font-bold">Oliver Aguilerra</p>
-              <p className="mb-4 text-xs text-gray-800">Product Manager</p>
+              <p className="text-lg font-bold">IDENTIFYING</p>
               <p className="mb-4 text-sm tracking-wide text-gray-800">
-                Vincent Van Gogh's most popular painting, The Starry Night.
+              We are a trusted name in the marine industry and deal in Japanese, Korean and European spare parts
               </p>
-              <div className="flex items-center space-x-3">
-                <a
-                  href="/"
-                  className="text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400"
-                >
-                  <svg viewBox="0 0 24 24" fill="currentColor" className="h-5">
-                    <path d="M24,4.6c-0.9,0.4-1.8,0.7-2.8,0.8c1-0.6,1.8-1.6,2.2-2.7c-1,0.6-2,1-3.1,1.2c-0.9-1-2.2-1.6-3.6-1.6 c-2.7,0-4.9,2.2-4.9,4.9c0,0.4,0,0.8,0.1,1.1C7.7,8.1,4.1,6.1,1.7,3.1C1.2,3.9,1,4.7,1,5.6c0,1.7,0.9,3.2,2.2,4.1 C2.4,9.7,1.6,9.5,1,9.1c0,0,0,0,0,0.1c0,2.4,1.7,4.4,3.9,4.8c-0.4,0.1-0.8,0.2-1.3,0.2c-0.3,0-0.6,0-0.9-0.1c0.6,2,2.4,3.4,4.6,3.4 c-1.7,1.3-3.8,2.1-6.1,2.1c-0.4,0-0.8,0-1.2-0.1c2.2,1.4,4.8,2.2,7.5,2.2c9.1,0,14-7.5,14-14c0-0.2,0-0.4,0-0.6 C22.5,6.4,23.3,5.5,24,4.6z"></path>
-                  </svg>
-                </a>
-                <a
-                  href="/"
-                  className="text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400"
-                >
-                  <svg viewBox="0 0 24 24" fill="currentColor" className="h-5">
-                    <path d="M22,0H2C0.895,0,0,0.895,0,2v20c0,1.105,0.895,2,2,2h11v-9h-3v-4h3V8.413c0-3.1,1.893-4.788,4.659-4.788 c1.325,0,2.463,0.099,2.795,0.143v3.24l-1.918,0.001c-1.504,0-1.795,0.715-1.795,1.763V11h4.44l-1,4h-3.44v9H22c1.105,0,2-0.895,2-2 V2C24,0.895,23.105,0,22,0z"></path>
-                  </svg>
-                </a>
-              </div>
+             
             </div>
           </div>
           <div className="grid sm:grid-cols-3">
             <div className="relative w-full h-48 max-h-full rounded shadow sm:h-auto">
               <img
                 className="absolute object-cover w-full h-full rounded"
-                src="https://images.pexels.com/photos/2381069/pexels-photo-2381069.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=750&amp;w=1260"
+                src="/about/approach-1200x800.jpg"
                 alt="Person"
               />
             </div>
             <div className="flex flex-col justify-center mt-5 sm:mt-0 sm:p-5 sm:col-span-2">
-              <p className="text-lg font-bold">Marta Clermont</p>
-              <p className="mb-4 text-xs text-gray-800">Design Team Lead</p>
+              <p className="text-lg font-bold">APPROACHING</p>
               <p className="mb-4 text-sm tracking-wide text-gray-800">
-                Amet I love liquorice jujubes pudding croissant I love pudding.
+              Our technically trained and competitive workforce strive to not only meet but exceed customers’ expectations.
               </p>
-              <div className="flex items-center space-x-3">
-                <a
-                  href="/"
-                  className="text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400"
-                >
-                  <svg viewBox="0 0 24 24" fill="currentColor" className="h-5">
-                    <path d="M24,4.6c-0.9,0.4-1.8,0.7-2.8,0.8c1-0.6,1.8-1.6,2.2-2.7c-1,0.6-2,1-3.1,1.2c-0.9-1-2.2-1.6-3.6-1.6 c-2.7,0-4.9,2.2-4.9,4.9c0,0.4,0,0.8,0.1,1.1C7.7,8.1,4.1,6.1,1.7,3.1C1.2,3.9,1,4.7,1,5.6c0,1.7,0.9,3.2,2.2,4.1 C2.4,9.7,1.6,9.5,1,9.1c0,0,0,0,0,0.1c0,2.4,1.7,4.4,3.9,4.8c-0.4,0.1-0.8,0.2-1.3,0.2c-0.3,0-0.6,0-0.9-0.1c0.6,2,2.4,3.4,4.6,3.4 c-1.7,1.3-3.8,2.1-6.1,2.1c-0.4,0-0.8,0-1.2-0.1c2.2,1.4,4.8,2.2,7.5,2.2c9.1,0,14-7.5,14-14c0-0.2,0-0.4,0-0.6 C22.5,6.4,23.3,5.5,24,4.6z"></path>
-                  </svg>
-                </a>
-                <a
-                  href="/"
-                  className="text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400"
-                >
-                  <svg viewBox="0 0 24 24" fill="currentColor" className="h-5">
-                    <path d="M22,0H2C0.895,0,0,0.895,0,2v20c0,1.105,0.895,2,2,2h11v-9h-3v-4h3V8.413c0-3.1,1.893-4.788,4.659-4.788 c1.325,0,2.463,0.099,2.795,0.143v3.24l-1.918,0.001c-1.504,0-1.795,0.715-1.795,1.763V11h4.44l-1,4h-3.44v9H22c1.105,0,2-0.895,2-2 V2C24,0.895,23.105,0,22,0z"></path>
-                  </svg>
-                </a>
-              </div>
             </div>
           </div>
           <div className="grid sm:grid-cols-3">
             <div className="relative w-full h-48 max-h-full rounded shadow sm:h-auto">
               <img
                 className="absolute object-cover w-full h-full rounded"
-                src="https://images.pexels.com/photos/3747435/pexels-photo-3747435.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=750&amp;w=1260"
+                src="/about/recognize-1200x800.jpg"
                 alt="Person"
               />
             </div>
             <div className="flex flex-col justify-center mt-5 sm:mt-0 sm:p-5 sm:col-span-2">
-              <p className="text-lg font-bold">Alice Melbourne</p>
-              <p className="mb-4 text-xs text-gray-800">Human Resources</p>
+              <p className="text-lg font-bold">RECOGNIZING</p>
               <p className="mb-4 text-sm tracking-wide text-gray-800">
-                Lorizzle ipsum bling bling sit amizzle, consectetuer adipiscing
-                elit.
+              We are one of the most reliable suppliers, successfully serving our customers worldwide for years.
               </p>
-              <div className="flex items-center space-x-3">
-                <a
-                  href="/"
-                  className="text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400"
-                >
-                  <svg viewBox="0 0 24 24" fill="currentColor" className="h-5">
-                    <path d="M24,4.6c-0.9,0.4-1.8,0.7-2.8,0.8c1-0.6,1.8-1.6,2.2-2.7c-1,0.6-2,1-3.1,1.2c-0.9-1-2.2-1.6-3.6-1.6 c-2.7,0-4.9,2.2-4.9,4.9c0,0.4,0,0.8,0.1,1.1C7.7,8.1,4.1,6.1,1.7,3.1C1.2,3.9,1,4.7,1,5.6c0,1.7,0.9,3.2,2.2,4.1 C2.4,9.7,1.6,9.5,1,9.1c0,0,0,0,0,0.1c0,2.4,1.7,4.4,3.9,4.8c-0.4,0.1-0.8,0.2-1.3,0.2c-0.3,0-0.6,0-0.9-0.1c0.6,2,2.4,3.4,4.6,3.4 c-1.7,1.3-3.8,2.1-6.1,2.1c-0.4,0-0.8,0-1.2-0.1c2.2,1.4,4.8,2.2,7.5,2.2c9.1,0,14-7.5,14-14c0-0.2,0-0.4,0-0.6 C22.5,6.4,23.3,5.5,24,4.6z"></path>
-                  </svg>
-                </a>
-                <a
-                  href="/"
-                  className="text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400"
-                >
-                  <svg viewBox="0 0 24 24" fill="currentColor" className="h-5">
-                    <path d="M22,0H2C0.895,0,0,0.895,0,2v20c0,1.105,0.895,2,2,2h11v-9h-3v-4h3V8.413c0-3.1,1.893-4.788,4.659-4.788 c1.325,0,2.463,0.099,2.795,0.143v3.24l-1.918,0.001c-1.504,0-1.795,0.715-1.795,1.763V11h4.44l-1,4h-3.44v9H22c1.105,0,2-0.895,2-2 V2C24,0.895,23.105,0,22,0z"></path>
-                  </svg>
-                </a>
-              </div>
             </div>
           </div>
           <div className="grid sm:grid-cols-3">
             <div className="relative w-full h-48 max-h-full rounded shadow sm:h-auto">
               <img
                 className="absolute object-cover w-full h-full rounded"
-                src="https://images.pexels.com/photos/3931603/pexels-photo-3931603.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=750&amp;w=1260"
+                src="/about/customer-1200x800.jpg"
                 alt="Person"
               />
             </div>
             <div className="flex flex-col justify-center mt-5 sm:mt-0 sm:p-5 sm:col-span-2">
-              <p className="text-lg font-bold">John Doe</p>
-              <p className="mb-4 text-xs text-gray-800">Good guy</p>
+              <p className="text-lg font-bold">CUSTOMER SATISFICATION</p>
               <p className="mb-4 text-sm tracking-wide text-gray-800">
-                Bacon ipsum dolor sit amet salami jowl corned beef, andouille
-                flank.
+               we have a 100% client satisfaction, customer satisfication is prior to our company
               </p>
-              <div className="flex items-center space-x-3">
-                <a
-                  href="/"
-                  className="text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400"
-                >
-                  <svg viewBox="0 0 24 24" fill="currentColor" className="h-5">
-                    <path d="M24,4.6c-0.9,0.4-1.8,0.7-2.8,0.8c1-0.6,1.8-1.6,2.2-2.7c-1,0.6-2,1-3.1,1.2c-0.9-1-2.2-1.6-3.6-1.6 c-2.7,0-4.9,2.2-4.9,4.9c0,0.4,0,0.8,0.1,1.1C7.7,8.1,4.1,6.1,1.7,3.1C1.2,3.9,1,4.7,1,5.6c0,1.7,0.9,3.2,2.2,4.1 C2.4,9.7,1.6,9.5,1,9.1c0,0,0,0,0,0.1c0,2.4,1.7,4.4,3.9,4.8c-0.4,0.1-0.8,0.2-1.3,0.2c-0.3,0-0.6,0-0.9-0.1c0.6,2,2.4,3.4,4.6,3.4 c-1.7,1.3-3.8,2.1-6.1,2.1c-0.4,0-0.8,0-1.2-0.1c2.2,1.4,4.8,2.2,7.5,2.2c9.1,0,14-7.5,14-14c0-0.2,0-0.4,0-0.6 C22.5,6.4,23.3,5.5,24,4.6z"></path>
-                  </svg>
-                </a>
-                <a
-                  href="/"
-                  className="text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400"
-                >
-                  <svg viewBox="0 0 24 24" fill="currentColor" className="h-5">
-                    <path d="M22,0H2C0.895,0,0,0.895,0,2v20c0,1.105,0.895,2,2,2h11v-9h-3v-4h3V8.413c0-3.1,1.893-4.788,4.659-4.788 c1.325,0,2.463,0.099,2.795,0.143v3.24l-1.918,0.001c-1.504,0-1.795,0.715-1.795,1.763V11h4.44l-1,4h-3.44v9H22c1.105,0,2-0.895,2-2 V2C24,0.895,23.105,0,22,0z"></path>
-                  </svg>
-                </a>
-              </div>
             </div>
           </div>
         </div>
