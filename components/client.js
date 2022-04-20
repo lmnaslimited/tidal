@@ -1,16 +1,107 @@
 import Marquee from "react-fast-marquee";
-export default function Clients() {
+import Image from 'next/image'
+export default function client() {
     return (
-        <section className="lg:mx-40 md:mx-8 mx-2 h-60 md:mb-10">
-            <div className="flex flex-col text-center w-full mb-20">
-                <h1 className="sm:text-3xl text-2xl font-medium title-font mb-4 text-th-primary-medium">Trusted by Global Clients, Built by Us
+        <section className="mx-10 bg-sky-50 shadow-xl md:my-20 my-10 p-3">
+             <div className="flex flex-col text-center w-full mb-20">
+                <h1 className="sm:text-3xl text-2xl font-medium title-font mb-4 ">Trusted by Global brands, Built by Us
                 </h1>
-                <p className="lg:w-2/3 mx-auto text-th-primary-dark leading-relaxed md:text-lg text-base">Our Client Speak our values.
+                <p className="lg:w-2/3 text-indigo-500 font-semibold mx-auto  leading-relaxed md:text-lg text-base">Our Client Speak our values.
                 </p>
             </div>
-            <Marquee gradientWidth="150" pauseOnHover>
-                <div className="grid grid-cols-3 gap-8 text-center lg:grid-cols-5 mx-4">
-                   
+            <Marquee gradientWidth="150" reverse>
+                <div className="grid grid-cols-11 gap-8 text-center lg:grid-cols-11 mx-4">
+                <div className="px-3">
+                    <Image
+                        src='/brands/p13.png'
+                        height='100'
+                        width='100'
+                        className="absolute inset-0 w-full h-full object-center border-gray-200"
+                    />
+                </div>
+                <div className="px-3">
+                    <Image
+                        src='/brands/p18.png'
+                        height='100'
+                        width='100'
+                        className="absolute inset-0 w-full h-full border-gray-200"
+                    />
+                </div>
+                <div className="px-3">
+
+                    <Image
+                        src='/brands/p15.png'
+                        height='100'
+                        width='100'
+                        className="absolute inset-0 w-full h-full  border-gray-200"
+                    />
+                </div>
+                <div className="px-3">
+
+                    <Image
+                        src='/brands/p16.png'
+                        height='100'
+                        width='100'
+                        className="absolute inset-0 w-full h-full object-cover object-center border-gray-200"
+                    />
+                </div>
+                <div className="px-3">
+                  <Image
+                      src='/brands/p17.png'
+                      height='100'
+                      width='100'
+                      className="absolute inset-0 w-full h-full object-cover object-center border-gray-200"
+                    />
+                </div>
+                <div className="px-3">
+                  <Image
+                      src='/brands/partner11.png'
+                      height='100'
+                      width='100'
+                      className="absolute inset-0 w-full h-full object-cover object-center border-gray-200"
+                    />
+                </div>
+                <div className="px-3">
+                  <Image
+                      src='/brands/partner6.png'
+                      height='100'
+                      width='100'
+                      className="absolute inset-0 w-full h-full object-cover object-center border-gray-200"
+                    />
+                </div>
+                <div className="px-3">
+                  <Image
+                      src='/brands/partner7.png'
+                      height='100'
+                      width='100'
+                      className="absolute inset-0 w-full h-full object-cover object-center border-gray-200"
+                    />
+                </div>
+                <div className="px-3">
+                  <Image
+                      src='/brands/partner8.png'
+                      height='100'
+                      width='100'
+                      className="absolute inset-0 w-full h-full object-cover object-center border-gray-200"
+                    />
+                </div>
+                <div className="px-3">
+                  <Image
+                      src='/brands/brand2.png'
+                      height='100'
+                      width='100'
+                      className="absolute inset-0 w-full h-full object-cover object-center border-gray-200"
+                    />
+                </div>
+                <div className="px-3">
+                  <Image
+                      src='/brands/brand3.png'
+                      height='100'
+                      width='100'
+                      className="absolute inset-0 w-full h-full object-cover object-center border-gray-200"
+                    />
+                </div>
+               
                 </div>
             </Marquee>
         </section>

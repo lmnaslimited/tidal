@@ -2,7 +2,7 @@ import Pattern from '../components/pattern'
 export default function steps() {
     return (
         <div className=" p-28 bg-white">
-            <div className="border border-gray-200  rounded-lg  bg-sky-50 ">
+            <div className="border border-gray-200 flex rounded-lg  bg-sky-50 ">
                 <section className="text-gray-600 body-font">
                     <div className="container px-5 py-24 mx-auto flex flex-wrap">
                         <div className="flex relative pt-10 pb-20 sm:items-center md:w-2/3 mx-auto">
@@ -11,15 +11,15 @@ export default function steps() {
                             </div>
                             <div className="flex-shrink-0 w-6 h-6 rounded-full mt-10 sm:mt-0 inline-flex items-center justify-center bg-indigo-500 text-white relative z-10 title-font font-medium text-sm">1</div>
                             <div className="flex-grow md:pl-8 pl-6 flex sm:items-center items-start flex-col sm:flex-row">
-                                <div className="flex-shrink-0 w-24 h-24 bg-indigo-100 text-indigo-500 rounded-full inline-flex items-center justify-center">
-                                    <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" className="w-12 h-12" viewBox="0 0 24 24">
+                                <div className="flex-shrink-0 w-8 h-8 md:w-24 md:h-24 bg-indigo-100 text-indigo-500 rounded-full inline-flex items-center justify-center">
+                                    <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" className="w-4 h-4 md:w-12 md:h-12" viewBox="0 0 24 24">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
                                     </svg>
 
 
                                 </div>
                                 <div className="flex-grow sm:pl-6 mt-6 sm:mt-0">
-                                    <h2 className="font-medium title-font text-gray-900 mb-1 text-xl">Search Product</h2>
+                                    <h2 className="font-medium title-font text-gray-900 mb-1   md:text-xl">Search Product</h2>
                                     <p className="leading-relaxed">VHS cornhole pop-up, try-hard 8-bit iceland helvetica. Kinfolk bespoke try-hard cliche palo santo offal.</p>
                                 </div>
                             </div>

@@ -147,6 +147,7 @@ We will be the bridge between the customer satisfaction and logistics movements.
               </h6>
               <p className="mb-3 text-lg font-semibold text-gray-900">
               We will ship the Marine Equipments & ship spare to each and every part of the world.
+              The commitment guarantee we offer our clients is based on the strength of our company.
 
               </p>
             </div>
