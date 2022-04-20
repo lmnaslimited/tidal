@@ -43,7 +43,7 @@ export default function ScopeOfSupply() {
       <section className="py-5">
         <div className="py-10 flex item-center justify-center">
           <div className="w-4/5 md:w-2/4">
-            <div className="rounded-lg shadow-lg flex flex-row transform transition hover:scale-105 duration-300 ease-in-out">
+            <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
               <img
                 className="bg-gray-100 rounded-l-lg h-48 sm:h-auto w-60 border-8 border-white p-5 "
                 src="/scope/Air compressor-238x238.png"

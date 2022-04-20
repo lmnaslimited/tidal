@@ -2,7 +2,7 @@ import Marquee from "react-fast-marquee";
 import Image from 'next/image'
 export default function brands() {
     return (
-        <section className="mx-10 bg-sky-50 shadow-xl md:my-20 my-10 p-3">
+        <section className="mx-1 md:mx-10 bg-sky-50 shadow-xl md:my-20 my-10 p-3">
              <div className="flex flex-col text-center w-full mb-20">
                 <h1 className="sm:text-3xl text-2xl font-medium title-font mb-4 text-th-primary-medium">Trusted by Global brands, Built by Us
                 </h1>
