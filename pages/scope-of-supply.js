@@ -3938,6 +3938,7 @@ export default function ScopeOfSupply() {
             </div>
           </div>
         </div>
+         {/**
         <div className="py-5 flex item-center justify-center">
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
             <div className="rounded-lg shadow-2xl flex flex-row">
@@ -4002,6 +4003,7 @@ export default function ScopeOfSupply() {
             </div>
           </div>
         </div>
+  */}
        
       </section>
     </div>
