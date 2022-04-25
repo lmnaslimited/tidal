@@ -93,7 +93,7 @@ export default function AboutUs() {
                 </h2>
               </div>
               <div className="lg:w-1/2 md:ml-16">
-                <p className="font-sans font-medium text-2xl md:text-4xl">
+                <p className="font-sans font-medium text-2xl lg:text-2xl">
                 We provide Services on board of Marine Equipment & ship spare parts all around the world with 
                <span className="text-indigo-800"> 100% Customer satisfication </span>
                 </p>
@@ -226,16 +226,17 @@ We will be the bridge between the customer satisfaction and logistics movements.
             from start to end
           </p>
         </div>
-        <div className="grid gap-10 mx-auto lg:grid-cols-2 lg:max-w-screen-lg lg:ml-36">
+        <div className="grid gap-10 mx-auto  lg:grid-cols-2 lg:max-w-screen-lg lg:ml-36">
           <div className="grid sm:grid-cols-3">
+  
             <div className="relative w-full h-48 max-h-full rounded shadow sm:h-auto">
-              <img
-                className="absolute object-cover w-full h-full rounded"
-                src="/about/identify-1200x800.jpg"
+            <img
+                className=" object-cover border-2 border-gray-200 bg-gray-200 w-full h-full rounded"
+                src="/about/identify-1200x800.png"
                 alt="Person"
               />
             </div>
-            <div className="flex flex-col justify-center mt-5 sm:mt-0 sm:p-5 sm:col-span-2">
+            <div className="flex flex-col border-8 border-gray-200 justify-center mt-5 sm:mt-0 sm:p-5 sm:col-span-2">
               <p className="text-lg font-bold">IDENTIFYING</p>
               <p className="mb-4 text-sm tracking-wide text-gray-800">
               We are a trusted name in the marine industry and deal in Japanese, Korean and European spare parts
@@ -244,14 +245,16 @@ We will be the bridge between the customer satisfaction and logistics movements.
             </div>
           </div>
           <div className="grid sm:grid-cols-3">
+          
             <div className="relative w-full h-48 max-h-full rounded shadow sm:h-auto">
               <img
-                className="absolute object-cover w-full h-full rounded"
-                src="/about/approach-1200x800.jpg"
+                className="absolute object-cover bg-gray-200 w-full h-full rounded"
+                src="/about/approach-1200x800.png"
                 alt="Person"
               />
+              
             </div>
-            <div className="flex flex-col justify-center mt-5 sm:mt-0 sm:p-5 sm:col-span-2">
+            <div className="flex flex-col border-8 border-gray-200 justify-center mt-5 sm:mt-0 sm:p-5 sm:col-span-2">
               <p className="text-lg font-bold">APPROACHING</p>
               <p className="mb-4 text-sm tracking-wide text-gray-800">
               Our technically trained and competitive workforce strive to not only meet but exceed customers’ expectations.
@@ -259,14 +262,16 @@ We will be the bridge between the customer satisfaction and logistics movements.
             </div>
           </div>
           <div className="grid sm:grid-cols-3">
+          
             <div className="relative w-full h-48 max-h-full rounded shadow sm:h-auto">
               <img
-                className="absolute object-cover w-full h-full rounded"
-                src="/about/recognize-1200x800.jpg"
+                className="absolute object-cover bg-gray-200 w-full h-full rounded"
+                src="/about/recognize-1200x800.png"
                 alt="Person"
               />
+              
             </div>
-            <div className="flex flex-col justify-center mt-5 sm:mt-0 sm:p-5 sm:col-span-2">
+            <div className="flex flex-col border-8 border-gray-200 justify-center mt-5 sm:mt-0 sm:p-5 sm:col-span-2">
               <p className="text-lg font-bold">RECOGNIZING</p>
               <p className="mb-4 text-sm tracking-wide text-gray-800">
               We are one of the most reliable suppliers, successfully serving our customers worldwide for years.
@@ -274,14 +279,16 @@ We will be the bridge between the customer satisfaction and logistics movements.
             </div>
           </div>
           <div className="grid sm:grid-cols-3">
+          
             <div className="relative w-full h-48 max-h-full rounded shadow sm:h-auto">
               <img
-                className="absolute object-cover w-full h-full rounded"
-                src="/about/customer-1200x800.jpg"
+                className="absolute object-cover w-full bg-gray-200 h-full rounded"
+                src="/about/customer.png"
                 alt="Person"
               />
+            
             </div>
-            <div className="flex flex-col justify-center mt-5 sm:mt-0 sm:p-5 sm:col-span-2">
+            <div className="flex flex-col border-8 border-gray-200 justify-center mt-5 sm:mt-0 sm:p-5 sm:col-span-2">
               <p className="text-lg font-bold">CUSTOMER SATISFICATION</p>
               <p className="mb-4 text-sm tracking-wide text-gray-800">
                we have a 100% client satisfaction, customer satisfication is prior to our company
