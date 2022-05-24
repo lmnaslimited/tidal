@@ -4,9 +4,9 @@ export default function client() {
     return (
         <section className="mx-1 md:mx-10 bg-sky-100 shadow-xl md:my-20 my-10 p-3">
              <div className="flex flex-col text-center w-full mb-20">
-                <h1 className="sm:text-3xl text-2xl font-medium title-font mb-4 ">Trusted by Global clients, Built by Us
+                <h1 className="sm:text-3xl text-2xl font-medium title-font mb-4 ">Trusted by Shipping Partners Built by Us
                 </h1>
-                <p className="lg:w-2/3 text-indigo-500 font-semibold mx-auto  leading-relaxed md:text-lg text-base">Our Client Speak our values.
+                <p className="lg:w-2/3 text-indigo-500 font-semibold mx-auto  leading-relaxed md:text-lg text-base">Our Shipping Partners Speak our values.
                 </p>
             </div>
             <Marquee gradientWidth="150" reverse>

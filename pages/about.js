@@ -13,11 +13,12 @@ export default function AboutUs() {
             >
               <path d="M0,0 C48.8902582,6.27314026 86.2235915,9.40971039 112,9.40971039 C137.776408,9.40971039 175.109742,6.27314026 224,0 L224,12.0441132 L0,12.0441132 L0,0 Z"></path>
             </svg>
-          </div>
+  </div>
           <header className="text-white body-font">
             <div className="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
               <a className="flex title-font font-medium items-center text-gray-900 mb-4 md:mb-0">
-                <svg
+              <img className="w-40 h-16 text-white p-2 " src="/TG logo-01.png"/>
+                {/**<svg
                   xmlns="http://www.w3.org/2000/svg"
                   fill="none"
                   stroke="currentColor"
@@ -28,14 +29,14 @@ export default function AboutUs() {
                   viewBox="0 0 24 24"
                 >
                   <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"></path>
-                </svg>
-                <span className="ml-3 text-xl">Tidal Groups</span>
-              </a>
+  </svg>
+  <span className="ml-3 text-xl">Tidal Groups</span>*/}
+  </a>
               <nav className="md:mr-auto md:ml-4 md:py-1 md:pl-4 md:border-l md:border-gray-400 text-gray-600 flex flex-wrap items-center text-base justify-center">
-                <a className="mr-5 hover:text-gray-900">First Link</a>
-                <a className="mr-5 hover:text-gray-900">Second Link</a>
-                <a className="mr-5 hover:text-gray-900">Third Link</a>
-                <a className="mr-5 hover:text-gray-900">Fourth Link</a>
+                <a href="" className="mr-5 hover:text-gray-900">Home</a>
+                <a className="mr-5 hover:text-gray-900">Marine Spares</a>
+                <a href="/scope-of-supply" className="mr-5 hover:text-gray-900">Scope</a>
+                <a className="mr-5 hover:text-gray-900">Contact</a>
               </nav>
               <button className="inline-flex items-center bg-purple-500 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-700 rounded text-base mt-4 md:mt-0">
                 Get a quote
@@ -80,13 +81,11 @@ export default function AboutUs() {
                         height="24"
                       ></rect>
                     </svg>
-                    <span className="relative mr-2">The</span>
+                    <span className="relative mr-2 ">The things to know</span>
                   </span>
-                   <br className="hidden md:block" />
-                   things to know
-                  <span className="relative px-1">
+                   <span className="relative px-1">
                     <div className="absolute inset-x-0 bottom-0 h-4 transform -skew-x-12 bg--800"></div>
-                    <span className="relative inline-block text-indigo-800">
+                    <span className="relative ml-20 inline-block text-indigo-800">
                       About us.
                     </span>
                   </span>
