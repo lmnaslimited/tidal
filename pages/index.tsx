@@ -34,7 +34,6 @@ export default function Home() {
       <Steps />
       <Insurance />
       <Brands/>
-      <Clients/>
       <Contact />
       <Footer />
     </div>

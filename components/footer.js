@@ -6,7 +6,7 @@ export default function footer(){
                 <img className="w-40 h-16 text-white p-2 " src="/TG logo-01.png"/>
                 </a>
                 <p className="text-sm text-gray-500 sm:ml-4 sm:pl-4 sm:border-l-2 sm:border-gray-200 sm:py-2 sm:mt-0 mt-4">© 2022 Tidal Groups —
-                <a href="https://twitter.com/knyttneve" className="text-gray-600 ml-1" rel="noopener noreferrer" target="_blank">@tidalgroups</a>
+                <a href="" className="text-gray-600 ml-1" rel="noopener noreferrer" target="_blank">@tidalgroups</a>
                 </p>
                 <span className="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">
                 <a className="text-gray-500">

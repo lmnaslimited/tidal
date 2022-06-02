@@ -20,12 +20,12 @@ export default function insurance() {
                             </div>
                             <div className="row ">
                                 <h1 className="flex-grow sm:pr-16 text-2xl font-medium title-font text-gray-900">
-                                    Tidal Group Insurance Protection
+                                    Tidal Group Assurance
                         </h1>
-                                <h2 className="text-sm text-indigo-500 tracking-widest font-medium title-font mb-1">Upto $10,000 insurance coverage for every Order</h2>
+                                <h2 className="text-sm text-indigo-500 tracking-widest font-medium title-font mb-1">We ship the parts straight from the OEM</h2>
                             </div>
 
-                            <button className="flex-shrink-0 text-white bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded text-lg mt-10 sm:mt-0">Know More</button>
+                            <button className="flex-shrink-0 ml-4 text-white bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded text-lg mt-10 sm:mt-0">Know More</button>
 
                         </div>
 

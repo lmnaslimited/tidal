@@ -172,7 +172,7 @@ export default function ScopeOfSupply() {
                   <div className="flex flex-row">
                  
                   <img
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    className="h-8 w-8 mt-2 rounded-full border border-gray-400"
                     src="./japan.png"
                     alt=""
                   />
@@ -256,8 +256,7 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
+                  <img className="h-8" src="/Brands/hudong.png" alt="" />
                   <img className="h-12 " src="/Brands/" alt="" />
                   <img className="h-12" src="/Brands/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
@@ -344,20 +343,19 @@ export default function ScopeOfSupply() {
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
-                <div className="flex flex-row">
+                {/**<div className="flex flex-row">
                   <img
                     className="h-8 w-8 rounded-full border border-gray-400"
                     src="./china.png"
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
+                  <img className="h-8" src="/Brands/hb.png" alt="" />
                   <img className="h-12 " src="/Brands/" alt="" />
                   <img className="h-12" src="/Brands/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
-                </div>
+  </div>*/}
                  
                  <div className="flex flex-row">
                   <img
@@ -439,20 +437,18 @@ export default function ScopeOfSupply() {
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
-                   <div className="flex flex-row">
+                 {/**  <div className="flex flex-row">
                   <img
                     className="h-8 w-8 rounded-full border border-gray-400"
                     src="./china.png"
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
                   <img className="h-12 " src="/Brands/" alt="" />
                   <img className="h-12" src="/Brands/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
-                </div>
+                </div>*/} 
                 
                    <div className="flex flex-row">
                   <img
@@ -540,7 +536,7 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1  className="text-md font-bold ">wuhan marine</h1>
+                  <h1  className="text-md font-bold ">wuhan</h1>
                   <img className="h-12" src="/Brands/" alt="" />
                   <img className="h-12 " src="/Brands/" alt="" />
                   <img className="h-12" src="/Brands/" alt="" />
@@ -555,7 +551,7 @@ export default function ScopeOfSupply() {
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
                   <img className="h-12 -mt-2" src="/Brands/hitachi.svg" alt="" />
-                  <img className="h-12 -mt-2" src="/Brands/kawasaki.svg" alt="" />
+                  <img className="h-12 -mt-2" src="/Brands/kawasaki.png" alt="" />
                   <img className="h-12 -mt-2" src="/Brands/kte.svg" alt="" />
                   <img className="h-12 -mt-2" src="/Brands/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
@@ -617,9 +613,9 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <img className="h-12" src="/Brands/denjet.svg" alt="" />
+                  <img className="h-8" src="/Brands/denjet.svg" alt="" />
                   <img className="h-12" src="/Brands/terasaki.svg" alt="" />
-                  <img className="h-12 " src="/Brands/line.svg" alt="" />
+                  <img className="h-8 " src="/Brands/line.svg" alt="" />
                   <img className="h-12" src="/Brands/yanmar.svg" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
@@ -631,41 +627,34 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <img className="h-8 " src="/Brands/cssc.png" alt="" />
+                  <img className="h-8" src="/Brands/jx.png" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
                 
                   <div className="flex flex-row">
                   <img
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    className="h-8 w-8 rounded-full mt-2 border border-gray-400"
                     src="./japan.png"
                     alt=""
                   />
-                  <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
+                  <div className="flex flex-row grid  mx-4 gap-2 mt-2 grid-cols-5 lg:grid-cols-5">
                   <img className="h-12 -mt-2" src="/Brands/mac.svg" alt="" />
-                  <img className="h-12 -mt-2" src="/Brands/kawasaki.svg" alt="" />
-                  <h1 className="text-md font-bold mt-1">TSUJI</h1>
-                  <h1 className="text-md font-bold mt-1">MHI</h1>
+                  <img className="h-12 -mt-2" src="/Brands/kawasaki.png" alt="" />
                 </div>
                 </div>
                   <div className="flex flex-row">
                   <img
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    className="h-8 w-8 rounded-full mt-2 border border-gray-400"
                     src="./south-korea.png"
                     alt=""
                   />
-                  <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold mt-1">DONGNAM</h1>
-                  <h1 className="text-sm font-bold mt-1 ml-4">TAEKWANG</h1>
-                  <h1 className="text-sm font-bold ml-8 mt-1">ORIENTAL</h1>
-              
-                  <img className="h-12" src="/Brands/" alt="" />
-                  <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
-                </div>
+                  <div className="flex flex-row grid  mx-4 gap-2 mt-2 grid-cols-5 lg:grid-cols-5">
+                  <img className="h-8" src="/Brands/dmc.png" alt="" />
+                  <img className="h-8" src="/Brands/taekwang1.png" alt="" />
+                  <img className="h-8" src="/Brands/oriental.png" alt="" />
+                    </div>
                 </div>
                 </div>
                
@@ -709,52 +698,47 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <img className="h-12" src="/Brands/rollsroye.svg" alt="" />
-                  <h1 className="text-sm font-bold">KOCKS</h1>
-                  <h1 className="text-md font-bold ml-2">NORLIFT</h1>
-                  
+                  <img className="h-10" src="/brand/rolls-royce-logo-250x250.png" alt="" />
+                  <img className="h-10" src="/brand/tts-logo-250x250.png" alt="" />
+                 
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
                    <div className="flex flex-row">
                   <img
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    className="h-8 w-8 mt-2 rounded-full border border-gray-400"
                     src="./china.png"
                     alt=""
                   />
-                  <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  
-                  <h1 className="text-sm font-bold mt-1">NANJING</h1>
-                  <h1 className="text-sm font-bold ml-2 mt-1">WUHAN</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <div className="flex flex-row grid  mx-4 gap-2 mt-2 grid-cols-5 lg:grid-cols-5">
+                  <img className="h-10" src="/brand/cssc-logo-250x250.png" alt="" />
+                  <img className="h-10" src="/brand/jx-logo-250x250.png" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
                 
                  <div className="flex flex-row">
                   <img
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    className="h-8 w-8 mt-2 rounded-full border border-gray-400"
                     src="./japan.png"
                     alt=""
                   />
-                  <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">MHI</h1>
-                  <h1 className="text-sm font-bold">IKNOW</h1>
-                  <img className="h-12 -mt-3" src="/Brands/kawasaki.svg" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <div className="flex flex-row grid  mx-4 gap-2 mt-2  grid-cols-5 lg:grid-cols-5">
+                  <img className="h-10" src="/brand/mitsubishi-logo-250x250.png" alt="" />
+                  <img className="h-10" src="/brand/kawasaki-logo-250x250.png" alt="" />
+                  <img className="h-8" src="/Brands/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
                   <div className="flex flex-row">
                   <img
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    className="h-8 w-8 mt-2 rounded-full border border-gray-400"
                     src="./south-korea.png"
                     alt=""
                   />
-                  <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold mt-1">DONGNAM</h1>
-                  <h1 className="text-sm ml-4 mt-1 font-bold ">ORIENTAL </h1>
+                  <div className="flex flex-row grid  mx-4 gap-2 mt-2 grid-cols-5 lg:grid-cols-5">
+                  <img className="h-10" src="/brand/dmc-logo-250x250.png" alt="" />
+                  <img className="h-10" src="/brand/oriental-logo-250x250.png" alt="" />
                   <img className="h-12 " src="/Brands/" alt="" />
                   <img className="h-12" src="/Brands/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
@@ -802,55 +786,49 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <img className="h-12" src="/Brands/jrcs.svg" alt="" />
-                  <img className="h-12" src="/Brands/terasaki.svg" alt="" />
-                  <img className="h-12 " src="/Brands/line.svg" alt="" />
-                  <img className="h-12" src="/Brands/yanmar.svg" alt="" />
+                 <img className="h-8" src="/brand/abb.png" alt="" />
+                  <img className="h-12" src="/brand/yanmar.svg" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
-                   <div className="flex flex-row">
+                 {/**   <div className="flex flex-row">
                   <img
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    className="h-8 w-8 mt-2 rounded-full border border-gray-400"
                     src="./china.png"
                     alt=""
                   />
-                  <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <div className="flex flex-row grid mt-2 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
+                 <img className="h-12 " src="/brand/" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
-                </div>
+                </div>*/}
                 
                  <div className="flex flex-row">
                   <img
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    className="h-8 w-8 mt-2 rounded-full border border-gray-400"
                     src="./japan.png"
                     alt=""
                   />
-                  <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <h1 className="text-sm font-bold">TAIYO</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <div className="flex flex-row grid  mt-2 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
+                  <img className="h-8" src="/brand/taiyo.png" alt="" />
+                  <img className="h-8" src="/brand/onishi-logo-250x250.png" alt="" />
+                 <img className="h-8" src="/brand/Yokogawa.png" alt="" />
+                 <img className="h-12" src="/Brands/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
                   <div className="flex flex-row">
                   <img
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    className="h-8 w-8 mt-2 rounded-full border border-gray-400"
                     src="./south-korea.png"
                     alt=""
                   />
-                  <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
-                  <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
+                  <div className="flex flex-row grid  mx-4 mt-2 gap-2 grid-cols-5 lg:grid-cols-5">
+                   <img className="h-8" src="/brand/Samgong.png" alt="" />
+                  <img className="h-8" src="/brand/hyosung.png" alt="" />
+                  <img className="h-8" src="/brand/ssangyong.png" alt="" />
+                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
                 </div>
@@ -895,23 +873,21 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <img className="h-12" src="/Brands/jrcs.svg" alt="" />
-                  <img className="h-12" src="/Brands/terasaki.svg" alt="" />
-                  <img className="h-12 " src="/Brands/line.svg" alt="" />
-                  <img className="h-12" src="/Brands/yanmar.svg" alt="" />
+                  <img className="h-8" src="/brand/boll.png" alt="" />
+                  <img className="h-8" src="/brand/twinfilter.png" alt="" />
+                  <img className="h-8" src="/brand/auramarine.png" alt="" />
+                  <img className="h-8 ml-2" src="/brand/donaldson.png" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
                    <div className="flex flex-row">
                   <img
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    className="h-8 w-8 mt-2 rounded-full border border-gray-400"
                     src="./china.png"
                     alt=""
                   />
-                  <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
+                  <div className="flex flex-row grid mt-2 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
+                 <img className="h-8" src="/brand/Zibo-Yonghua.png" alt="" />
                   <img className="h-12" src="/Brands/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
@@ -923,25 +899,22 @@ export default function ScopeOfSupply() {
                     src="./japan.png"
                     alt=""
                   />
-                  <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <div className="flex flex-row grid mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
+                  <img className="h-8" src="/brand/fujifilter.png" alt="" />
+                  <img className="h-8" src="/brand/mizuno.png" alt="" />
+                  <img className="h-8" src="/brand/niikurakogyo.png" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
                   <div className="flex flex-row">
                   <img
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    className="h-8 w-8 mt-2 rounded-full border border-gray-400"
                     src="./south-korea.png"
                     alt=""
                   />
-                  <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <div className="flex flex-row grid mt-2 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
+                 <img className="h-8 " src="/brand/samkun.png" alt="" />
+                  <img className="h-8" src="/brand/jowa.png" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
@@ -987,53 +960,47 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <img className="h-12" src="/Brands/jrcs.svg" alt="" />
-                  <img className="h-12" src="/Brands/terasaki.svg" alt="" />
-                  <img className="h-12 " src="/Brands/line.svg" alt="" />
-                  <img className="h-12" src="/Brands/yanmar.svg" alt="" />
+                  <img className="h-8" src="/brand/autronica.png" alt="" />
+                  <img className="h-8 mt-1" src="/brand/tyco.png" alt="" />
+                  <img className="h-8" src="/brand/kidde.png" alt="" />
+                  <img className="h-8" src="/brand/thornsecurity.png" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
                    <div className="flex flex-row">
                   <img
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    className="h-8 w-8 mt-2 rounded-full border border-gray-400"
                     src="./china.png"
                     alt=""
                   />
-                  <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <div className="flex flex-row grid mt-2 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
+                  <img className="h-8" src="/brand/nittan.png" alt="" />
+                  <img className="h-8" src="/brand/nohmi.png" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
                 
-                 <div className="flex flex-row">
+                {/**  <div className="flex flex-row">
                   <img
                     className="h-8 w-8 rounded-full border border-gray-400"
                     src="./japan.png"
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
+                 <img className="h-12 " src="/Brands/" alt="" />
                   <img className="h-12" src="/Brands/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
-                </div>
+                </div>*/}
                   <div className="flex flex-row">
                   <img
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    className="h-8 w-8 mt-2 rounded-full border border-gray-400"
                     src="./south-korea.png"
                     alt=""
                   />
-                  <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <div className="flex flex-row grid mt-2 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
+                 <img className="h-8" src="/brand/nk.png" alt="" />
+                  <img className="h-10" src="/brand/saracom.png" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
@@ -1079,52 +1046,47 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <img className="h-12" src="/Brands/jrcs.svg" alt="" />
-                  <img className="h-12" src="/Brands/terasaki.svg" alt="" />
-                  <img className="h-12 " src="/Brands/line.svg" alt="" />
-                  <img className="h-12" src="/Brands/yanmar.svg" alt="" />
+                  <img className="h-8" src="/brand/aquametro.png" alt="" />
+                  <img className="h-8" src="/brand/alfalaval.png" alt="" />
+                  <img className="h-12 " src="/brand/kral.png" alt="" />
+                  <img className="h-12" src="/brand/vaf.png" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
-                   <div className="flex flex-row">
+                  {/**<div className="flex flex-row">
                   <img
                     className="h-8 w-8 rounded-full border border-gray-400"
                     src="./china.png"
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
+                 <img className="h-12 " src="/Brands/" alt="" />
                   <img className="h-12" src="/Brands/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
-                </div>
+                </div> */} 
                 
                  <div className="flex flex-row">
                   <img
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    className="h-8 w-8  rounded-full border border-gray-400"
                     src="./japan.png"
                     alt=""
                   />
-                  <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
-                  <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
+                  <div className="flex flex-row grid mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
+                  <img className="h-10" src="/brand/yokogawa.png" alt="" />
+                  <img className="h-8" src="/brand/tokico.png" alt="" />
+                  <img className="h-8" src="/brand/azbil.png" alt="" />
+                 <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
                   <div className="flex flex-row">
                   <img
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    className="h-8 w-8 rounded-full mt-2 border border-gray-400"
                     src="./south-korea.png"
                     alt=""
                   />
-                  <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
+                  <div className="flex flex-row grid mt-2  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
+                  <img className="h-8" src="/brand/daeho.png" alt="" />
                   <img className="h-12" src="/Brands/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
@@ -1171,24 +1133,22 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <img className="h-12" src="/Brands/jrcs.svg" alt="" />
-                  <img className="h-12" src="/Brands/terasaki.svg" alt="" />
-                  <img className="h-12 " src="/Brands/line.svg" alt="" />
-                  <img className="h-12" src="/Brands/yanmar.svg" alt="" />
+                  <img className="h-8" src="/brand/SPX.png" alt="" />
+                  <img className="h-8" src="/brand/alfalaval.png" alt="" />
+                  <img className="h-8 ml-2" src="/brand/gea.png" alt="" />
+                  <img className="h-8 ml-2" src="/brand/tacmina.png" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
                    <div className="flex flex-row">
                   <img
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    className="h-8 w-8 mt-2 rounded-full border border-gray-400"
                     src="./china.png"
                     alt=""
                   />
-                  <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <div className="flex flex-row grid mt-2 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
+                  <img className="h-8" src="/brand/nantongshentong.png" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
@@ -1200,24 +1160,20 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                 <img className="h-8" src="/brand/sasakura.png" alt="" />
+                  <img className="h-8" src="/brand/Miura.png" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
                   <div className="flex flex-row">
                   <img
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    className="h-8 w-8 mt-2 rounded-full border border-gray-400"
                     src="./south-korea.png"
                     alt=""
                   />
-                  <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <div className="flex flex-row grid mt-2 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
+                 <img className="h-8" src="/brand/ilseung.png" alt="" />
+                  <img className="h-8" src="/brand/jowa.png" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
@@ -1263,53 +1219,44 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <img className="h-12" src="/Brands/jrcs.svg" alt="" />
-                  <img className="h-12" src="/Brands/terasaki.svg" alt="" />
-                  <img className="h-12 " src="/Brands/line.svg" alt="" />
-                  <img className="h-12" src="/Brands/yanmar.svg" alt="" />
+                  <img className="h-8" src="/brand/mak.png" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
-                   <div className="flex flex-row">
+                 {/**  <div className="flex flex-row">
                   <img
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    className="h-8 w-8 rounded-full mt-2 border border-gray-400"
                     src="./china.png"
                     alt=""
                   />
-                  <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <div className="flex flex-row grid mt-2 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
+                  <img className="h-12 " src="/brand/" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
-                </div>
+                </div>*/} 
                 
                  <div className="flex flex-row">
                   <img
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    className="h-8 w-8 rounded-full mt-2 border border-gray-400"
                     src="./japan.png"
                     alt=""
                   />
-                  <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
-                  <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
+                  <div className="flex flex-row grid mt-2 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
+                   <img className="h-8" src="/brand/yanmar.png" alt="" />
+                  <img className="h-8" src="/brand/kobediesel.png" alt="" />
+                 <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
                   <div className="flex flex-row">
                   <img
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    className="h-8 w-8 rounded-full mt-2 border border-gray-400"
                     src="./south-korea.png"
                     alt=""
                   />
-                  <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <div className="flex flex-row grid mt-2 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
+                  <img className="h-8" src="/brand/doosan.png" alt="" />
+                  <img className="h-8" src="/brand/ssangyong.png" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
@@ -1354,40 +1301,36 @@ export default function ScopeOfSupply() {
                     src="./european-union.png"
                     alt=""
                   />
-                  <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <img className="h-12" src="/Brands/jrcs.svg" alt="" />
-                  <img className="h-12" src="/Brands/terasaki.svg" alt="" />
-                  <img className="h-12 " src="/Brands/line.svg" alt="" />
-                  <img className="h-12" src="/Brands/yanmar.svg" alt="" />
+                  <div className="flex flex-row grid ml-2 gap-2 grid-cols-5 lg:grid-cols-5">
+                  <img className="h-10" src="/brand/Aluminox.png" alt="" />
+                  <img className="h-8 ml-2" src="/brand/electrolux.png" alt="" />
+                  <img className="h-10 -ml-4" src="/brand/wesco.png" alt="" />
+                  <img className="h-6 mt-2" src="/brand/metos.png" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
-                   <div className="flex flex-row">
+                  {/** <div className="flex flex-row">
                   <img
                     className="h-8 w-8 rounded-full border border-gray-400"
                     src="./china.png"
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <img className="h-12 " src="/brand/" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
-                </div>
+                </div>*/} 
                 
                  <div className="flex flex-row">
                   <img
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    className="h-8 w-8 mt-2 rounded-full border border-gray-400"
                     src="./japan.png"
                     alt=""
                   />
-                  <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <div className="flex flex-row grid mt-2  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
+                   <img className="h-8" src="/brand/Mitsubishi-logo-238x238.png" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
@@ -1398,10 +1341,8 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <img className="h-6 mt-2" src="/brand/kangli.png" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
@@ -1447,10 +1388,10 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <img className="h-12" src="/Brands/jrcs.svg" alt="" />
-                  <img className="h-12" src="/Brands/terasaki.svg" alt="" />
-                  <img className="h-12 " src="/Brands/line.svg" alt="" />
-                  <img className="h-12" src="/Brands/yanmar.svg" alt="" />
+                  <img className="h-8" src="/brand/wartsila.png" alt="" />
+                  <img className="h-10 ml-2" src="/brand/tdi.png" alt="" />
+                  <img className="h-6 mt-2" src="/brand/catapillar.png" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
@@ -1461,10 +1402,8 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <img className="h-12" src="/brand/daihatsu.png" alt="" />
+                  <img className="h-10" src="/brand/cssc-logo-250x250.png" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
@@ -1476,27 +1415,26 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                 <img className="h-8" src="/brand/niigata.png" alt="" />
+                  <img className="h-8" src="/brand/yanmar.png" alt="" />
+                  <img className="h-8" src="/brand/daihatsu.png" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
-                  <div className="flex flex-row">
+                 {/** <div className="flex flex-row">
                   <img
                     className="h-8 w-8 rounded-full border border-gray-400"
                     src="./south-korea.png"
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <img className="h-12 " src="/brand/" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
+                  <img className="h-12 " src="/brand/" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
-                </div>
+                </div>*/} 
                 </div>
                
               </div>
@@ -1539,13 +1477,26 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <img className="h-12" src="/Brands/jrcs.svg" alt="" />
-                  <img className="h-12" src="/Brands/terasaki.svg" alt="" />
-                  <img className="h-12 " src="/Brands/line.svg" alt="" />
-                  <img className="h-12" src="/Brands/yanmar.svg" alt="" />
+                  <img className="h-8" src="/brand/woodward.png" alt="" />
+                  <img className="h-12 " src="/brand/line.svg" alt="" />
+                  <img className="h-12" src="/brand/yanmar.svg" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
+                <div className="flex flex-row">
+                  <img
+                    className="h-8 w-8 rounded-full border border-gray-400"
+                    src="./japan.png"
+                    alt=""
+                  />
+                  <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
+                  <img className="h-8" src="/brand/zexel.png" alt="" />
+                  <img className="h-12 " src="/brand/" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
+                  <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
+                </div>
+                </div>
+                {/** 
                    <div className="flex flex-row">
                   <img
                     className="h-8 w-8 rounded-full border border-gray-400"
@@ -1553,28 +1504,13 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <img className="h-12 " src="/brand/" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
                 
-                 <div className="flex flex-row">
-                  <img
-                    className="h-8 w-8 rounded-full border border-gray-400"
-                    src="./japan.png"
-                    alt=""
-                  />
-                  <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
-                  <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
-                </div>
-                </div>
+                
                   <div className="flex flex-row">
                   <img
                     className="h-8 w-8 rounded-full border border-gray-400"
@@ -1582,13 +1518,13 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <img className="h-12 " src="/brand/" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
+                  <img className="h-12 " src="/brand/" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
-                </div>
+                </div>*/}
                 </div>
                
               </div>
@@ -1631,53 +1567,47 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <img className="h-12" src="/Brands/jrcs.svg" alt="" />
-                  <img className="h-12" src="/Brands/terasaki.svg" alt="" />
-                  <img className="h-12 " src="/Brands/line.svg" alt="" />
-                  <img className="h-12" src="/Brands/yanmar.svg" alt="" />
+                  <img className="h-8" src="/brand/sperre.png" alt="" />
+                  <img className="h-8" src="/brand/alfalaval.png" alt="" />
+                  <img className="h-8" src="/brand/spx.png" alt="" />
+                  <img className="h-8" src="/brand/gea.png" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
                    <div className="flex flex-row">
                   <img
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    className="h-8 w-8 mt-2 rounded-full border border-gray-400"
                     src="./china.png"
                     alt=""
                   />
-                  <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <div className="flex flex-row grid mt-2 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
+                  <img className="h-8" src="/brand/cummins.png" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
                 
                  <div className="flex flex-row">
                   <img
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    className="h-8 w-8 -mt-2 rounded-full border border-gray-400"
                     src="./japan.png"
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <img className="h-6" src="/brand/yasec.png" alt="" />
+                  <img className="h-8 ml-2 -mt-2" src="/brand/hisaka.png" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
                   <div className="flex flex-row">
                   <img
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    className="h-8 w-8 mt-2 rounded-full border border-gray-400"
                     src="./south-korea.png"
                     alt=""
                   />
-                  <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <div className="flex flex-row grid mt-2 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
+                  <img className="h-10" src="/brand/dongwha.png" alt="" />
+                  <img className="h-8" src="/brand/lhe.png" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
@@ -1723,10 +1653,10 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <img className="h-12" src="/Brands/jrcs.svg" alt="" />
-                  <img className="h-12" src="/Brands/terasaki.svg" alt="" />
-                  <img className="h-12 " src="/Brands/line.svg" alt="" />
-                  <img className="h-12" src="/Brands/yanmar.svg" alt="" />
+                  <img className="h-8" src="/brand/teamtec.png" alt="" />
+                  <img className="h-8" src="/brand/atlas.png" alt="" />
+                  <img className="h-8" src="/brand/vestas.png" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
@@ -1737,10 +1667,8 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <img className="h-12 " src="/brand/cssc-logo-250x250.png" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
@@ -1752,24 +1680,22 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <img className="h-8" src="/brand/miura.png" alt="" />
+                  <img className="h-8" src="/brand/misuzu.png" alt="" />
+                  <img className="h-8" src="/brand/fuji-electric.png" alt="" />
+                  <img className="h-8 -ml-2" src="/brand/volcano.png" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
                   <div className="flex flex-row">
                   <img
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    className="h-8 w-8 mt-4 rounded-full border border-gray-400"
                     src="./south-korea.png"
                     alt=""
                   />
-                  <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <div className="flex flex-row grid mt-4 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
+                  <img className="h-8" src="/brand/kangrim.png" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
@@ -1815,24 +1741,22 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <img className="h-12" src="/Brands/jrcs.svg" alt="" />
-                  <img className="h-12" src="/Brands/terasaki.svg" alt="" />
-                  <img className="h-12 " src="/Brands/line.svg" alt="" />
-                  <img className="h-12" src="/Brands/yanmar.svg" alt="" />
+                  <img className="h-8" src="/brand/hamworthy.png" alt="" />
+                  <img className="h-8 -ml-2" src="/brand/atlas.png" alt="" />
+                  <img className="h-8" src="/brand/tmc.png" alt="" />
+                  <img className="h-8" src="/brand/alfalaval.png" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
                    <div className="flex flex-row">
                   <img
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    className="h-8 w-8 mt-4 rounded-full border border-gray-400"
                     src="./china.png"
                     alt=""
                   />
-                  <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <div className="flex flex-row grid mt-4 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
+                  <img className="h-6" src="/brand/smc.png" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
@@ -1843,25 +1767,22 @@ export default function ScopeOfSupply() {
                     src="./japan.png"
                     alt=""
                   />
-                  <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <div className="flex flex-row grid mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
+                  <img className="h-10" src="/brand/hitech.png" alt="" />
+                  <img className="h-10" src="/brand/ngk.png" alt="" />
+                  <img className="h-8" src="/brand/misuzu.png" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
                   <div className="flex flex-row">
                   <img
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    className="h-8 w-8 mt-2 rounded-full border border-gray-400"
                     src="./south-korea.png"
                     alt=""
                   />
-                  <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <div className="flex flex-row grid mt-2 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
+                  <img className="h-8" src="/brand/Hyundai-Heavy-Industries.png" alt="" />
+                  <img className="h-8 -ml-1" src="/brand/kangrim.png" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
@@ -1907,10 +1828,10 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <img className="h-12" src="/Brands/jrcs.svg" alt="" />
-                  <img className="h-12" src="/Brands/terasaki.svg" alt="" />
-                  <img className="h-12 " src="/Brands/line.svg" alt="" />
-                  <img className="h-12" src="/Brands/yanmar.svg" alt="" />
+                  <img className="h-8" src="/brand/endresshauser.png" alt="" />
+                  <img className="h-8" src="/brand/trafag.png" alt="" />
+                  <img className="h-8" src="/brand/" alt="" />
+                  <img className="h-12" src="/brand/yanmar.svg" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
@@ -1921,10 +1842,8 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <img className="h-8" src="/brand/shangairongde.png" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
@@ -1936,10 +1855,10 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <img className="h-6 mt-1" src="/brand/musasino.png" alt="" />
+                  <img className="h-8" src="/brand/yohji-yamamoto.png" alt="" />
+                  <img className="h-8" src="/brand/" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
@@ -1950,10 +1869,10 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <img className="h-8" src="/brand/ilseung.png" alt="" />
+                  <img className="h-8" src="/brand/jowa.png" alt="" />
+                  <img className="h-8 " src="/brand/panasia.png" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
@@ -1999,24 +1918,24 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <img className="h-12" src="/Brands/jrcs.svg" alt="" />
-                  <img className="h-12" src="/Brands/terasaki.svg" alt="" />
-                  <img className="h-12 " src="/Brands/line.svg" alt="" />
-                  <img className="h-12" src="/Brands/yanmar.svg" alt="" />
+                  <img className="h-8" src="/brand/bukh.png" alt="" />
+                  <img className="h-8" src="/brand/fassmer.png" alt="" />
+                  <img className="h-8" src="/brand/norsafe.png" alt="" />
+                  <img className="h-8" src="/brand/schneider.png" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
                    <div className="flex flex-row">
                   <img
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    className="h-8 w-8 mt-4 rounded-full border border-gray-400"
                     src="./china.png"
                     alt=""
                   />
-                  <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <div className="flex flex-row grid mt-4 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
+                  <img className="h-8" src="/brand/nk.png" alt="" />
+                  <img className="h-8" src="/brand/csic.png" alt="" />
+                  <img className="h-8" src="/brand/wuxi_hai_hong.png" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
@@ -2028,24 +1947,24 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <img className="h-10" src="/brand/tohatsu.png" alt="" />
+                  <img className="h-10" src="/brand/daihatsu.png" alt="" />
+                  <img className="h-10" src="/brand/shigi.png" alt="" />
+                  <img className="h-10" src="/brand/ihi.png" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
                   <div className="flex flex-row">
                   <img
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    className="h-8 w-8 rounded-full mt-2 border border-gray-400"
                     src="./south-korea.png"
                     alt=""
                   />
-                  <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <div className="flex flex-row grid mt-2 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
+                  <img className="h-8" src="/brand/hyundai.png" alt="" />
+                  <img className="h-8" src="/brand/oriental.png" alt="" />
+                  <img className="h-12 " src="/brand/" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
@@ -2091,27 +2010,27 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <img className="h-12" src="/Brands/jrcs.svg" alt="" />
-                  <img className="h-12" src="/Brands/terasaki.svg" alt="" />
-                  <img className="h-12 " src="/Brands/line.svg" alt="" />
-                  <img className="h-12" src="/Brands/yanmar.svg" alt="" />
+                  <img className="h-8" src="/brand/LileyandGillieBLNT.png" alt="" />
+                  <img className="h-12" src="/brand/terasaki.svg" alt="" />
+                  <img className="h-12 " src="/brand/line.svg" alt="" />
+                  <img className="h-12" src="/brand/yanmar.svg" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
-                   <div className="flex flex-row">
+                 {/**  <div className="flex flex-row">
                   <img
                     className="h-8 w-8 rounded-full border border-gray-400"
                     src="./china.png"
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <img className="h-12 " src="/brand/" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
+                  <img className="h-12 " src="/brand/" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
-                </div>
+                </div>*/} 
                 
                  <div className="flex flex-row">
                   <img
@@ -2120,10 +2039,10 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <img className="h-8" src="/brand/tokimec.png" alt="" />
+                  <img className="h-10" src="/brand/yokogawa.png" alt="" />
+                  <img className="h-12 " src="/brand/" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
@@ -2134,10 +2053,10 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <img className="h-10" src="/brand/komeri.png" alt="" />
+                  <img className="h-10" src="/brand/saracom.png" alt="" />
+                  <img className="h-12 " src="/brand/" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
@@ -2182,37 +2101,30 @@ export default function ScopeOfSupply() {
                     src="./european-union.png"
                     alt=""
                   />
-                <div className="flex flex-row grid grid-cols-5 gap-1 md:grid  mx-4 gap-2 md:grid-cols-5 mt-2 lg:grid-cols-5">
-                  <img className="h-8 -mt-2 ml-2" src="/Brands/deutz-logo.png" alt="" />
-                  <img className="h-8 -mt-2 ml-2" src="/Brands/cummins-logo.png" alt="" />
-                  <img className="h-8 ml-2" src="/Brands/sulzer-logo.png" alt="" />
-                  <img className="h-6 ml-2" src="/Brands/hcp-logo.png" alt="" />
-                  <img className="h-4 ml-2 mt-1" src="./more.png" alt="" />
+                <div className="flex flex-row grid grid-cols-5 gap-1 md:grid   mx-4 gap-2 md:grid-cols-5  lg:grid-cols-5">
+                <img className="h-8 -ml-2" src="/brand/cummins.png" alt="" />
+                <img className="h-8" src="/brand/sulzer.png" alt="" />
+               <img className="h-8 ml-2" src="/brand/deutz.png" alt="" />
+                  <img className="h-8" src="/brand/hcp.png" alt="" />
+                  <img className="h-4 ml-2 mt-1" src="./" alt="" />
                 </div>
                 </div>
                 <div className="flex flex-row">
                    <div className="flex flex-row">
                   <img
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    className="h-8 w-8 rounded-full mt-4 border border-gray-400"
                     src="./china.png"
                     alt=""
                   />
-                  <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <div className="flex flex-row grid mt-4 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
+                  <img className="h-8" src="/brand/hudong.png" alt="" />
+                  <img className="h-8 " src="/brand/manbw.png" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
                 
-                   <div className="flex flex-row grid grid-cols-5 gap-1 md:grid  mx-4 gap-2 md:grid-cols-5 mt-2 lg:grid-cols-5">
-                  <img className="h-8  ml-2" src="/Brands/cmd-logo.png" alt="" />
-                  <img className="h-8  ml-2" src="/Brands/cssc-logo.png" alt="" />
-                  <img className="h-8 ml-2" src="/Brands/man-logo.png" alt="" />
-                  <img className="h-8 ml-2" src="/Brands/hudong-logo.png" alt="" />
-                  <img className="h-4 ml-2" src="./more.png" alt="" />
-                </div>
+                   
                 </div>
                 <div className="flex flex-row">
                  <div className="flex flex-row">
@@ -2222,43 +2134,31 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <img className="h-8" src="/brand/hitachizosen.png" alt="" />
+                  <img className="h-8" src="/brand/makita.png" alt="" />
+                  <img className="h-8" src="/brand/mitsubishi-logo-238x238.png" alt="" />
+                  <img className="h-8" src="/brand/kawasaki.png" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
-                 <div className="flex flex-row grid grid-cols-5 gap-1 md:grid  mx-4 gap-2 md:grid-cols-5 mt-2 lg:grid-cols-5">
-                  <img className="h-8 ml-2" src="/Brands/diesel-logo.png" alt="" />
-                  <img className="h-8 ml-2" src="/Brands/makita-logo.png" alt="" />
-                  <img className="h-8 ml-2" src="/Brands/kawasaki-logo.png" alt="" />
-                  <img className="h-8 ml-2" src="/Brands/Mitsubishi-logo.png" alt="" />
-                  <img className="h-4 ml-2" src="./more.png" alt="" />
-                </div> 
+                 
                 </div>
                   <div className="flex flex-row">
                   <div className="flex flex-row">
                   <img
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    className="h-8 w-8 rounded-full mt-4 border border-gray-400"
                     src="./south-korea.png"
                     alt=""
                   />
-                  <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <div className="flex flex-row grid mt-4 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
+                  <img className="h-8" src="/brand/hyundai.png" alt="" />
+                  <img className="h-8" src="/brand/doosan.png" alt="" />
+                  <img className="h-8" src="/brand/stx.png" alt="" />
+                  <img className="h-8" src="/brand/ssangyong.png" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
-                   <div className="flex flex-row grid grid-cols-5 gap-1 md:grid  mx-4 gap-2 md:grid-cols-5 mt-2 lg:grid-cols-5">
-                  <img className="h-8 ml-2" src="/Brands/doosan-logo.png" alt="" />
-                  <img className="h-8 ml-2" src="/Brands/hyundai-logo.png" alt="" />
-                  <img className="h-8 ml-2" src="/Brands/ssangyong-logo.png" alt="" />
-                  <img className="h-6 ml-2" src="/Brands/stx-logo-removebg-preview.png" alt="" />
-                  <img className="h-4 ml-2" src="./more.png" alt="" />
-                </div>
+                  
                 </div>
                 </div>
                
@@ -2302,27 +2202,27 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <img className="h-12" src="/Brands/jrcs.svg" alt="" />
-                  <img className="h-12" src="/Brands/terasaki.svg" alt="" />
-                  <img className="h-12 " src="/Brands/line.svg" alt="" />
-                  <img className="h-12" src="/Brands/yanmar.svg" alt="" />
+                  <img className="h-8" src="/brand/kidde.png" alt="" />
+                  <img className="h-8" src="/brand/deckma.png" alt="" />
+                  <img className="h-8" src="/brand/schaller.png" alt="" />
+                  <img className="h-12" src="/brand/yanmar.svg" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
-                   <div className="flex flex-row">
+                  {/** <div className="flex flex-row">
                   <img
                     className="h-8 w-8 rounded-full border border-gray-400"
                     src="./china.png"
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <img className="h-12 " src="/brand/" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
+                  <img className="h-12 " src="/brand/" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
-                </div>
+                </div> */}
                 
                  <div className="flex flex-row">
                   <img
@@ -2331,10 +2231,10 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <img className="h-8" src="/brand/daihatsu.png" alt="" />
+                  <img className="h-8" src="/brand/meiyo.png" alt="" />
+                  <img className="h-12 " src="/brand/" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
@@ -2345,10 +2245,10 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <img className="h-8" src="/brand/spacevision.png" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
+                  <img className="h-12 " src="/brand/" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
@@ -2394,28 +2294,28 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <img className="h-12" src="/Brands/jrcs.svg" alt="" />
-                  <img className="h-12" src="/Brands/terasaki.svg" alt="" />
-                  <img className="h-12 " src="/Brands/line.svg" alt="" />
-                  <img className="h-12" src="/Brands/yanmar.svg" alt="" />
+                  <img className="h-8" src="/brand/dvz.png" alt="" />
+                  <img className="h-6" src="/brand/blohm+voss.png" alt="" />
+                  <img className="h-12 " src="/brand/line.svg" alt="" />
+                  <img className="h-12" src="/brand/yanmar.svg" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
-                   <div className="flex flex-row">
+                  {/** <div className="flex flex-row">
                   <img
                     className="h-8 w-8 rounded-full border border-gray-400"
                     src="./china.png"
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <img className="h-12 " src="/brand/" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
+                  <img className="h-12 " src="/brand/" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
-                
+                 */}
                  <div className="flex flex-row">
                   <img
                     className="h-8 w-8 rounded-full border border-gray-400"
@@ -2423,24 +2323,24 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <img className="h-8" src="/brand/taikokikai.png" alt="" />
+                  <img className="h-8" src="/brand/heishin.png" alt="" />
+                  <img className="h-8" src="/brand/misuzu.png" alt="" />
+                  <img className="h-8" src="/brand/sasakura.png" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
                   <div className="flex flex-row">
                   <img
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    className="h-8 w-8 rounded-full mt-4 border border-gray-400"
                     src="./south-korea.png"
                     alt=""
                   />
-                  <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <div className="flex flex-row grid mt-4 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
+                  <img className="h-8" src="/brand/jowa.png" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
+                  <img className="h-12 " src="/brand/" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
@@ -2486,10 +2386,10 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <img className="h-12" src="/Brands/jrcs.svg" alt="" />
-                  <img className="h-12" src="/Brands/terasaki.svg" alt="" />
-                  <img className="h-12 " src="/Brands/line.svg" alt="" />
-                  <img className="h-12" src="/Brands/yanmar.svg" alt="" />
+                  <img className="h-12" src="/brand/jrcs.svg" alt="" />
+                  <img className="h-12" src="/brand/terasaki.svg" alt="" />
+                  <img className="h-12 " src="/brand/line.svg" alt="" />
+                  <img className="h-12" src="/brand/yanmar.svg" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
@@ -2500,10 +2400,10 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <img className="h-12 " src="/brand/" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
+                  <img className="h-12 " src="/brand/" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
@@ -2515,10 +2415,10 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <img className="h-12 " src="/brand/" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
+                  <img className="h-12 " src="/brand/" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
@@ -2529,10 +2429,10 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <img className="h-12 " src="/brand/" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
+                  <img className="h-12 " src="/brand/" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
@@ -2578,27 +2478,27 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <img className="h-12" src="/Brands/jrcs.svg" alt="" />
-                  <img className="h-12" src="/Brands/terasaki.svg" alt="" />
-                  <img className="h-12 " src="/Brands/line.svg" alt="" />
-                  <img className="h-12" src="/Brands/yanmar.svg" alt="" />
+                  <img className="h-8" src="/brand/wartsila.png" alt="" />
+                  <img className="h-8" src="/brand/marellimotori.png" alt="" />
+                  <img className="h-10" src="/brand/mmg.png" alt="" />
+                  <img className="h-12" src="/brand/yanmar.svg" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
-                   <div className="flex flex-row">
+                  {/**  <div className="flex flex-row">
                   <img
                     className="h-8 w-8 rounded-full border border-gray-400"
                     src="./china.png"
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <img className="h-12 " src="/brand/" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
+                  <img className="h-12 " src="/brand/" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
-                </div>
+                </div>*/}
                 
                  <div className="flex flex-row">
                   <img
@@ -2607,10 +2507,10 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <img className="h-8" src="/brand/nakashima.png" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
+                  <img className="h-12 " src="/brand/" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
@@ -2621,10 +2521,10 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <img className="h-8" src="/brand/sillametal.png" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
+                  <img className="h-12 " src="/brand/" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
@@ -2670,27 +2570,27 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <img className="h-12" src="/Brands/jrcs.svg" alt="" />
-                  <img className="h-12" src="/Brands/terasaki.svg" alt="" />
-                  <img className="h-12 " src="/Brands/line.svg" alt="" />
-                  <img className="h-12" src="/Brands/yanmar.svg" alt="" />
+                  <img className="h-8" src="/brand/danfoss.png" alt="" />
+                  <img className="h-8" src="/brand/spiraxsarco.png" alt="" />
+                  <img className="h-8" src="/brand/spx.png" alt="" />
+                  <img className="h-12" src="/brand/yanmar.svg" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
-                   <div className="flex flex-row">
+                  {/** <div className="flex flex-row">
                   <img
                     className="h-8 w-8 rounded-full border border-gray-400"
                     src="./china.png"
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <img className="h-12 " src="/brand/" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
+                  <img className="h-12 " src="/brand/" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
-                </div>
+                </div> */}
                 
                  <div className="flex flex-row">
                   <img
@@ -2699,10 +2599,10 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <img className="h-8" src="/brand/nakakita.png" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
+                  <img className="h-12 " src="/brand/" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
@@ -2713,10 +2613,10 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <img className="h-8" src="/brand/control.png" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
+                  <img className="h-12 " src="/brand/" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
@@ -2762,53 +2662,53 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <img className="h-12" src="/Brands/jrcs.svg" alt="" />
-                  <img className="h-12" src="/Brands/terasaki.svg" alt="" />
-                  <img className="h-12 " src="/Brands/line.svg" alt="" />
-                  <img className="h-12" src="/Brands/yanmar.svg" alt="" />
+                  <img className="h-8" src="/brand/desmi.png" alt="" />
+                  <img className="h-8" src="/brand/azcue.png" alt="" />
+                  <img className="h-8" src="/brand/grundfos.png" alt="" />
+                  <img className="h-8 ml-2" src="/brand/ALLWEILER.png" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
-                   <div className="flex flex-row">
+                  {/**  <div className="flex flex-row">
                   <img
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    className="h-8 w-8 rounded-full border mt-4 border-gray-400"
                     src="./china.png"
                     alt=""
                   />
-                  <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <div className="flex flex-row grid mt-4 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
+                  <img className="h-12 " src="/brand/" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
+                  <img className="h-12 " src="/brand/" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
-                
+                */}
                  <div className="flex flex-row">
                   <img
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    className="h-8 w-8 rounded-full mt-4 border border-gray-400"
                     src="./japan.png"
                     alt=""
                   />
-                  <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <div className="flex flex-row grid mt-4 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
+                  <img className="h-8" src="/brand/taikokikai.png" alt="" />
+                  <img className="h-8" src="/brand/heishin.png" alt="" />
+                  <img className="h-8" src="/brand/teikoku.png" alt="" />
+                  <img className="h-8" src="/brand/sasakura.png" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
                   <div className="flex flex-row">
                   <img
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    className="h-8 w-8 rounded-full mt-4 border border-gray-400"
                     src="./south-korea.png"
                     alt=""
                   />
-                  <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <div className="flex flex-row grid mt-4 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
+                  <img className="h-8" src="/brand/shinshin.png" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
+                  <img className="h-12 " src="/brand/" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
@@ -2839,6 +2739,99 @@ export default function ScopeOfSupply() {
             <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
               <img
                 className="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
+                src="/scope/pump-1_ccexpress-238x238.png"
+                alt=""
+              />
+              <div className="p-3 flex flex-col justify-start">
+                <h1 className="text-black font-sans font-semibold text-2xl md:text-lg mb-2">
+                pump-1
+                </h1>
+                <div className="my-2 px-2">
+                 <div className="flex flex-row">
+                  <img
+                    className="h-8 w-8 rounded-full border border-gray-400"
+                    src="./european-union.png"
+                    alt=""
+                  />
+                  <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
+                  <img className="h-8" src="/brand/desmi.png" alt="" />
+                  <img className="h-8" src="/brand/azcue.png" alt="" />
+                  <img className="h-8" src="/brand/grundfos.png" alt="" />
+                  <img className="h-8 ml-2" src="/brand/ALLWEILER.png" alt="" />
+                  <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
+                </div>
+                </div>
+                  {/**  <div className="flex flex-row">
+                  <img
+                    className="h-8 w-8 rounded-full border mt-4 border-gray-400"
+                    src="./china.png"
+                    alt=""
+                  />
+                  <div className="flex flex-row grid mt-4 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
+                  <img className="h-12 " src="/brand/" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
+                  <img className="h-12 " src="/brand/" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
+                  <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
+                </div>
+                </div>
+                */}
+                 <div className="flex flex-row">
+                  <img
+                    className="h-8 w-8 rounded-full mt-4 border border-gray-400"
+                    src="./japan.png"
+                    alt=""
+                  />
+                  <div className="flex flex-row grid mt-4 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
+                  <img className="h-8" src="/brand/taikokikai.png" alt="" />
+                  <img className="h-8" src="/brand/heishin.png" alt="" />
+                  <img className="h-8" src="/brand/teikoku.png" alt="" />
+                  <img className="h-8" src="/brand/sasakura.png" alt="" />
+                  <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
+                </div>
+                </div>
+                  <div className="flex flex-row">
+                  <img
+                    className="h-8 w-8 rounded-full mt-4 border border-gray-400"
+                    src="./south-korea.png"
+                    alt=""
+                  />
+                  <div className="flex flex-row grid mt-4 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
+                  <img className="h-8" src="/brand/shinshin.png" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
+                  <img className="h-12 " src="/brand/" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
+                  <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
+                </div>
+                </div>
+                </div>
+               
+              </div>
+             <div className="mt-2 md:mb-0 mb-8 md:ml-0 ml-6">
+                <button className="font-bold inline-flex w-20 items-center h-6 bg-purple-500 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-700 rounded text-sm">
+                  Quote
+                  <svg
+                    fill="none"
+                    stroke="currentColor"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    className="w-4 h-4 ml-1"
+                    viewBox="0 0 24 24"
+                  >
+                    <path d="M5 12h14M12 5l7 7-7 7"></path>
+                  </svg>
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+        <div className="py-10 flex item-center justify-center">
+          <div className="w-4/5 lg:w-3/4 xl:w-2/4">
+            <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
+              <img
+                className="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
                 src="/scope/pump-2_ccexpress-238x238.png"
                 alt=""
               />
@@ -2854,58 +2847,58 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <img className="h-12" src="/Brands/jrcs.svg" alt="" />
-                  <img className="h-12" src="/Brands/terasaki.svg" alt="" />
-                  <img className="h-12 " src="/Brands/line.svg" alt="" />
-                  <img className="h-12" src="/Brands/yanmar.svg" alt="" />
+                  <img className="h-8" src="/brand/desmi.png" alt="" />
+                  <img className="h-8" src="/brand/azcue.png" alt="" />
+                  <img className="h-8" src="/brand/grundfos.png" alt="" />
+                  <img className="h-8 ml-2" src="/brand/ALLWEILER.png" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
-                   <div className="flex flex-row">
+                  {/**  <div className="flex flex-row">
                   <img
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    className="h-8 w-8 rounded-full border mt-4 border-gray-400"
                     src="./china.png"
                     alt=""
                   />
-                  <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <div className="flex flex-row grid mt-4 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
+                  <img className="h-12 " src="/brand/" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
+                  <img className="h-12 " src="/brand/" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
-                
+                */}
                  <div className="flex flex-row">
                   <img
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    className="h-8 w-8 rounded-full mt-4 border border-gray-400"
                     src="./japan.png"
                     alt=""
                   />
-                  <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <div className="flex flex-row grid mt-4 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
+                  <img className="h-8" src="/brand/taikokikai.png" alt="" />
+                  <img className="h-8" src="/brand/heishin.png" alt="" />
+                  <img className="h-8" src="/brand/teikoku.png" alt="" />
+                  <img className="h-8" src="/brand/sasakura.png" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
                   <div className="flex flex-row">
                   <img
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    className="h-8 w-8 rounded-full mt-4 border border-gray-400"
                     src="./south-korea.png"
                     alt=""
                   />
-                  <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <div className="flex flex-row grid mt-4 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
+                  <img className="h-8" src="/brand/shinshin.png" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
+                  <img className="h-12 " src="/brand/" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
                 </div>
-               
+                
               </div>
              <div className="mt-2 md:mb-0 mb-8 md:ml-0 ml-6">
                 <button className="font-bold inline-flex w-20 items-center h-6 bg-purple-500 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-700 rounded text-sm">
@@ -2946,53 +2939,53 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <img className="h-12" src="/Brands/jrcs.svg" alt="" />
-                  <img className="h-12" src="/Brands/terasaki.svg" alt="" />
-                  <img className="h-12 " src="/Brands/line.svg" alt="" />
-                  <img className="h-12" src="/Brands/yanmar.svg" alt="" />
+                  <img className="h-8" src="/brand/desmi.png" alt="" />
+                  <img className="h-8" src="/brand/azcue.png" alt="" />
+                  <img className="h-8" src="/brand/grundfos.png" alt="" />
+                  <img className="h-8 ml-2" src="/brand/ALLWEILER.png" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
-                   <div className="flex flex-row">
+                  {/**  <div className="flex flex-row">
                   <img
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    className="h-8 w-8 rounded-full border mt-4 border-gray-400"
                     src="./china.png"
                     alt=""
                   />
-                  <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <div className="flex flex-row grid mt-4 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
+                  <img className="h-12 " src="/brand/" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
+                  <img className="h-12 " src="/brand/" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
-                
+                */}
                  <div className="flex flex-row">
                   <img
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    className="h-8 w-8 rounded-full mt-4 border border-gray-400"
                     src="./japan.png"
                     alt=""
                   />
-                  <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <div className="flex flex-row grid mt-4 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
+                  <img className="h-8" src="/brand/taikokikai.png" alt="" />
+                  <img className="h-8" src="/brand/heishin.png" alt="" />
+                  <img className="h-8" src="/brand/teikoku.png" alt="" />
+                  <img className="h-8" src="/brand/sasakura.png" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
                   <div className="flex flex-row">
                   <img
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    className="h-8 w-8 rounded-full mt-4 border border-gray-400"
                     src="./south-korea.png"
                     alt=""
                   />
-                  <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <div className="flex flex-row grid mt-4 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
+                  <img className="h-8" src="/brand/shinshin.png" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
+                  <img className="h-12 " src="/brand/" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
@@ -3038,53 +3031,53 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <img className="h-12" src="/Brands/jrcs.svg" alt="" />
-                  <img className="h-12" src="/Brands/terasaki.svg" alt="" />
-                  <img className="h-12 " src="/Brands/line.svg" alt="" />
-                  <img className="h-12" src="/Brands/yanmar.svg" alt="" />
+                  <img className="h-8" src="/brand/desmi.png" alt="" />
+                  <img className="h-8" src="/brand/azcue.png" alt="" />
+                  <img className="h-8" src="/brand/grundfos.png" alt="" />
+                  <img className="h-8 ml-2" src="/brand/ALLWEILER.png" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
-                   <div className="flex flex-row">
+                  {/**  <div className="flex flex-row">
                   <img
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    className="h-8 w-8 rounded-full border mt-4 border-gray-400"
                     src="./china.png"
                     alt=""
                   />
-                  <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <div className="flex flex-row grid mt-4 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
+                  <img className="h-12 " src="/brand/" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
+                  <img className="h-12 " src="/brand/" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
-                
+                */}
                  <div className="flex flex-row">
                   <img
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    className="h-8 w-8 rounded-full mt-4 border border-gray-400"
                     src="./japan.png"
                     alt=""
                   />
-                  <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <div className="flex flex-row grid mt-4 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
+                  <img className="h-8" src="/brand/taikokikai.png" alt="" />
+                  <img className="h-8" src="/brand/heishin.png" alt="" />
+                  <img className="h-8" src="/brand/teikoku.png" alt="" />
+                  <img className="h-8" src="/brand/sasakura.png" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
                   <div className="flex flex-row">
                   <img
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    className="h-8 w-8 rounded-full mt-4 border border-gray-400"
                     src="./south-korea.png"
                     alt=""
                   />
-                  <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <div className="flex flex-row grid mt-4 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
+                  <img className="h-8" src="/brand/shinshin.png" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
+                  <img className="h-12 " src="/brand/" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
@@ -3130,27 +3123,27 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <img className="h-12" src="/Brands/jrcs.svg" alt="" />
-                  <img className="h-12" src="/Brands/terasaki.svg" alt="" />
-                  <img className="h-12 " src="/Brands/line.svg" alt="" />
-                  <img className="h-12" src="/Brands/yanmar.svg" alt="" />
+                  <img className="h-8" src="/brand/gea.png" alt="" />
+                  <img className="h-6" src="/brand/alfalaval.png" alt="" />
+                  <img className="h-12 " src="/brand/line.svg" alt="" />
+                  <img className="h-12" src="/brand/yanmar.svg" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
-                   <div className="flex flex-row">
+                  {/** <div className="flex flex-row">
                   <img
                     className="h-8 w-8 rounded-full border border-gray-400"
                     src="./china.png"
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <img className="h-12 " src="/brand/" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
+                  <img className="h-12 " src="/brand/" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
-                </div>
+                </div>*/} 
                 
                  <div className="flex flex-row">
                   <img
@@ -3159,10 +3152,10 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <img className="h-8" src="/brand/Mitsubishi-logo-238x238.png" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
+                  <img className="h-12 " src="/brand/" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
@@ -3173,10 +3166,10 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <img className="h-8" src="/brand/samgong.png" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
+                  <img className="h-12 " src="/brand/" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
@@ -3222,28 +3215,28 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <img className="h-12" src="/Brands/jrcs.svg" alt="" />
-                  <img className="h-12" src="/Brands/terasaki.svg" alt="" />
-                  <img className="h-12 " src="/Brands/line.svg" alt="" />
-                  <img className="h-12" src="/Brands/yanmar.svg" alt="" />
+                  <img className="h-8" src="/brand/sabb.png" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
+                  <img className="h-12 " src="/brand/line.svg" alt="" />
+                  <img className="h-12" src="/brand/yanmar.svg" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
-                   <div className="flex flex-row">
+                 {/**  <div className="flex flex-row">
                   <img
                     className="h-8 w-8 rounded-full border border-gray-400"
                     src="./china.png"
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <img className="h-12 " src="/brand/" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
+                  <img className="h-12 " src="/brand/" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
-                
+                 */}
                  <div className="flex flex-row">
                   <img
                     className="h-8 w-8 rounded-full border border-gray-400"
@@ -3251,24 +3244,24 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <img className="h-8" src="/brand/jrc.png" alt="" />
+                  <img className="h-8" src="/brand/furuno.png" alt="" />
+                  <img className="h-8" src="/brand/tokyo keiki.png" alt="" />
+                  <img className="h-8" src="/brand/tokimec.png" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
                   <div className="flex flex-row">
                   <img
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    className="h-8 w-8 mt-4 rounded-full border border-gray-400"
                     src="./south-korea.png"
                     alt=""
                   />
-                  <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <div className="flex flex-row grid mt-4 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
+                  <img className="h-8" src="/brand/koc.png" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
+                  <img className="h-12 " src="/brand/" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
@@ -3314,24 +3307,24 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <img className="h-12" src="/Brands/jrcs.svg" alt="" />
-                  <img className="h-12" src="/Brands/terasaki.svg" alt="" />
-                  <img className="h-12 " src="/Brands/line.svg" alt="" />
-                  <img className="h-12" src="/Brands/yanmar.svg" alt="" />
+                  <img className="h-8" src="/brand/grundfos.png" alt="" />
+                  <img className="h-8" src="/brand/becker.png" alt="" />
+                  <img className="h-8" src="/brand/hamworthy.png" alt="" />
+                  <img className="h-8" src="/brand/yanmar.svg" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
                    <div className="flex flex-row">
                   <img
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    className="h-8 w-8 rounded-full mt-4 border border-gray-400"
                     src="./china.png"
                     alt=""
                   />
-                  <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <div className="flex flex-row grid mt-4 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
+                  <img className="h-8" src="/brand/cssc-logo-250x250.png" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
+                  <img className="h-12 " src="/brand/" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
@@ -3343,10 +3336,10 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <img className="h-8" src="/brand/taikokikai.png" alt="" />
+                  <img className="h-8" src="/brand/sasakura.png" alt="" />
+                  <img className="h-12 " src="/brand/" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
@@ -3357,10 +3350,10 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <img className="h-8" src="/brand/jowa.png" alt="" />
+                  <img className="h-8" src="/brand/ilseung.png" alt="" />
+                  <img className="h-12 " src="/brand/" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
@@ -3406,24 +3399,24 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <img className="h-12" src="/Brands/jrcs.svg" alt="" />
-                  <img className="h-12" src="/Brands/terasaki.svg" alt="" />
-                  <img className="h-12 " src="/Brands/line.svg" alt="" />
-                  <img className="h-12" src="/Brands/yanmar.svg" alt="" />
+                  <img className="h-8" src="/brand/hydrostor.png" alt="" />
+                  <img className="h-8 -ml-2" src="/brand/abb.png" alt="" />
+                  <img className="h-8" src="/brand/hamworthy.png" alt="" />
+                  <img className="h-8" src="/brand/Rolls-Royce-Logo-250x250.png" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
                    <div className="flex flex-row">
                   <img
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    className="h-8 w-8 rounded-full mt-4 border border-gray-400"
                     src="./china.png"
                     alt=""
                   />
-                  <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <div className="flex flex-row grid mt-4 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
+                  <img className="h-8" src="/brand/wuhan marine.png" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
+                  <img className="h-12 " src="/brand/" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
@@ -3435,10 +3428,10 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <img className="h-8" src="/brand/Mitsubishi-logo-238x238.png" alt="" />
+                  <img className="h-8" src="/brand/tokyo keiki.png" alt="" />
+                  <img className="h-8" src="/brand/kawasaki-logo-250x250.png" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
@@ -3449,10 +3442,10 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <img className="h-12 -mt-2" src="/brand/flutek.png" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
+                  <img className="h-12 " src="/brand/" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
@@ -3478,7 +3471,7 @@ export default function ScopeOfSupply() {
             </div>
           </div>
         </div>
-        values<div className="py-10 flex item-center justify-center">
+       <div className="py-10 flex item-center justify-center">
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
             <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
               <img
@@ -3498,24 +3491,24 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <img className="h-12" src="/Brands/jrcs.svg" alt="" />
-                  <img className="h-12" src="/Brands/terasaki.svg" alt="" />
-                  <img className="h-12 " src="/Brands/line.svg" alt="" />
-                  <img className="h-12" src="/Brands/yanmar.svg" alt="" />
+                  <img className="h-8" src="/brand/saacke.png" alt="" />
+                  <img className="h-10" src="/brand/corrpro.png" alt="" />
+                  <img className="h-10" src="/brand/acg.png" alt="" />
+                  <img className="h-10" src="/brand/evac.png" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
                    <div className="flex flex-row">
                   <img
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    className="h-8 w-8 rounded-full mt-2 border border-gray-400"
                     src="./china.png"
                     alt=""
                   />
-                  <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <div className="flex flex-row grid mt-2 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
+                  <img className="h-8" src="/brand/sealantern.png" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
+                  <img className="h-12 " src="/brand/" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
@@ -3527,10 +3520,10 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <img className="h-8" src="/brand/Yokohama.png" alt="" />
+                  <img className="h-8" src="/brand/ww.png" alt="" />
+                  <img className="h-12 " src="/brand/" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
@@ -3541,10 +3534,10 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <img className="h-8" src="/brand/wilsonwalton.png" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
+                  <img className="h-12 " src="/brand/" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
@@ -3590,28 +3583,28 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <img className="h-12" src="/Brands/jrcs.svg" alt="" />
-                  <img className="h-12" src="/Brands/terasaki.svg" alt="" />
-                  <img className="h-12 " src="/Brands/line.svg" alt="" />
-                  <img className="h-12" src="/Brands/yanmar.svg" alt="" />
+                  <img className="h-8" src="/brand/abb.png" alt="" />
+                  <img className="h-8 -mt-2" src="/brand/mandiesel.png" alt="" />
+                  <img className="h-12 " src="/brand/line.svg" alt="" />
+                  <img className="h-12" src="/brand/yanmar.svg" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
-                   <div className="flex flex-row">
+                 {/**   <div className="flex flex-row">
                   <img
                     className="h-8 w-8 rounded-full border border-gray-400"
                     src="./china.png"
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <img className="h-12 " src="/brand/" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
+                  <img className="h-12 " src="/brand/" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
-                
+                */}
                  <div className="flex flex-row">
                   <img
                     className="h-8 w-8 rounded-full border border-gray-400"
@@ -3619,10 +3612,10 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <img className="h-6" src="/brand/nissin.png" alt="" />
+                  <img className="h-8" src="/brand/ihi.png" alt="" />
+                  <img className="h-8" src="/brand/Mitsubishi-logo-238x238.png" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
@@ -3633,10 +3626,10 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <img className="h-8" src="/brand/stx.png" alt="" />
+                  <img className="h-8" src="/brand/doosan.png" alt="" />
+                  <img className="h-12 " src="/brand/" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
@@ -3682,10 +3675,10 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <img className="h-12" src="/Brands/jrcs.svg" alt="" />
-                  <img className="h-12" src="/Brands/terasaki.svg" alt="" />
-                  <img className="h-12 " src="/Brands/line.svg" alt="" />
-                  <img className="h-12" src="/Brands/yanmar.svg" alt="" />
+                  <img className="h-10" src="/brand/pleiger.png" alt="" />
+                  <img className="h-10" src="/brand/Damco.png" alt="" />
+                  <img className="h-10" src="/brand/bac.png" alt="" />
+                  <img className="h-10" src="/brand/lk.png" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
@@ -3696,10 +3689,10 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <img className="h-8" src="/brand/xiamenair.png" alt="" />
+                  <img className="h-8" src="/brand/nordic.png" alt="" />
+                  <img className="h-12 " src="/brand/" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
@@ -3710,25 +3703,24 @@ export default function ScopeOfSupply() {
                     src="./japan.png"
                     alt=""
                   />
-                  <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <div className="flex flex-row grid mt-1 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
+                  <img className="h-6" src="/brand/misuzu.png" alt="" />
+                  <img className="h-6" src="/brand/yuken.png" alt="" />
+                  <img className="h-6" src="/brand/tomoe.png" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
                   <div className="flex flex-row">
                   <img
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    className="h-8 w-8 mt-2 rounded-full border border-gray-400"
                     src="./south-korea.png"
                     alt=""
                   />
-                  <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <div className="flex flex-row grid  mt-2 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
+                  <img className="h-10" src="/brand/acevalve.png" alt="" />
+                  <img className="h-8" src="/brand/tyco.png" alt="" />
+                  <img className="h-12 " src="/brand/" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
@@ -3774,27 +3766,27 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <img className="h-12" src="/Brands/jrcs.svg" alt="" />
-                  <img className="h-12" src="/Brands/terasaki.svg" alt="" />
-                  <img className="h-12 " src="/Brands/line.svg" alt="" />
-                  <img className="h-12" src="/Brands/yanmar.svg" alt="" />
+                  <img className="h-8" src="/brand/gea.png" alt="" />
+                  <img className="h-10 ml-2 -mt-2" src="/brand/vaf.png" alt="" />
+                  <img className="h-12 " src="/brand/line.svg" alt="" />
+                  <img className="h-12" src="/brand/yanmar.svg" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
-                   <div className="flex flex-row">
+                 {/** <div className="flex flex-row">
                   <img
                     className="h-8 w-8 rounded-full border border-gray-400"
                     src="./china.png"
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <img className="h-12 " src="/brand/" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
+                  <img className="h-12 " src="/brand/" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
-                </div>
+                </div>*/}  
                 
                  <div className="flex flex-row">
                   <img
@@ -3803,10 +3795,10 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <img className="h-8" src="/brand/nakakita.png" alt="" />
+                  <img className="h-4 mt-2" src="/brand/saginomiya.png" alt="" />
+                  <img className="h-12 " src="/brand/" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
@@ -3817,10 +3809,10 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
-                  <img className="h-12 " src="/Brands/" alt="" />
-                  <img className="h-12" src="/Brands/" alt="" />
+                  <img className="h-8" src="/brand/daeho.png" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
+                  <img className="h-12 " src="/brand/" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
@@ -3866,27 +3858,25 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <img className="h-12" src="/Brands/jrcs.svg" alt="" />
-                  <img className="h-12" src="/Brands/terasaki.svg" alt="" />
-                  <img className="h-12 " src="/Brands/line.svg" alt="" />
-                  <img className="h-12" src="/Brands/yanmar.svg" alt="" />
+                  <img className="h-8" src="/brand/wynn.png" alt="" />
+                  <img className="h-12" src="/brand/terasaki.svg" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
                 </div>
-                   <div className="flex flex-row">
+                  {/** <div className="flex flex-row">
                   <img
                     className="h-8 w-8 rounded-full border border-gray-400"
                     src="./china.png"
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
+                  <img className="h-12 " src="/brand/" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
                   <img className="h-12 " src="/Brands/" alt="" />
                   <img className="h-12" src="/Brands/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
                 </div>
-                </div>
+              </div>*/}
                 
                  <div className="flex flex-row">
                   <img
@@ -3895,8 +3885,8 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
+                  <img className="h-8" src="/brand/nippon electric.png" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
                   <img className="h-12 " src="/Brands/" alt="" />
                   <img className="h-12" src="/Brands/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
@@ -3909,8 +3899,8 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <h1 className="text-sm font-bold">JIANGSU NANJI</h1>
-                  <h1 className="text-md font-bold ml-2">hudong</h1>
+                  <img className="h-8" src="/brand/JUNG –A MARINE.png" alt="" />
+                  <img className="h-12" src="/brand/" alt="" />
                   <img className="h-12 " src="/Brands/" alt="" />
                   <img className="h-12" src="/Brands/" alt="" />
                   <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
@@ -3919,7 +3909,7 @@ export default function ScopeOfSupply() {
                 </div>
                
               </div>
-             <div className="mt-2 md:mb-0 mb-8 md:ml-0 ml-6">
+              <div className="mt-2 md:mb-0 mb-8 md:ml-0 ml-12">
                 <button className="font-bold inline-flex w-20 items-center h-6 bg-purple-500 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-700 rounded text-sm">
                   Quote
                   <svg
