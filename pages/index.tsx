@@ -10,7 +10,6 @@ import Country from '../components/country'
 import Steps from '../components/steps'
 import Insurance from '../components/insurance'
 import Brands from '../components/brands'
-import Clients from "../components/client"
 
 
 export default function Home() {
@@ -18,7 +17,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Create Next App</title>
+        <title>Tidal Groups</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <div className="flex flex-col items-center justify-center min-h-screen bg-cover bg-[url('/shipyard.jpeg')] ">

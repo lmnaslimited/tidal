@@ -1,3 +1,4 @@
+import Nav from "../components/nav"
 export default function AboutUs() {
   return (
     <div>
@@ -14,46 +15,9 @@ export default function AboutUs() {
               <path d="M0,0 C48.8902582,6.27314026 86.2235915,9.40971039 112,9.40971039 C137.776408,9.40971039 175.109742,6.27314026 224,0 L224,12.0441132 L0,12.0441132 L0,0 Z"></path>
             </svg>
   </div>
-          <header className="text-white body-font">
-            <div className="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
-              <a className="flex title-font font-medium items-center text-gray-900 mb-4 md:mb-0">
-              <img className="w-40 h-16 text-white p-2 " src="/TG logo-01.png"/>
-                {/**<svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  fill="none"
-                  stroke="currentColor"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="2"
-                  className="w-10 h-10 text-white p-2 bg-indigo-500 rounded-full"
-                  viewBox="0 0 24 24"
-                >
-                  <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"></path>
-  </svg>
-  <span className="ml-3 text-xl">Tidal Groups</span>*/}
-  </a>
-              <nav className="md:mr-auto md:ml-4 md:py-1 md:pl-4 md:border-l md:border-gray-400 text-gray-600 flex flex-wrap items-center text-base justify-center">
-                <a href="" className="mr-5 hover:text-gray-900">Home</a>
-                <a className="mr-5 hover:text-gray-900">Marine Spares</a>
-                <a href="/scope-of-supply" className="mr-5 hover:text-gray-900">Scope</a>
-                <a className="mr-5 hover:text-gray-900">Contact</a>
-              </nav>
-              <button className="inline-flex items-center bg-purple-500 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-700 rounded text-base mt-4 md:mt-0">
-                Get a quote
-                <svg
-                  fill="none"
-                  stroke="currentColor"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="2"
-                  className="w-4 h-4 ml-1"
-                  viewBox="0 0 24 24"
-                >
-                  <path d="M5 12h14M12 5l7 7-7 7"></path>
-                </svg>
-              </button>
-            </div>
-          </header>
+  <div>
+        <Nav />
+<div></div></div>
           <div className="px-4 py-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-20">
             <div className="flex flex-col mb-6 lg:flex-row md:mb-10">
               <div className="lg:w-1/2">
@@ -92,16 +56,20 @@ export default function AboutUs() {
                 </h2>
               </div>
               <div className="lg:w-1/2 md:ml-16">
-                <p className="font-sans font-medium text-2xl lg:text-2xl">
-                We provide Services on board of Marine Equipment & ship spare parts all around the world with 
-               <span className="text-indigo-800"> 100% Customer satisfication </span>
+                <p className="font-sans font-medium text-lg lg:text-2xl">
+               We specialize in <span className="text-indigo-800"> supplying quality products</span>
+to ship owners, ship managements and overseas traders.
+We supply various spare parts such as main & aux engine,
+pumps, air compressor, purifier, Korea genuine parts
+and so on. 
+               
                 </p>
               </div>
             </div>
           </div>
         </div>
       </section>
-      <section className="text-gray-600 body-font overflow-hidden">
+      <section className="text-purple-600 body-font overflow-hidden">
         <div className="px-4 py-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-20">
           <div className="max-w-xl mb-10 md:mx-auto sm:text-center lg:max-w-2xl md:mb-12">
             <h2 className="max-w-lg mb-6 font-sans font-bold leading-none tracking-tight text-gray-900 text-3xl md:text-5xl md:mx-auto">
@@ -135,7 +103,7 @@ export default function AboutUs() {
             </h2>
             <p className="text-base text-gray-700 md:text-lg">
             We ensure in the simplest way the export of Marine Equipments through Logistics even in the most difficult situations that a ship will face.
-We will be the bridge between the customer satisfaction and logistics movements. 
+           We will be the bridge between the customer satisfaction and logistics movements. 
 
             </p>
           </div>
@@ -145,8 +113,7 @@ We will be the bridge between the customer satisfaction and logistics movements.
                 MISSION
               </h6>
               <p className="mb-3 text-lg font-semibold text-gray-900">
-              We will ship the Marine Equipments & ship spare to each and every part of the world.
-              The commitment guarantee we offer our clients is based on the strength of our company.
+              We are poised to provide comprehensive range of management services with focus on our core values.
 
               </p>
             </div>
@@ -155,9 +122,7 @@ We will be the bridge between the customer satisfaction and logistics movements.
                VISION
               </h6>
               <p className="mb-3 text-lg font-semibold text-gray-900">
-              "Company products we will Travel all around the Sea"
-             "Company we will conquer the ocean "
-            "BY 2025 Company will be the father of Ocean Logistics Network"
+              Trusted partner to our Customers delivering first class and fully Tidal Groups services.
  
               </p>
             </div>
@@ -169,18 +134,22 @@ We will be the bridge between the customer satisfaction and logistics movements.
           <div className="flex flex-col lg:flex-row">
             <div className="mb-6 lg:mb-0 lg:w-1/2 lg:pr-5">
               <h2 className="font- text-xl font-bold tracking-tight text-gray-900 sm:text-5xl sm:leading-none">
-               OUR COMPANY
+               OUR
                 <span className="relative inline-block px-2">
                   <div className="absolute inset-0 transform -skew-x-12 bg-purple-700"></div>
-                  <span className="relative text-white">GOAL</span>
+                  <span className="relative text-white">ADVANTAGES</span>
                 </span>
               </h2>
             </div>
             <div className="lg:w-1/2">
-              <p className="text-base text-gray-700 font-semibold text-xl">
-              We are coming to a new generation that B2B or B2C opinion consume away.
-              The new Ideology is the H2H, Human to Human and I believe on this, "WHat and How you offer to humanity, to our Earth?".
-              </p>
+              <p className="text-base text-gray-700 font-semibold text-lg">
+              Our aim is accompanied growth with costomer.
+So we give a top priority to customer satisfaction.
+ Provide quality service immediately.
+ Quick feedback for customers inquiries and requirements.
+ Supply accurate products based on professional knowledge.
+ Advise & supply precise product within best delivery time.
+               </p>
             </div>
           </div>
         </div>
@@ -226,35 +195,19 @@ We will be the bridge between the customer satisfaction and logistics movements.
           </p>
         </div>
         <div className="grid gap-10 mx-auto  lg:grid-cols-2 lg:max-w-screen-lg lg:ml-36">
-          <div className="grid sm:grid-cols-3">
-  
-            <div className="relative w-full h-48 max-h-full rounded shadow sm:h-auto">
-            <img
-                className=" object-cover border-2 border-gray-200 bg-gray-200 w-full h-full rounded"
-                src="/about/identify-1200x800.png"
-                alt="Person"
-              />
-            </div>
-            <div className="flex flex-col border-8 border-gray-200 justify-center mt-5 sm:mt-0 sm:p-5 sm:col-span-2">
-              <p className="text-lg font-bold">IDENTIFYING</p>
-              <p className="mb-4 text-sm tracking-wide text-gray-800">
-              We are a trusted name in the marine industry and deal in Japanese, Korean and European spare parts
-              </p>
-             
-            </div>
-          </div>
+         
           <div className="grid sm:grid-cols-3">
           
-            <div className="relative w-full h-48 max-h-full rounded shadow sm:h-auto">
+            <div className="relative w-full h-72 lg:h-48 max-h-full rounded shadow sm:h-auto">
               <img
                 className="absolute object-cover bg-gray-200 w-full h-full rounded"
-                src="/about/approach-1200x800.png"
+                src="/about/approach.jpg"
                 alt="Person"
               />
               
             </div>
             <div className="flex flex-col border-8 border-gray-200 justify-center mt-5 sm:mt-0 sm:p-5 sm:col-span-2">
-              <p className="text-lg font-bold">APPROACHING</p>
+              <p className="text-lg font-bold text-gray-900">APPROACHING</p>
               <p className="mb-4 text-sm tracking-wide text-gray-800">
               Our technically trained and competitive workforce strive to not only meet but exceed customers’ expectations.
               </p>
@@ -262,24 +215,7 @@ We will be the bridge between the customer satisfaction and logistics movements.
           </div>
           <div className="grid sm:grid-cols-3">
           
-            <div className="relative w-full h-48 max-h-full rounded shadow sm:h-auto">
-              <img
-                className="absolute object-cover bg-gray-200 w-full h-full rounded"
-                src="/about/recognize-1200x800.png"
-                alt="Person"
-              />
-              
-            </div>
-            <div className="flex flex-col border-8 border-gray-200 justify-center mt-5 sm:mt-0 sm:p-5 sm:col-span-2">
-              <p className="text-lg font-bold">RECOGNIZING</p>
-              <p className="mb-4 text-sm tracking-wide text-gray-800">
-              We are one of the most reliable suppliers, successfully serving our customers worldwide for years.
-              </p>
-            </div>
-          </div>
-          <div className="grid sm:grid-cols-3">
-          
-            <div className="relative w-full h-48 max-h-full rounded shadow sm:h-auto">
+            <div className="relative w-full h-72 lg:h-48 max-h-full rounded shadow sm:h-auto">
               <img
                 className="absolute object-cover w-full bg-gray-200 h-full rounded"
                 src="/about/customer.png"
@@ -288,15 +224,117 @@ We will be the bridge between the customer satisfaction and logistics movements.
             
             </div>
             <div className="flex flex-col border-8 border-gray-200 justify-center mt-5 sm:mt-0 sm:p-5 sm:col-span-2">
-              <p className="text-lg font-bold">CUSTOMER SATISFICATION</p>
+              <p className="text-lg font-bold text-gray-900 uppercase">Customers First</p>
               <p className="mb-4 text-sm tracking-wide text-gray-800">
                we have a 100% client satisfaction, customer satisfication is prior to our company
               </p>
             </div>
           </div>
+          <div className="grid sm:grid-cols-3">
+          
+            <div className="relative w-full h-72 lg:h-48 max-h-full rounded shadow sm:h-auto">
+              <img
+                className="absolute object-cover bg-gray-200 w-full h-full rounded"
+                src="/about/excellence.png"
+                alt="Person"
+              />
+              
+            </div>
+            
+            <div className="flex flex-col border-8 border-gray-200 justify-center mt-5 sm:mt-0 sm:p-5 sm:col-span-2">
+            <p className="text-lg font-bold text-gray-900 uppercase">Excellence</p>
+            <p className="mb-4 text-sm tracking-wide text-gray-800">
+            Stand apart in everything we do by exceeding our commitment to Customers and industry stake holders.
+            </p>
+          </div>
+          </div>
+          
+          <div className="grid sm:grid-cols-3">
+          
+          <div className="relative w-full h-72 lg:h-48 max-h-full rounded shadow sm:h-auto">
+            <img
+              className="absolute object-cover w-full bg-gray-200 h-full rounded"
+              src="/about/innovation.png"
+              alt="Person"
+            />
+          
+          </div>
+          <div className="flex flex-col border-8 border-gray-200 justify-center mt-5 sm:mt-0 sm:p-5 sm:col-span-2">
+            <p className="text-lg font-bold text-gray-900 uppercase">Innovation</p>
+            <p className="mb-4 text-sm tracking-wide text-gray-800">
+            We pride ourselves with constant innovation using most up to date technologies available to provide accuracy and efficiency in our works.  </p>
+          </div>
+        </div>
+        <div className="grid sm:grid-cols-3">
+          
+          <div className="relative w-full h-72 lg:h-48 max-h-full rounded shadow sm:h-auto">
+            <img
+              className="absolute object-cover w-full bg-gray-200 h-full rounded"
+              src="/about/integrity.png"
+              alt="Person"
+            />
+          
+          </div>
+          <div className="flex flex-col border-8 border-gray-200 justify-center mt-5 sm:mt-0 sm:p-5 sm:col-span-2">
+            <p className="text-lg font-bold text-gray-900 uppercase">Integrity</p>
+            <p className="mb-4 text-sm tracking-wide text-gray-800">
+            We are committed to delivering our services with highest degree of honesty & transparency.
+          </p>
+          </div>
+        </div>
+        <div className="grid sm:grid-cols-3">
+          
+          <div className="relative w-full h-72 lg:h-48 max-h-full rounded shadow sm:h-auto">
+            <img
+              className="absolute object-cover w-full bg-gray-200 h-full rounded"
+              src="/about/environment.png"
+              alt="Person"
+            />
+          
+          </div>
+          <div className="flex flex-col border-8 border-gray-200 justify-center mt-5 sm:mt-0 sm:p-5 sm:col-span-2">
+            <p className="text-lg font-bold text-gray-900 uppercase">Protection of Environment</p>
+            <p className="mb-4 text-sm tracking-wide text-gray-800">
+             We carefully consider impact to our environment in everything we do and protect & preserve it. 
+            </p>
+          </div>
+        </div>
+        <div className="grid sm:grid-cols-3">
+          
+          <div className="relative w-full h-72 lg:h-48 max-h-full rounded shadow sm:h-auto">
+            <img
+              className="absolute object-cover w-full bg-gray-200 h-full rounded"
+              src="/about/safety.png"
+              alt="Person"
+            />
+          
+          </div>
+          <div className="flex flex-col border-8 border-gray-200 justify-center mt-5 sm:mt-0 sm:p-5 sm:col-span-2">
+            <p className="text-lg font-bold text-gray-900 uppercase">Safety </p>
+            <p className="mb-4 text-sm tracking-wide text-gray-800">
+            Safety is our first priority and assurance.
+          </p> </div>
+        </div>
+        <div className="grid sm:grid-cols-3">
+          
+          <div className="relative w-full h-72 lg:h-48 max-h-full rounded shadow sm:h-auto">
+            <img
+              className="absolute object-cover w-full bg-gray-200 h-full rounded"
+              src="/about/teamwork.png"
+              alt="Person"
+            />
+          
+          </div>
+          <div className="flex flex-col border-8 border-gray-200 justify-center mt-5 sm:mt-0 sm:p-5 sm:col-span-2">
+            <p className="text-lg font-bold text-gray-900 uppercase">Teamwork  </p>
+            <p className="mb-4 text-sm tracking-wide text-gray-800">
+            We believe in achieving together as a team.
+            </p>
+          </div>
+        </div>
         </div>
       </div>
-      )
+      
     </div>
   );
 }

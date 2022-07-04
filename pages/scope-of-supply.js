@@ -1,131 +1,24 @@
+import Nav from "../components/nav"
+import Mainengine from "../components/mainengine"
+import Generatorengine from "../components/generatorengine"
+import Aircompressor from "../components/aircompressor";
+import Pumps from "../components/pumps"
+import Purifier from "../components/purifier";
+import Turbocharger from "../components/turbocharger";
+import Injectors from "../components/injectors";
+import Heatexchanger from "../components/heatexchanger";
+import Cranes from "../components/cranes";
 export default function ScopeOfSupply() {
   return (
     <div>
-      <header className="text-white body-font">
-        <div className="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
-          <a className="flex title-font font-medium items-center text-gray-900 mb-4 md:mb-0">
-            <svg
-              xmlns="http://www.w3.org/2000/svg"
-              fill="none"
-              stroke="currentColor"
-              stroke-linecap="round"
-              stroke-linejoin="round"
-              stroke-width="2"
-              className="w-10 h-10 text-white p-2 bg-indigo-500 rounded-full"
-              viewBox="0 0 24 24"
-            >
-              <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"></path>
-            </svg>
-            <span className="ml-3 text-xl">Tidal Groups</span>
-          </a>
-          <nav className="md:mr-auto md:ml-4 md:py-1 md:pl-4 md:border-l md:border-gray-400 text-gray-600 flex flex-wrap items-center text-base justify-center">
-            <a className="mr-5 hover:text-gray-900">First Link</a>
-            <a className="mr-5 hover:text-gray-900">Second Link</a>
-            <a className="mr-5 hover:text-gray-900">Third Link</a>
-            <a className="mr-5 hover:text-gray-900">Fourth Link</a>
-          </nav>
-          <button className="inline-flex items-center bg-purple-500 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-700 rounded text-base mt-4 md:mt-0">
-            Get a quote
-            <svg
-              fill="none"
-              stroke="currentColor"
-              stroke-linecap="round"
-              stroke-linejoin="round"
-              stroke-width="2"
-              className="w-4 h-4 ml-1"
-              viewBox="0 0 24 24"
-            >
-              <path d="M5 12h14M12 5l7 7-7 7"></path>
-            </svg>
-          </button>
-        </div>
-      </header>
+    <div>
+        <Nav />
+    </div>
       <section className="py-5">
-        <div className="py-10 flex item-center justify-center">
-          <div className="w-4/5 lg:w-3/4 xl:w-2/4">
-            <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
-            
-               <img
-                className="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
-                src="/scope/Air compressor-238x238.png"
-                alt=""
-              />
-              <div className="p-3 flex flex-col justify-start">
-                <h1 className="text-black font-sans font-semibold text-2xl md:text-lg mb-2">
-                 Air Compressor
-                </h1>
-                <div className="my-2  px-2">
-                 <div className="flex  flex-row">
-                  <img
-                    className="h-8 w-8 rounded-full border border-gray-400"
-                    src="./european-union.png"
-                    alt=""
-                  />
-                <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <img className="h-8" src="./Brands/bock.svg" alt="" />
-                  <img className="h-8" src="./Brands/york.svg" alt="" />
-                  <img className="h-8" src="/Brands/bitzer.svg" alt="" />
-                  <img className="h-8" src="./Brands/gea.svg" alt="" />
-                  <img className="h-4 mt-2 ml-2 md:ml-4 " src="./more.png" alt="" />
-                </div>
-                </div>
-                <div className="flex flex-row">
-                  <img
-                    className="h-8 w-8 my-2 rounded-full border border-gray-400"
-                    src="./south-korea.png"
-                    alt=""
-                  />
-                  <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <img className="h-12 ml-4 mt-1" src="./Brands/tanabe.svg" alt="" />
-                  <img className="h-12 ml-4 md:ml-4 " src="./Brands/h.svg" alt="" />
-                  <img className="h-8 md:h-12 -mt-2 ml-2 md:ml-4" src="/Brands" alt="" />
-                  <img className="h-8 md:h-8 ml-2 md:ml-4" src="./Brands" alt="" />
-                  <img className="h-4 mt-2 ml-2 md:ml-4 " src="./" alt="" />
-                </div>
-                </div>
-  
-                 <div className="flex flex-row">
-                  <img
-                    className="h-8 w-8 rounded-full border border-gray-400"
-                    src="./japan.png"
-                    alt=""
-                  />
-
-                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 mt-2 lg:grid-cols-5">
-                  <img className="h-12 ml-4 -mt-2" src="/Brands/tanabe.svg" alt="" />
-                  <img className="h-8 ml-4" src="/Brands/" alt="" />
-                  <img className="h-8 ml-4" src="/Brands/" alt="" />
-                  <img className="h-8 ml-4" src="/Brands/" alt="" />
-                  <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
-                </div>
-                </div>
-                  <img
-                    className="h-8 w-8 mt-2 rounded-full border border-gray-400"
-                    src="./china.png"
-                    alt=""
-                  />
-                </div>
-               
-              </div>
-              <div className="mt-2 md:mb-0 mb-8 md:ml-0 ml-6">
-                <button className="font-bold inline-flex w-20 items-center h-6 bg-purple-500 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-700 rounded text-sm">
-                  Quote
-                  <svg
-                    fill="none"
-                    stroke="currentColor"
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    stroke-width="2"
-                    className="w-4 h-4 ml-1"
-                    viewBox="0 0 24 24"
-                  >
-                    <path d="M5 12h14M12 5l7 7-7 7"></path>
-                  </svg>
-                </button>
-              </div>
-            </div>
-          </div>
+        <div id="aircompressor">
+          <Aircompressor></Aircompressor>
         </div>
+
         <div className="py-10 flex item-center justify-center">
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
             <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
@@ -593,91 +486,9 @@ export default function ScopeOfSupply() {
             </div>
           </div>
         </div>
-        <div className="py-10 flex item-center justify-center">
-          <div className="w-4/5 lg:w-3/4 xl:w-2/4">
-            <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
-              <img
-                className="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
-                src="/scope/Cranes-and-Hatch-Covers-final-238x238.png"
-                alt=""
-              />
-              <div className="p-3 flex flex-col justify-start">
-                <h1 className="text-black font-sans font-semibold text-2xl md:text-lg mb-2">
-                Cranes and Hatch Covers final
-                </h1>
-                <div className="my-2 px-2">
-                 <div className="flex flex-row">
-                  <img
-                    className="h-8 w-8 rounded-full border border-gray-400"
-                    src="./european-union.png"
-                    alt=""
-                  />
-                  <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <img className="h-8" src="/Brands/denjet.svg" alt="" />
-                  <img className="h-12" src="/Brands/terasaki.svg" alt="" />
-                  <img className="h-8 " src="/Brands/line.svg" alt="" />
-                  <img className="h-12" src="/Brands/yanmar.svg" alt="" />
-                  <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
-                </div>
-                </div>
-                   <div className="flex flex-row">
-                  <img
-                    className="h-8 w-8 rounded-full border border-gray-400"
-                    src="./china.png"
-                    alt=""
-                  />
-                  <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <img className="h-8 " src="/Brands/cssc.png" alt="" />
-                  <img className="h-8" src="/Brands/jx.png" alt="" />
-                  <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
-                </div>
-                </div>
-                
-                  <div className="flex flex-row">
-                  <img
-                    className="h-8 w-8 rounded-full mt-2 border border-gray-400"
-                    src="./japan.png"
-                    alt=""
-                  />
-                  <div className="flex flex-row grid  mx-4 gap-2 mt-2 grid-cols-5 lg:grid-cols-5">
-                  <img className="h-12 -mt-2" src="/Brands/mac.svg" alt="" />
-                  <img className="h-12 -mt-2" src="/Brands/kawasaki.png" alt="" />
-                </div>
-                </div>
-                  <div className="flex flex-row">
-                  <img
-                    className="h-8 w-8 rounded-full mt-2 border border-gray-400"
-                    src="./south-korea.png"
-                    alt=""
-                  />
-                  <div className="flex flex-row grid  mx-4 gap-2 mt-2 grid-cols-5 lg:grid-cols-5">
-                  <img className="h-8" src="/Brands/dmc.png" alt="" />
-                  <img className="h-8" src="/Brands/taekwang1.png" alt="" />
-                  <img className="h-8" src="/Brands/oriental.png" alt="" />
-                    </div>
-                </div>
-                </div>
-               
-              </div>
-             <div className="mt-2 md:mb-0 mb-8 md:ml-0 ml-6">
-                <button className="font-bold inline-flex w-20 items-center h-6 bg-purple-500 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-700 rounded text-sm">
-                  Quote
-                  <svg
-                    fill="none"
-                    stroke="currentColor"
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    stroke-width="2"
-                    className="w-4 h-4 ml-1"
-                    viewBox="0 0 24 24"
-                  >
-                    <path d="M5 12h14M12 5l7 7-7 7"></path>
-                  </svg>
-                </button>
-              </div>
-            </div>
-          </div>
-        </div>
+       <div id="cranes">
+        <Cranes></Cranes>
+       </div>
         <div className="py-10 flex item-center justify-center">
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
             <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
@@ -1199,89 +1010,9 @@ export default function ScopeOfSupply() {
             </div>
           </div>
         </div>
-        <div className="py-10 flex item-center justify-center">
-          <div className="w-4/5 lg:w-3/4 xl:w-2/4">
-            <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
-              <img
-                className="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
-                src="/scope/fuel-injection_ccexpress-238x238.png"
-                alt=""
-              />
-              <div className="p-3 flex flex-col justify-start">
-                <h1 className="text-black font-sans font-semibold text-2xl md:text-lg mb-2">
-                fuel Injection
-                </h1>
-                <div className="my-2 px-2">
-                 <div className="flex flex-row">
-                  <img
-                    className="h-8 w-8 rounded-full border border-gray-400"
-                    src="./european-union.png"
-                    alt=""
-                  />
-                  <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <img className="h-8" src="/brand/mak.png" alt="" />
-                  <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
-                </div>
-                </div>
-                 {/**  <div className="flex flex-row">
-                  <img
-                    className="h-8 w-8 rounded-full mt-2 border border-gray-400"
-                    src="./china.png"
-                    alt=""
-                  />
-                  <div className="flex flex-row grid mt-2 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <img className="h-12 " src="/brand/" alt="" />
-                  <img className="h-12" src="/brand/" alt="" />
-                  <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
-                </div>
-                </div>*/} 
-                
-                 <div className="flex flex-row">
-                  <img
-                    className="h-8 w-8 rounded-full mt-2 border border-gray-400"
-                    src="./japan.png"
-                    alt=""
-                  />
-                  <div className="flex flex-row grid mt-2 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                   <img className="h-8" src="/brand/yanmar.png" alt="" />
-                  <img className="h-8" src="/brand/kobediesel.png" alt="" />
-                 <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
-                </div>
-                </div>
-                  <div className="flex flex-row">
-                  <img
-                    className="h-8 w-8 rounded-full mt-2 border border-gray-400"
-                    src="./south-korea.png"
-                    alt=""
-                  />
-                  <div className="flex flex-row grid mt-2 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <img className="h-8" src="/brand/doosan.png" alt="" />
-                  <img className="h-8" src="/brand/ssangyong.png" alt="" />
-                  <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
-                </div>
-                </div>
-                </div>
-               
-              </div>
-             <div className="mt-2 md:mb-0 mb-8 md:ml-0 ml-6">
-                <button className="font-bold inline-flex w-20 items-center h-6 bg-purple-500 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-700 rounded text-sm">
-                  Quote
-                  <svg
-                    fill="none"
-                    stroke="currentColor"
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    stroke-width="2"
-                    className="w-4 h-4 ml-1"
-                    viewBox="0 0 24 24"
-                  >
-                    <path d="M5 12h14M12 5l7 7-7 7"></path>
-                  </svg>
-                </button>
-              </div>
-            </div>
-          </div>
-        </div>
+      <div id="injectors" >
+       <Injectors></Injectors> 
+        </div> 
         <div className="py-10 flex item-center justify-center">
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
             <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
@@ -1368,95 +1099,12 @@ export default function ScopeOfSupply() {
             </div>
           </div>
         </div>
-        <div className="py-10 flex item-center justify-center">
-          <div className="w-4/5 lg:w-3/4 xl:w-2/4">
-            <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
-              <img
-                className="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
-                src="/scope/Generator-Engines_ccexpress-238x238.png"
-                alt=""
-              />
-              <div className="p-3 flex flex-col justify-start">
-                <h1 className="text-black font-sans font-semibold text-2xl md:text-lg mb-2">
-                Generator Engines
-                </h1>
-                <div className="my-2 px-2">
-                 <div className="flex flex-row">
-                  <img
-                    className="h-8 w-8 rounded-full border border-gray-400"
-                    src="./european-union.png"
-                    alt=""
-                  />
-                  <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <img className="h-8" src="/brand/wartsila.png" alt="" />
-                  <img className="h-10 ml-2" src="/brand/tdi.png" alt="" />
-                  <img className="h-6 mt-2" src="/brand/catapillar.png" alt="" />
-                  <img className="h-12" src="/brand/" alt="" />
-                  <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
-                </div>
-                </div>
-                   <div className="flex flex-row">
-                  <img
-                    className="h-8 w-8 rounded-full border border-gray-400"
-                    src="./china.png"
-                    alt=""
-                  />
-                  <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <img className="h-12" src="/brand/daihatsu.png" alt="" />
-                  <img className="h-10" src="/brand/cssc-logo-250x250.png" alt="" />
-                  <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
-                </div>
-                </div>
-                
-                 <div className="flex flex-row">
-                  <img
-                    className="h-8 w-8 rounded-full border border-gray-400"
-                    src="./japan.png"
-                    alt=""
-                  />
-                  <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                 <img className="h-8" src="/brand/niigata.png" alt="" />
-                  <img className="h-8" src="/brand/yanmar.png" alt="" />
-                  <img className="h-8" src="/brand/daihatsu.png" alt="" />
-                  <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
-                </div>
-                </div>
-                 {/** <div className="flex flex-row">
-                  <img
-                    className="h-8 w-8 rounded-full border border-gray-400"
-                    src="./south-korea.png"
-                    alt=""
-                  />
-                  <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <img className="h-12 " src="/brand/" alt="" />
-                  <img className="h-12" src="/brand/" alt="" />
-                  <img className="h-12 " src="/brand/" alt="" />
-                  <img className="h-12" src="/brand/" alt="" />
-                  <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
-                </div>
-                </div>*/} 
-                </div>
-               
-              </div>
-             <div className="mt-2 md:mb-0 mb-8 md:ml-0 ml-6">
-                <button className="font-bold inline-flex w-20 items-center h-6 bg-purple-500 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-700 rounded text-sm">
-                  Quote
-                  <svg
-                    fill="none"
-                    stroke="currentColor"
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    stroke-width="2"
-                    className="w-4 h-4 ml-1"
-                    viewBox="0 0 24 24"
-                  >
-                    <path d="M5 12h14M12 5l7 7-7 7"></path>
-                  </svg>
-                </button>
-              </div>
-            </div>
-          </div>
+        <div id="generatorengine">
+          <Generatorengine>
+
+          </Generatorengine>
         </div>
+
         <div className="py-10 flex item-center justify-center">
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
             <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
@@ -1547,92 +1195,9 @@ export default function ScopeOfSupply() {
             </div>
           </div>
         </div>
-        <div className="py-10 flex item-center justify-center">
-          <div className="w-4/5 lg:w-3/4 xl:w-2/4">
-            <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
-              <img
-                className="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
-                src="/scope/Heat_Exchangers-238x238.png"
-                alt=""
-              />
-              <div className="p-3 flex flex-col justify-start">
-                <h1 className="text-black font-sans font-semibold text-2xl md:text-lg mb-2">
-                Heat Exchangers
-                </h1>
-                <div className="my-2 px-2">
-                 <div className="flex flex-row">
-                  <img
-                    className="h-8 w-8 rounded-full border border-gray-400"
-                    src="./european-union.png"
-                    alt=""
-                  />
-                  <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <img className="h-8" src="/brand/sperre.png" alt="" />
-                  <img className="h-8" src="/brand/alfalaval.png" alt="" />
-                  <img className="h-8" src="/brand/spx.png" alt="" />
-                  <img className="h-8" src="/brand/gea.png" alt="" />
-                  <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
-                </div>
-                </div>
-                   <div className="flex flex-row">
-                  <img
-                    className="h-8 w-8 mt-2 rounded-full border border-gray-400"
-                    src="./china.png"
-                    alt=""
-                  />
-                  <div className="flex flex-row grid mt-2 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <img className="h-8" src="/brand/cummins.png" alt="" />
-                  <img className="h-12" src="/brand/" alt="" />
-                  <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
-                </div>
-                </div>
-                
-                 <div className="flex flex-row">
-                  <img
-                    className="h-8 w-8 -mt-2 rounded-full border border-gray-400"
-                    src="./japan.png"
-                    alt=""
-                  />
-                  <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <img className="h-6" src="/brand/yasec.png" alt="" />
-                  <img className="h-8 ml-2 -mt-2" src="/brand/hisaka.png" alt="" />
-                  <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
-                </div>
-                </div>
-                  <div className="flex flex-row">
-                  <img
-                    className="h-8 w-8 mt-2 rounded-full border border-gray-400"
-                    src="./south-korea.png"
-                    alt=""
-                  />
-                  <div className="flex flex-row grid mt-2 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <img className="h-10" src="/brand/dongwha.png" alt="" />
-                  <img className="h-8" src="/brand/lhe.png" alt="" />
-                  <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
-                </div>
-                </div>
-                </div>
-               
-              </div>
-             <div className="mt-2 md:mb-0 mb-8 md:ml-0 ml-6">
-                <button className="font-bold inline-flex w-20 items-center h-6 bg-purple-500 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-700 rounded text-sm">
-                  Quote
-                  <svg
-                    fill="none"
-                    stroke="currentColor"
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    stroke-width="2"
-                    className="w-4 h-4 ml-1"
-                    viewBox="0 0 24 24"
-                  >
-                    <path d="M5 12h14M12 5l7 7-7 7"></path>
-                  </svg>
-                </button>
-              </div>
-            </div>
-          </div>
-        </div>
+      <div id="heatexchanger">
+      <Heatexchanger></Heatexchanger>  
+        </div>  
         <div className="py-10 flex item-center justify-center">
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
             <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
@@ -2082,106 +1647,10 @@ export default function ScopeOfSupply() {
             </div>
           </div>
         </div>
-        <div className="py-10 flex item-center justify-center">
-          <div className="w-4/5 lg:w-3/4 xl:w-2/4">
-            <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
-              <img
-                className="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
-                src="/scope/main-engine-238x238.png"
-                alt=""
-              />
-              <div className="p-3 flex flex-col justify-start">
-                <h1 className="text-black font-sans font-semibold text-2xl md:text-lg mb-2">
-                main engine
-                </h1>
-                <div className="my-2 px-2">
-                 <div className="flex flex-row">
-                  <img
-                    className="h-8 w-8 rounded-full border border-gray-400"
-                    src="./european-union.png"
-                    alt=""
-                  />
-                <div className="flex flex-row grid grid-cols-5 gap-1 md:grid   mx-4 gap-2 md:grid-cols-5  lg:grid-cols-5">
-                <img className="h-8 -ml-2" src="/brand/cummins.png" alt="" />
-                <img className="h-8" src="/brand/sulzer.png" alt="" />
-               <img className="h-8 ml-2" src="/brand/deutz.png" alt="" />
-                  <img className="h-8" src="/brand/hcp.png" alt="" />
-                  <img className="h-4 ml-2 mt-1" src="./" alt="" />
-                </div>
-                </div>
-                <div className="flex flex-row">
-                   <div className="flex flex-row">
-                  <img
-                    className="h-8 w-8 rounded-full mt-4 border border-gray-400"
-                    src="./china.png"
-                    alt=""
-                  />
-                  <div className="flex flex-row grid mt-4 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <img className="h-8" src="/brand/hudong.png" alt="" />
-                  <img className="h-8 " src="/brand/manbw.png" alt="" />
-                  <img className="h-12" src="/brand/" alt="" />
-                  <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
-                </div>
-                </div>
-                
-                   
-                </div>
-                <div className="flex flex-row">
-                 <div className="flex flex-row">
-                  <img
-                    className="h-8 w-8 rounded-full border border-gray-400"
-                    src="./japan.png"
-                    alt=""
-                  />
-                  <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <img className="h-8" src="/brand/hitachizosen.png" alt="" />
-                  <img className="h-8" src="/brand/makita.png" alt="" />
-                  <img className="h-8" src="/brand/mitsubishi-logo-238x238.png" alt="" />
-                  <img className="h-8" src="/brand/kawasaki.png" alt="" />
-                  <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
-                </div>
-                </div>
-                 
-                </div>
-                  <div className="flex flex-row">
-                  <div className="flex flex-row">
-                  <img
-                    className="h-8 w-8 rounded-full mt-4 border border-gray-400"
-                    src="./south-korea.png"
-                    alt=""
-                  />
-                  <div className="flex flex-row grid mt-4 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <img className="h-8" src="/brand/hyundai.png" alt="" />
-                  <img className="h-8" src="/brand/doosan.png" alt="" />
-                  <img className="h-8" src="/brand/stx.png" alt="" />
-                  <img className="h-8" src="/brand/ssangyong.png" alt="" />
-                  <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
-                </div>
-                </div>
-                  
-                </div>
-                </div>
-               
-              </div>
-             <div className="mt-2 md:mb-0 mb-8 md:ml-0 ml-6">
-                <button className="font-bold inline-flex w-20 items-center h-6 bg-purple-500 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-700 rounded text-sm">
-                  Quote
-                  <svg
-                    fill="none"
-                    stroke="currentColor"
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    stroke-width="2"
-                    className="w-4 h-4 ml-1"
-                    viewBox="0 0 24 24"
-                  >
-                    <path d="M5 12h14M12 5l7 7-7 7"></path>
-                  </svg>
-                </button>
-              </div>
-            </div>
-          </div>
-        </div>
+       <div id="mainengine">
+        <Mainengine></Mainengine>
+       </div>
+
         <div className="py-10 flex item-center justify-center">
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
             <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
@@ -2642,191 +2111,10 @@ export default function ScopeOfSupply() {
             </div>
           </div>
         </div>
-        <div className="py-10 flex item-center justify-center">
-          <div className="w-4/5 lg:w-3/4 xl:w-2/4">
-            <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
-              <img
-                className="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
-                src="/scope/pump-1_ccexpress-238x238.png"
-                alt=""
-              />
-              <div className="p-3 flex flex-col justify-start">
-                <h1 className="text-black font-sans font-semibold text-2xl md:text-lg mb-2">
-                pump-1
-                </h1>
-                <div className="my-2 px-2">
-                 <div className="flex flex-row">
-                  <img
-                    className="h-8 w-8 rounded-full border border-gray-400"
-                    src="./european-union.png"
-                    alt=""
-                  />
-                  <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <img className="h-8" src="/brand/desmi.png" alt="" />
-                  <img className="h-8" src="/brand/azcue.png" alt="" />
-                  <img className="h-8" src="/brand/grundfos.png" alt="" />
-                  <img className="h-8 ml-2" src="/brand/ALLWEILER.png" alt="" />
-                  <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
-                </div>
-                </div>
-                  {/**  <div className="flex flex-row">
-                  <img
-                    className="h-8 w-8 rounded-full border mt-4 border-gray-400"
-                    src="./china.png"
-                    alt=""
-                  />
-                  <div className="flex flex-row grid mt-4 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <img className="h-12 " src="/brand/" alt="" />
-                  <img className="h-12" src="/brand/" alt="" />
-                  <img className="h-12 " src="/brand/" alt="" />
-                  <img className="h-12" src="/brand/" alt="" />
-                  <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
-                </div>
-                </div>
-                */}
-                 <div className="flex flex-row">
-                  <img
-                    className="h-8 w-8 rounded-full mt-4 border border-gray-400"
-                    src="./japan.png"
-                    alt=""
-                  />
-                  <div className="flex flex-row grid mt-4 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <img className="h-8" src="/brand/taikokikai.png" alt="" />
-                  <img className="h-8" src="/brand/heishin.png" alt="" />
-                  <img className="h-8" src="/brand/teikoku.png" alt="" />
-                  <img className="h-8" src="/brand/sasakura.png" alt="" />
-                  <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
-                </div>
-                </div>
-                  <div className="flex flex-row">
-                  <img
-                    className="h-8 w-8 rounded-full mt-4 border border-gray-400"
-                    src="./south-korea.png"
-                    alt=""
-                  />
-                  <div className="flex flex-row grid mt-4 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <img className="h-8" src="/brand/shinshin.png" alt="" />
-                  <img className="h-12" src="/brand/" alt="" />
-                  <img className="h-12 " src="/brand/" alt="" />
-                  <img className="h-12" src="/brand/" alt="" />
-                  <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
-                </div>
-                </div>
-                </div>
-               
-              </div>
-             <div className="mt-2 md:mb-0 mb-8 md:ml-0 ml-6">
-                <button className="font-bold inline-flex w-20 items-center h-6 bg-purple-500 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-700 rounded text-sm">
-                  Quote
-                  <svg
-                    fill="none"
-                    stroke="currentColor"
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    stroke-width="2"
-                    className="w-4 h-4 ml-1"
-                    viewBox="0 0 24 24"
-                  >
-                    <path d="M5 12h14M12 5l7 7-7 7"></path>
-                  </svg>
-                </button>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div className="py-10 flex item-center justify-center">
-          <div className="w-4/5 lg:w-3/4 xl:w-2/4">
-            <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
-              <img
-                className="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
-                src="/scope/pump-1_ccexpress-238x238.png"
-                alt=""
-              />
-              <div className="p-3 flex flex-col justify-start">
-                <h1 className="text-black font-sans font-semibold text-2xl md:text-lg mb-2">
-                pump-1
-                </h1>
-                <div className="my-2 px-2">
-                 <div className="flex flex-row">
-                  <img
-                    className="h-8 w-8 rounded-full border border-gray-400"
-                    src="./european-union.png"
-                    alt=""
-                  />
-                  <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <img className="h-8" src="/brand/desmi.png" alt="" />
-                  <img className="h-8" src="/brand/azcue.png" alt="" />
-                  <img className="h-8" src="/brand/grundfos.png" alt="" />
-                  <img className="h-8 ml-2" src="/brand/ALLWEILER.png" alt="" />
-                  <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
-                </div>
-                </div>
-                  {/**  <div className="flex flex-row">
-                  <img
-                    className="h-8 w-8 rounded-full border mt-4 border-gray-400"
-                    src="./china.png"
-                    alt=""
-                  />
-                  <div className="flex flex-row grid mt-4 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <img className="h-12 " src="/brand/" alt="" />
-                  <img className="h-12" src="/brand/" alt="" />
-                  <img className="h-12 " src="/brand/" alt="" />
-                  <img className="h-12" src="/brand/" alt="" />
-                  <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
-                </div>
-                </div>
-                */}
-                 <div className="flex flex-row">
-                  <img
-                    className="h-8 w-8 rounded-full mt-4 border border-gray-400"
-                    src="./japan.png"
-                    alt=""
-                  />
-                  <div className="flex flex-row grid mt-4 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <img className="h-8" src="/brand/taikokikai.png" alt="" />
-                  <img className="h-8" src="/brand/heishin.png" alt="" />
-                  <img className="h-8" src="/brand/teikoku.png" alt="" />
-                  <img className="h-8" src="/brand/sasakura.png" alt="" />
-                  <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
-                </div>
-                </div>
-                  <div className="flex flex-row">
-                  <img
-                    className="h-8 w-8 rounded-full mt-4 border border-gray-400"
-                    src="./south-korea.png"
-                    alt=""
-                  />
-                  <div className="flex flex-row grid mt-4 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <img className="h-8" src="/brand/shinshin.png" alt="" />
-                  <img className="h-12" src="/brand/" alt="" />
-                  <img className="h-12 " src="/brand/" alt="" />
-                  <img className="h-12" src="/brand/" alt="" />
-                  <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
-                </div>
-                </div>
-                </div>
-               
-              </div>
-             <div className="mt-2 md:mb-0 mb-8 md:ml-0 ml-6">
-                <button className="font-bold inline-flex w-20 items-center h-6 bg-purple-500 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-700 rounded text-sm">
-                  Quote
-                  <svg
-                    fill="none"
-                    stroke="currentColor"
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    stroke-width="2"
-                    className="w-4 h-4 ml-1"
-                    viewBox="0 0 24 24"
-                  >
-                    <path d="M5 12h14M12 5l7 7-7 7"></path>
-                  </svg>
-                </button>
-              </div>
-            </div>
-          </div>
-        </div>
-        
+
+      <div id="pumps">
+        <Pumps></Pumps>
+      </div>
         <div className="py-10 flex item-center justify-center">
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
             <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
@@ -3103,98 +2391,9 @@ export default function ScopeOfSupply() {
             </div>
           </div>
         </div>
-        <div className="py-10 flex item-center justify-center">
-          <div className="w-4/5 lg:w-3/4 xl:w-2/4">
-            <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
-              <img
-                className="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
-                src="/scope/purifier_ccexpress-238x238.png"
-                alt=""
-              />
-              <div className="p-3 flex flex-col justify-start">
-                <h1 className="text-black font-sans font-semibold text-2xl md:text-lg mb-2">
-                Purifier
-                </h1>
-                <div className="my-2 px-2">
-                 <div className="flex flex-row">
-                  <img
-                    className="h-8 w-8 rounded-full border border-gray-400"
-                    src="./european-union.png"
-                    alt=""
-                  />
-                  <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <img className="h-8" src="/brand/gea.png" alt="" />
-                  <img className="h-6" src="/brand/alfalaval.png" alt="" />
-                  <img className="h-12 " src="/brand/line.svg" alt="" />
-                  <img className="h-12" src="/brand/yanmar.svg" alt="" />
-                  <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
-                </div>
-                </div>
-                  {/** <div className="flex flex-row">
-                  <img
-                    className="h-8 w-8 rounded-full border border-gray-400"
-                    src="./china.png"
-                    alt=""
-                  />
-                  <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <img className="h-12 " src="/brand/" alt="" />
-                  <img className="h-12" src="/brand/" alt="" />
-                  <img className="h-12 " src="/brand/" alt="" />
-                  <img className="h-12" src="/brand/" alt="" />
-                  <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
-                </div>
-                </div>*/} 
-                
-                 <div className="flex flex-row">
-                  <img
-                    className="h-8 w-8 rounded-full border border-gray-400"
-                    src="./japan.png"
-                    alt=""
-                  />
-                  <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <img className="h-8" src="/brand/Mitsubishi-logo-238x238.png" alt="" />
-                  <img className="h-12" src="/brand/" alt="" />
-                  <img className="h-12 " src="/brand/" alt="" />
-                  <img className="h-12" src="/brand/" alt="" />
-                  <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
-                </div>
-                </div>
-                  <div className="flex flex-row">
-                  <img
-                    className="h-8 w-8 rounded-full border border-gray-400"
-                    src="./south-korea.png"
-                    alt=""
-                  />
-                  <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <img className="h-8" src="/brand/samgong.png" alt="" />
-                  <img className="h-12" src="/brand/" alt="" />
-                  <img className="h-12 " src="/brand/" alt="" />
-                  <img className="h-12" src="/brand/" alt="" />
-                  <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
-                </div>
-                </div>
-                </div>
-               
-              </div>
-             <div className="mt-2 md:mb-0 mb-8 md:ml-0 ml-6">
-                <button className="font-bold inline-flex w-20 items-center h-6 bg-purple-500 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-700 rounded text-sm">
-                  Quote
-                  <svg
-                    fill="none"
-                    stroke="currentColor"
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    stroke-width="2"
-                    className="w-4 h-4 ml-1"
-                    viewBox="0 0 24 24"
-                  >
-                    <path d="M5 12h14M12 5l7 7-7 7"></path>
-                  </svg>
-                </button>
-              </div>
-            </div>
-          </div>
-        </div>
+       <div id="purifier" >
+        <Purifier></Purifier>
+       </div>
         <div className="py-10 flex item-center justify-center">
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
             <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
@@ -3563,98 +2762,9 @@ export default function ScopeOfSupply() {
             </div>
           </div>
         </div>
-        <div className="py-10 flex item-center justify-center">
-          <div className="w-4/5 lg:w-3/4 xl:w-2/4">
-            <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
-              <img
-                className="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
-                src="/scope/Turbocharger-238x238.png"
-                alt=""
-              />
-              <div className="p-3 flex flex-col justify-start">
-                <h1 className="text-black font-sans font-semibold text-2xl md:text-lg mb-2">
-                Turbocharger
-                </h1>
-                <div className="my-2 px-2">
-                 <div className="flex flex-row">
-                  <img
-                    className="h-8 w-8 rounded-full border border-gray-400"
-                    src="./european-union.png"
-                    alt=""
-                  />
-                  <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <img className="h-8" src="/brand/abb.png" alt="" />
-                  <img className="h-8 -mt-2" src="/brand/mandiesel.png" alt="" />
-                  <img className="h-12 " src="/brand/line.svg" alt="" />
-                  <img className="h-12" src="/brand/yanmar.svg" alt="" />
-                  <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
-                </div>
-                </div>
-                 {/**   <div className="flex flex-row">
-                  <img
-                    className="h-8 w-8 rounded-full border border-gray-400"
-                    src="./china.png"
-                    alt=""
-                  />
-                  <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <img className="h-12 " src="/brand/" alt="" />
-                  <img className="h-12" src="/brand/" alt="" />
-                  <img className="h-12 " src="/brand/" alt="" />
-                  <img className="h-12" src="/brand/" alt="" />
-                  <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
-                </div>
-                </div>
-                */}
-                 <div className="flex flex-row">
-                  <img
-                    className="h-8 w-8 rounded-full border border-gray-400"
-                    src="./japan.png"
-                    alt=""
-                  />
-                  <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <img className="h-6" src="/brand/nissin.png" alt="" />
-                  <img className="h-8" src="/brand/ihi.png" alt="" />
-                  <img className="h-8" src="/brand/Mitsubishi-logo-238x238.png" alt="" />
-                  <img className="h-12" src="/brand/" alt="" />
-                  <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
-                </div>
-                </div>
-                  <div className="flex flex-row">
-                  <img
-                    className="h-8 w-8 rounded-full border border-gray-400"
-                    src="./south-korea.png"
-                    alt=""
-                  />
-                  <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <img className="h-8" src="/brand/stx.png" alt="" />
-                  <img className="h-8" src="/brand/doosan.png" alt="" />
-                  <img className="h-12 " src="/brand/" alt="" />
-                  <img className="h-12" src="/brand/" alt="" />
-                  <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
-                </div>
-                </div>
-                </div>
-               
-              </div>
-             <div className="mt-2 md:mb-0 mb-8 md:ml-0 ml-6">
-                <button className="font-bold inline-flex w-20 items-center h-6 bg-purple-500 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-700 rounded text-sm">
-                  Quote
-                  <svg
-                    fill="none"
-                    stroke="currentColor"
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    stroke-width="2"
-                    className="w-4 h-4 ml-1"
-                    viewBox="0 0 24 24"
-                  >
-                    <path d="M5 12h14M12 5l7 7-7 7"></path>
-                  </svg>
-                </button>
-              </div>
-            </div>
-          </div>
-        </div>
+       <div id="turbocharger">
+        <Turbocharger></Turbocharger>
+       </div>
         <div className="py-10 flex item-center justify-center">
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
             <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">

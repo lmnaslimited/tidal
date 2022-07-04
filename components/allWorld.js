@@ -5,7 +5,7 @@ export default function allWorld() {
       <div className=" p-4 bg-sky-50">
         <div className="border border-gray-200  rounded-lg  bg-white ">
           <div className="container px-5 py-8 mx-auto flex items-center md:flex-row flex-col">
-            <div className="flex flex-col md:pr-10 md:mb-0 mb-6 pr-0 w-full md:w-auto md:text-left text-center">
+            <div className="flex flex-col md:pr-10 md:mb-0 mb-6 ml-0 lg:ml-44 pr-0 w-full md:w-auto md:text-left text-center">
 
               <h1 className="md:text-3xl text-xl font-medium title-font text-gray-900">
 
@@ -27,8 +27,8 @@ export default function allWorld() {
   </span>
               </button>
               </a>*/}
-              <a href="#/brands">
-              <button  className="bg-gray-100 inline-flex py-3 px-5 rounded-lg items-center hover:bg-gray-200 focus:outline-none">
+              <a href="/#brands">
+              <button  id="brands" className="bg-gray-100 inline-flex py-3 px-5 rounded-lg mr-0 lg:mr-40 items-center hover:bg-gray-200 focus:outline-none">
                 <img src="/brand-logo-238x238.png" className='w-6 h-6'/>
                 <span className="md:ml-4 ml-0 flex items-start flex-col leading-none">
                   <span className="text-xs text-gray-600 mb-1">Supplying</span>
