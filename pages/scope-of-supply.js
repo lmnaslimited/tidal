@@ -588,7 +588,7 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid mt-2 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                 <Scope_image width="40" height="40"  className="h-12 " src="/brand/" alt="" />
+                
                   <Scope_image width="40" height="40"  className="h-12" src="/brand/" alt="" />
                   
                 </div>
@@ -1023,7 +1023,7 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="40" height="40"  className="h-12 " src="/brand/" alt="" />
+                 
                   <Scope_image width="40" height="40"  className="h-12" src="/brand/" alt="" />
                   
                 </div>
@@ -1115,7 +1115,7 @@ export default function ScopeOfSupply() {
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
                   <Scope_image width="32" height="32"  className="h-8" src="/brand/zexel.png" alt="" />
-                  <Scope_image width="40" height="40"  className="h-12 " src="/brand/" alt="" />
+                 
                   <Scope_image width="40" height="40"  className="h-12" src="/brand/" alt="" />
                   
                 </div>
@@ -1128,7 +1128,7 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="40" height="40"  className="h-12 " src="/brand/" alt="" />
+                 
                   <Scope_image width="40" height="40"  className="h-12" src="/brand/" alt="" />
                   
                 </div>
@@ -1142,9 +1142,9 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="40" height="40"  className="h-12 " src="/brand/" alt="" />
+                 
                   <Scope_image width="40" height="40"  className="h-12" src="/brand/" alt="" />
-                  <Scope_image width="40" height="40"  className="h-12 " src="/brand/" alt="" />
+                 
                   <Scope_image width="40" height="40"  className="h-12" src="/brand/" alt="" />
                   
                 </div>
@@ -1502,7 +1502,7 @@ export default function ScopeOfSupply() {
                   <div className="flex flex-row grid mt-2 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
                   <Scope_image width="32" height="32"  className="h-8" src="/brand/hyundai.png" alt="" />
                   <Scope_image width="32" height="32"  className="h-8" src="/brand/oriental.png" alt="" />
-                  <Scope_image width="40" height="40"  className="h-12 " src="/brand/" alt="" />
+                 
                   <Scope_image width="40" height="40"  className="h-12" src="/brand/" alt="" />
                   
                 </div>
@@ -1562,9 +1562,9 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="40" height="40"  className="h-12 " src="/brand/" alt="" />
+                 
                   <Scope_image width="40" height="40"  className="h-12" src="/brand/" alt="" />
-                  <Scope_image width="40" height="40"  className="h-12 " src="/brand/" alt="" />
+                 
                   <Scope_image width="40" height="40"  className="h-12" src="/brand/" alt="" />
                   
                 </div>
@@ -1579,7 +1579,7 @@ export default function ScopeOfSupply() {
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
                   <Scope_image width="32" height="32"  className="h-8" src="/brand/tokimec.png" alt="" />
                   <Scope_image width="36" height="36" className="h-10" src="/brand/yokogawa.png" alt="" />
-                  <Scope_image width="40" height="40"  className="h-12 " src="/brand/" alt="" />
+                 
                   <Scope_image width="40" height="40"  className="h-12" src="/brand/" alt="" />
                   
                 </div>
@@ -1593,7 +1593,7 @@ export default function ScopeOfSupply() {
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
                   <Scope_image width="36" height="36" className="h-10" src="/brand/komeri.png" alt="" />
                   <Scope_image width="36" height="36" className="h-10" src="/brand/saracom.png" alt="" />
-                  <Scope_image width="40" height="40"  className="h-12 " src="/brand/" alt="" />
+                 
                   <Scope_image width="40" height="40"  className="h-12" src="/brand/" alt="" />
                   
                 </div>
@@ -1657,9 +1657,9 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="40" height="40"  className="h-12 " src="/brand/" alt="" />
+                 
                   <Scope_image width="40" height="40"  className="h-12" src="/brand/" alt="" />
-                  <Scope_image width="40" height="40"  className="h-12 " src="/brand/" alt="" />
+                 
                   <Scope_image width="40" height="40"  className="h-12" src="/brand/" alt="" />
                   
                 </div>
@@ -1674,7 +1674,7 @@ export default function ScopeOfSupply() {
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
                   <Scope_image width="32" height="32"  className="h-8" src="/brand/daihatsu.png" alt="" />
                   <Scope_image width="32" height="32"  className="h-8" src="/brand/meiyo.png" alt="" />
-                  <Scope_image width="40" height="40"  className="h-12 " src="/brand/" alt="" />
+                 
                   <Scope_image width="40" height="40"  className="h-12" src="/brand/" alt="" />
                   
                 </div>
@@ -1688,7 +1688,7 @@ export default function ScopeOfSupply() {
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
                   <Scope_image width="32" height="32"  className="h-8" src="/brand/spacevision.png" alt="" />
                   <Scope_image width="40" height="40"  className="h-12" src="/brand/" alt="" />
-                  <Scope_image width="40" height="40"  className="h-12 " src="/brand/" alt="" />
+                 
                   <Scope_image width="40" height="40"  className="h-12" src="/brand/" alt="" />
                   
                 </div>
@@ -1748,9 +1748,9 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="40" height="40"  className="h-12 " src="/brand/" alt="" />
+                 
                   <Scope_image width="40" height="40"  className="h-12" src="/brand/" alt="" />
-                  <Scope_image width="40" height="40"  className="h-12 " src="/brand/" alt="" />
+                 
                   <Scope_image width="40" height="40"  className="h-12" src="/brand/" alt="" />
                   
                 </div>
@@ -1779,7 +1779,7 @@ export default function ScopeOfSupply() {
                   <div className="flex flex-row grid mt-4 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
                   <Scope_image width="32" height="32"  className="h-8" src="/brand/jowa.png" alt="" />
                   <Scope_image width="40" height="40"  className="h-12" src="/brand/" alt="" />
-                  <Scope_image width="40" height="40"  className="h-12 " src="/brand/" alt="" />
+                 
                   <Scope_image width="40" height="40"  className="h-12" src="/brand/" alt="" />
                   
                 </div>
@@ -1839,9 +1839,9 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="40" height="40"  className="h-12 " src="/brand/" alt="" />
+                 
                   <Scope_image width="40" height="40"  className="h-12" src="/brand/" alt="" />
-                  <Scope_image width="40" height="40"  className="h-12 " src="/brand/" alt="" />
+                 
                   <Scope_image width="40" height="40"  className="h-12" src="/brand/" alt="" />
                   
                 </div>
@@ -1870,7 +1870,7 @@ export default function ScopeOfSupply() {
                   <div className="flex flex-row grid mt-4 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
                   <Scope_image width="32" height="32"  className="h-8" src="/brand/jowa.png" alt="" />
                   <Scope_image width="40" height="40"  className="h-12" src="/brand/" alt="" />
-                  <Scope_image width="40" height="40"  className="h-12 " src="/brand/" alt="" />
+                 
                   <Scope_image width="40" height="40"  className="h-12" src="/brand/" alt="" />
                   
                 </div>
@@ -1933,9 +1933,9 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="40" height="40"  className="h-12 " src="/brand/" alt="" />
+                 
                   <Scope_image width="40" height="40"  className="h-12" src="/brand/" alt="" />
-                  <Scope_image width="40" height="40"  className="h-12 " src="/brand/" alt="" />
+                 
                   <Scope_image width="40" height="40"  className="h-12" src="/brand/" alt="" />
                   
                 </div>
@@ -1950,7 +1950,7 @@ export default function ScopeOfSupply() {
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
                   <Scope_image width="32" height="32"  className="h-8" src="/brand/nakashima.png" alt="" />
                   <Scope_image width="40" height="40"  className="h-12" src="/brand/" alt="" />
-                  <Scope_image width="40" height="40"  className="h-12 " src="/brand/" alt="" />
+                 
                   <Scope_image width="40" height="40"  className="h-12" src="/brand/" alt="" />
                   
                 </div>
@@ -1964,7 +1964,7 @@ export default function ScopeOfSupply() {
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
                   <Scope_image width="32" height="32"  className="h-8" src="/brand/sillametal.png" alt="" />
                   <Scope_image width="40" height="40"  className="h-12" src="/brand/" alt="" />
-                  <Scope_image width="40" height="40"  className="h-12 " src="/brand/" alt="" />
+                 
                   <Scope_image width="40" height="40"  className="h-12" src="/brand/" alt="" />
                   
                 </div>
@@ -2024,9 +2024,9 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="40" height="40"  className="h-12 " src="/brand/" alt="" />
+                 
                   <Scope_image width="40" height="40"  className="h-12" src="/brand/" alt="" />
-                  <Scope_image width="40" height="40"  className="h-12 " src="/brand/" alt="" />
+                 
                   <Scope_image width="40" height="40"  className="h-12" src="/brand/" alt="" />
                   
                 </div>
@@ -2041,7 +2041,7 @@ export default function ScopeOfSupply() {
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
                   <Scope_image width="32" height="32"  className="h-8" src="/brand/nakakita.png" alt="" />
                   <Scope_image width="40" height="40"  className="h-12" src="/brand/" alt="" />
-                  <Scope_image width="40" height="40"  className="h-12 " src="/brand/" alt="" />
+                 
                   <Scope_image width="40" height="40"  className="h-12" src="/brand/" alt="" />
                   
                 </div>
@@ -2055,7 +2055,7 @@ export default function ScopeOfSupply() {
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
                   <Scope_image width="32" height="32"  className="h-8" src="/brand/control.png" alt="" />
                   <Scope_image width="40" height="40"  className="h-12" src="/brand/" alt="" />
-                  <Scope_image width="40" height="40"  className="h-12 " src="/brand/" alt="" />
+                 
                   <Scope_image width="40" height="40"  className="h-12" src="/brand/" alt="" />
                   
                 </div>
@@ -2119,9 +2119,9 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid mt-4 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="40" height="40"  className="h-12 " src="/brand/" alt="" />
+                 
                   <Scope_image width="40" height="40"  className="h-12" src="/brand/" alt="" />
-                  <Scope_image width="40" height="40"  className="h-12 " src="/brand/" alt="" />
+                 
                   <Scope_image width="40" height="40"  className="h-12" src="/brand/" alt="" />
                   
                 </div>
@@ -2150,7 +2150,7 @@ export default function ScopeOfSupply() {
                   <div className="flex flex-row grid mt-4 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
                   <Scope_image width="32" height="32"  className="h-8" src="/brand/shinshin.png" alt="" />
                   <Scope_image width="40" height="40"  className="h-12" src="/brand/" alt="" />
-                  <Scope_image width="40" height="40"  className="h-12 " src="/brand/" alt="" />
+                 
                   <Scope_image width="40" height="40"  className="h-12" src="/brand/" alt="" />
                   
                 </div>
@@ -2210,9 +2210,9 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid mt-4 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="40" height="40"  className="h-12 " src="/brand/" alt="" />
+                 
                   <Scope_image width="40" height="40"  className="h-12" src="/brand/" alt="" />
-                  <Scope_image width="40" height="40"  className="h-12 " src="/brand/" alt="" />
+                 
                   <Scope_image width="40" height="40"  className="h-12" src="/brand/" alt="" />
                   
                 </div>
@@ -2241,7 +2241,7 @@ export default function ScopeOfSupply() {
                   <div className="flex flex-row grid mt-4 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
                   <Scope_image width="32" height="32"  className="h-8" src="/brand/shinshin.png" alt="" />
                   <Scope_image width="40" height="40"  className="h-12" src="/brand/" alt="" />
-                  <Scope_image width="40" height="40"  className="h-12 " src="/brand/" alt="" />
+                 
                   <Scope_image width="40" height="40"  className="h-12" src="/brand/" alt="" />
                   
                 </div>
@@ -2301,9 +2301,9 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid mt-4 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="40" height="40"  className="h-12 " src="/brand/" alt="" />
+                 
                   <Scope_image width="40" height="40"  className="h-12" src="/brand/" alt="" />
-                  <Scope_image width="40" height="40"  className="h-12 " src="/brand/" alt="" />
+                 
                   <Scope_image width="40" height="40"  className="h-12" src="/brand/" alt="" />
                   
                 </div>
@@ -2332,7 +2332,7 @@ export default function ScopeOfSupply() {
                   <div className="flex flex-row grid mt-4 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
                   <Scope_image width="32" height="32"  className="h-8" src="/brand/shinshin.png" alt="" />
                   <Scope_image width="40" height="40"  className="h-12" src="/brand/" alt="" />
-                  <Scope_image width="40" height="40"  className="h-12 " src="/brand/" alt="" />
+                 
                   <Scope_image width="40" height="40"  className="h-12" src="/brand/" alt="" />
                   
                 </div>
@@ -2395,9 +2395,9 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="40" height="40"  className="h-12 " src="/brand/" alt="" />
+                 
                   <Scope_image width="40" height="40"  className="h-12" src="/brand/" alt="" />
-                  <Scope_image width="40" height="40"  className="h-12 " src="/brand/" alt="" />
+                 
                   <Scope_image width="40" height="40"  className="h-12" src="/brand/" alt="" />
                   
                 </div>
@@ -2426,7 +2426,7 @@ export default function ScopeOfSupply() {
                   <div className="flex flex-row grid mt-4 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
                   <Scope_image width="32" height="32"  className="h-8" src="/brand/koc.png" alt="" />
                   <Scope_image width="40" height="40"  className="h-12" src="/brand/" alt="" />
-                  <Scope_image width="40" height="40"  className="h-12 " src="/brand/" alt="" />
+                 
                   <Scope_image width="40" height="40"  className="h-12" src="/brand/" alt="" />
                   
                 </div>
@@ -2488,7 +2488,7 @@ export default function ScopeOfSupply() {
                   <div className="flex flex-row grid mt-4 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
                   <Scope_image width="32" height="32"  className="h-8" src="/brand/cssc-logo-250x250.png" alt="" />
                   <Scope_image width="40" height="40"  className="h-12" src="/brand/" alt="" />
-                  <Scope_image width="40" height="40"  className="h-12 " src="/brand/" alt="" />
+                 
                   <Scope_image width="40" height="40"  className="h-12" src="/brand/" alt="" />
                   
                 </div>
@@ -2503,7 +2503,7 @@ export default function ScopeOfSupply() {
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
                   <Scope_image width="32" height="32"  className="h-8" src="/brand/taikokikai.png" alt="" />
                   <Scope_image width="32" height="32"  className="h-8" src="/brand/sasakura.png" alt="" />
-                  <Scope_image width="40" height="40"  className="h-12 " src="/brand/" alt="" />
+                 
                   <Scope_image width="40" height="40"  className="h-12" src="/brand/" alt="" />
                   
                 </div>
@@ -2517,7 +2517,7 @@ export default function ScopeOfSupply() {
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
                   <Scope_image width="32" height="32"  className="h-8" src="/brand/jowa.png" alt="" />
                   <Scope_image width="32" height="32"  className="h-8" src="/brand/ilseung.png" alt="" />
-                  <Scope_image width="40" height="40"  className="h-12 " src="/brand/" alt="" />
+                 
                   <Scope_image width="40" height="40"  className="h-12" src="/brand/" alt="" />
                   
                 </div>
@@ -2579,7 +2579,7 @@ export default function ScopeOfSupply() {
                   <div className="flex flex-row grid mt-4 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
                   <Scope_image width="32" height="32"  className="h-8" src="/brand/wuhan marine.png" alt="" />
                   <Scope_image width="40" height="40"  className="h-12" src="/brand/" alt="" />
-                  <Scope_image width="40" height="40"  className="h-12 " src="/brand/" alt="" />
+                 
                   <Scope_image width="40" height="40"  className="h-12" src="/brand/" alt="" />
                   
                 </div>
@@ -2608,7 +2608,7 @@ export default function ScopeOfSupply() {
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
                   <Scope_image width="40" height="40"  className="h-12 -mt-2" src="/brand/flutek.png" alt="" />
                   <Scope_image width="40" height="40"  className="h-12" src="/brand/" alt="" />
-                  <Scope_image width="40" height="40"  className="h-12 " src="/brand/" alt="" />
+                 
                   <Scope_image width="40" height="40"  className="h-12" src="/brand/" alt="" />
                   
                 </div>
@@ -2670,7 +2670,7 @@ export default function ScopeOfSupply() {
                   <div className="flex flex-row grid mt-2 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
                   <Scope_image width="32" height="32"  className="h-8" src="/brand/sealantern.png" alt="" />
                   <Scope_image width="40" height="40"  className="h-12" src="/brand/" alt="" />
-                  <Scope_image width="40" height="40"  className="h-12 " src="/brand/" alt="" />
+                 
                   <Scope_image width="40" height="40"  className="h-12" src="/brand/" alt="" />
                   
                 </div>
@@ -2685,7 +2685,7 @@ export default function ScopeOfSupply() {
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
                   <Scope_image width="32" height="32"  className="h-8" src="/brand/Yokohama.png" alt="" />
                   <Scope_image width="32" height="32"  className="h-8" src="/brand/ww.png" alt="" />
-                  <Scope_image width="40" height="40"  className="h-12 " src="/brand/" alt="" />
+                 
                   <Scope_image width="40" height="40"  className="h-12" src="/brand/" alt="" />
                   
                 </div>
@@ -2699,7 +2699,7 @@ export default function ScopeOfSupply() {
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
                   <Scope_image width="32" height="32"  className="h-8" src="/brand/wilsonwalton.png" alt="" />
                   <Scope_image width="40" height="40"  className="h-12" src="/brand/" alt="" />
-                  <Scope_image width="40" height="40"  className="h-12 " src="/brand/" alt="" />
+                 
                   <Scope_image width="40" height="40"  className="h-12" src="/brand/" alt="" />
                   
                 </div>
@@ -2764,7 +2764,7 @@ export default function ScopeOfSupply() {
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
                   <Scope_image width="32" height="32"  className="h-8" src="/brand/xiamenair.png" alt="" />
                   <Scope_image width="32" height="32"  className="h-8" src="/brand/nordic.png" alt="" />
-                  <Scope_image width="40" height="40"  className="h-12 " src="/brand/" alt="" />
+                 
                   <Scope_image width="40" height="40"  className="h-12" src="/brand/" alt="" />
                   
                 </div>
@@ -2792,7 +2792,7 @@ export default function ScopeOfSupply() {
                   <div className="flex flex-row grid  mt-2 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
                   <Scope_image width="36" height="36" className="h-10" src="/brand/acevalve.png" alt="" />
                   <Scope_image width="32" height="32"  className="h-8" src="/brand/tyco.png" alt="" />
-                  <Scope_image width="40" height="40"  className="h-12 " src="/brand/" alt="" />
+                 
                   <Scope_image width="40" height="40"  className="h-12" src="/brand/" alt="" />
                   
                 </div>
@@ -2852,9 +2852,9 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="40" height="40"  className="h-12 " src="/brand/" alt="" />
+                 
                   <Scope_image width="40" height="40"  className="h-12" src="/brand/" alt="" />
-                  <Scope_image width="40" height="40"  className="h-12 " src="/brand/" alt="" />
+                 
                   <Scope_image width="40" height="40"  className="h-12" src="/brand/" alt="" />
                   
                 </div>
@@ -2869,8 +2869,8 @@ export default function ScopeOfSupply() {
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
                   <Scope_image width="32" height="32"  className="h-8" src="/brand/nakakita.png" alt="" />
                   <Scope_image width="24" height="24" className="h-4 mt-2" src="/brand/saginomiya.png" alt="" />
-                  <Scope_image width="40" height="40"  className="h-12 " src="/brand/" alt="" />
-                  <Scope_image width="40" height="40"  className="h-12" src="/brand/" alt="" />
+                 
+                  
                   
                 </div>
                 </div>
@@ -2882,9 +2882,7 @@ export default function ScopeOfSupply() {
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
                   <Scope_image width="32" height="32"  className="h-8" src="/brand/daeho.png" alt="" />
-                  <Scope_image width="40" height="40"  className="h-12" src="/brand/" alt="" />
-                  <Scope_image width="40" height="40"  className="h-12 " src="/brand/" alt="" />
-                  <Scope_image width="40" height="40"  className="h-12" src="/brand/" alt="" />
+                  
                   
                 </div>
                 </div>
@@ -2941,7 +2939,7 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="40" height="40"  className="h-12 " src="/brand/" alt="" />
+                 
                   <Scope_image width="40" height="40"  className="h-12" src="/brand/" alt="" />
                   <Scope_image width="40" height="40"  className="h-12 " src="/Brands/" alt="" />
                   <Scope_image width="40" height="40"  className="h-12" src="/Brands/" alt="" />
@@ -2957,9 +2955,7 @@ export default function ScopeOfSupply() {
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
                   <Scope_image width="32" height="32"  className="h-8" src="/brand/nippon electric.png" alt="" />
-                  <Scope_image width="40" height="40"  className="h-12" src="/brand/" alt="" />
-                  <Scope_image width="40" height="40"  className="h-12 " src="/Brands/" alt="" />
-                  <Scope_image width="40" height="40"  className="h-12" src="/Brands/" alt="" />
+                 
                   
                 </div>
                 </div>
@@ -2971,9 +2967,7 @@ export default function ScopeOfSupply() {
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
                   <Scope_image width="32" height="32"  className="h-8" src="/brand/JUNG –A MARINE.png" alt="" />
-                  <Scope_image width="40" height="40"  className="h-12" src="/brand/" alt="" />
-                  <Scope_image width="40" height="40"  className="h-12 " src="/Brands/" alt="" />
-                  <Scope_image width="40" height="40"  className="h-12" src="/Brands/" alt="" />
+                  
                   
                 </div>
                 </div>
