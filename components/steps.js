@@ -5,29 +5,29 @@ export default function s() {
         {/**<div className="container px-5 py-24 mx-auto flex flex-wrap flex-col">
           <div className="flex mx-auto flex-wrap mb-8 ">
             <a className="sm:px-2  py-3 w-1/2 sm:w-auto justify-center sm:justify-start border-b-2 title-font font-medium hover:bg-gray-100 inline-flex items-center leading-none border-gray-200 hover:text-gray-900 tracking-wider hover:leading-none hover:border-indigo-500 hover:text-indigo-500 tracking-wider rounded-t">
-            <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" classNameName="lg:w-16 lg:h-16 md:w-8 md:h-8 w-12 h-12 w-12 h-12" viewBox="0 0 24 24">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+            <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" classNameName="lg:w-16 lg:h-16 md:w-8 md:h-8 w-12 h-12 w-12 h-12" viewBox="0 0 24 24">
+                                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
                                     </svg>Search Product
             </a>
             <a className="sm:px-2 lg:ml-10 py-3 w-1/2 sm:w-auto justify-center sm:justify-start border-b-2 title-font font-medium hover:bg-gray-100 inline-flex items-center leading-none border-gray-200 hover:text-gray-900 tracking-wider hover:leading-none hover:border-indigo-500 hover:text-indigo-500 tracking-wider rounded-t">
-            <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" classNameName="lg:w-16 lg:h-16 md:w-8 md:h-8 w-12 h-12 w-12 h-12" viewBox="0 0 24 24">
+            <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" classNameName="lg:w-16 lg:h-16 md:w-8 md:h-8 w-12 h-12 w-12 h-12" viewBox="0 0 24 24">
                                         <path d="M22 12h-4l-3 9L9 3l-3 9H2"></path>
                                     </svg>Request Quote
             </a>
             <a className="sm:px-2 lg:ml-10 py-3 w-1/2 sm:w-auto justify-center sm:justify-start border-b-2 title-font font-medium hover:bg-gray-100 inline-flex items-center leading-none border-gray-200 hover:text-gray-900 tracking-wider hover:leading-none hover:border-indigo-500 hover:text-indigo-500 tracking-wider rounded-t">
-            <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" classNameName="lg:w-16 lg:h-16 md:w-8 md:h-8 w-12 h-12 w-12 h-12" viewBox="0 0 24 24">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4M7.835 4.697a3.42 3.42 0 001.946-.806 3.42 3.42 0 014.438 0 3.42 3.42 0 001.946.806 3.42 3.42 0 013.138 3.138 3.42 3.42 0 00.806 1.946 3.42 3.42 0 010 4.438 3.42 3.42 0 00-.806 1.946 3.42 3.42 0 01-3.138 3.138 3.42 3.42 0 00-1.946.806 3.42 3.42 0 01-4.438 0 3.42 3.42 0 00-1.946-.806 3.42 3.42 0 01-3.138-3.138 3.42 3.42 0 00-.806-1.946 3.42 3.42 0 010-4.438 3.42 3.42 0 00.806-1.946 3.42 3.42 0 013.138-3.138z" />
+            <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" classNameName="lg:w-16 lg:h-16 md:w-8 md:h-8 w-12 h-12 w-12 h-12" viewBox="0 0 24 24">
+                                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 12l2 2 4-4M7.835 4.697a3.42 3.42 0 001.946-.806 3.42 3.42 0 014.438 0 3.42 3.42 0 001.946.806 3.42 3.42 0 013.138 3.138 3.42 3.42 0 00.806 1.946 3.42 3.42 0 010 4.438 3.42 3.42 0 00-.806 1.946 3.42 3.42 0 01-3.138 3.138 3.42 3.42 0 00-1.946.806 3.42 3.42 0 01-4.438 0 3.42 3.42 0 00-1.946-.806 3.42 3.42 0 01-3.138-3.138 3.42 3.42 0 00-.806-1.946 3.42 3.42 0 010-4.438 3.42 3.42 0 00.806-1.946 3.42 3.42 0 013.138-3.138z" />
                                     </svg>Approve Quote
             </a>
             <a className="sm:px-2 lg:ml-10 py-3 w-1/2 sm:w-auto justify-center sm:justify-start border-b-2 title-font font-medium hover:bg-gray-100 inline-flex items-center leading-none border-gray-200 hover:text-gray-900 tracking-wider hover:leading-none hover:border-indigo-500 hover:text-indigo-500 tracking-wider rounded-t">
-            <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" classNameName="lg:w-16 lg:h-16 md:w-8 md:h-8 w-12 h-12 w-12 h-12" viewBox="0 0 24 24">
+            <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" classNameName="lg:w-16 lg:h-16 md:w-8 md:h-8 w-12 h-12 w-12 h-12" viewBox="0 0 24 24">
                                         <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path>
               </svg>Recieve Consignment
             </a>
           </div>
          
     </div>*/}
-   <section class="text-gray-600 body-font">
+   <section className="text-gray-600 body-font">
    <div className="px-4 py-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-20">
       <div className="max-w-xl mb-10 md:mx-auto sm:text-center lg:max-w-2xl md:mb-12">
         <div>
@@ -65,8 +65,8 @@ export default function s() {
       <div className="grid gap-8 row-gap-0 lg:grid-cols-4">
         <div className="relative text-center">
           <div className="flex items-center justify-center w-16 h-16 mx-auto mb-4 rounded-full bg-indigo-50 sm:w-20 sm:h-20">
-          <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" className="lg:w-12 lg:h-12 md:w-8 md:h-8 w-12 h-12 w-12 h-12" viewBox="0 0 24 24">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+          <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" className="lg:w-12 lg:h-12 md:w-8 md:h-8 w-12 h-12 w-12 h-12" viewBox="0 0 24 24">
+                                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
                                     </svg>  
           </div>
           <h6 className="mb-2 text-2xl font-extrabold"> 1</h6>
@@ -101,7 +101,7 @@ export default function s() {
         </div>
         <div className="relative text-center">
           <div className="flex items-center justify-center w-16 h-16 mx-auto mb-4 rounded-full bg-indigo-50 sm:w-20 sm:h-20">
-          <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" className="lg:w-12 lg:h-12 md:w-8 md:h-8 w-12 h-12 w-12 h-12" viewBox="0 0 24 24">
+          <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" className="lg:w-12 lg:h-12 md:w-8 md:h-8 w-12 h-12 w-12 h-12" viewBox="0 0 24 24">
                                         <path d="M22 12h-4l-3 9L9 3l-3 9H2"></path>
                                     </svg>
           </div>
@@ -137,8 +137,8 @@ export default function s() {
         </div>
         <div className="relative text-center">
           <div className="flex items-center justify-center w-16 h-16 mx-auto mb-4 rounded-full bg-indigo-50 sm:w-20 sm:h-20">
-          <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" className="lg:w-12 lg:h-12 md:w-8 md:h-8 w-12 h-12 w-12 h-12" viewBox="0 0 24 24">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4M7.835 4.697a3.42 3.42 0 001.946-.806 3.42 3.42 0 014.438 0 3.42 3.42 0 001.946.806 3.42 3.42 0 013.138 3.138 3.42 3.42 0 00.806 1.946 3.42 3.42 0 010 4.438 3.42 3.42 0 00-.806 1.946 3.42 3.42 0 01-3.138 3.138 3.42 3.42 0 00-1.946.806 3.42 3.42 0 01-4.438 0 3.42 3.42 0 00-1.946-.806 3.42 3.42 0 01-3.138-3.138 3.42 3.42 0 00-.806-1.946 3.42 3.42 0 010-4.438 3.42 3.42 0 00.806-1.946 3.42 3.42 0 013.138-3.138z" />
+          <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" className="lg:w-12 lg:h-12 md:w-8 md:h-8 w-12 h-12 w-12 h-12" viewBox="0 0 24 24">
+                                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 12l2 2 4-4M7.835 4.697a3.42 3.42 0 001.946-.806 3.42 3.42 0 014.438 0 3.42 3.42 0 001.946.806 3.42 3.42 0 013.138 3.138 3.42 3.42 0 00.806 1.946 3.42 3.42 0 010 4.438 3.42 3.42 0 00-.806 1.946 3.42 3.42 0 01-3.138 3.138 3.42 3.42 0 00-1.946.806 3.42 3.42 0 01-4.438 0 3.42 3.42 0 00-1.946-.806 3.42 3.42 0 01-3.138-3.138 3.42 3.42 0 00-.806-1.946 3.42 3.42 0 010-4.438 3.42 3.42 0 00.806-1.946 3.42 3.42 0 013.138-3.138z" />
                                     </svg>  
           </div>
           <h6 className="mb-2 text-2xl font-extrabold"> 3</h6>
@@ -172,7 +172,7 @@ export default function s() {
         </div>
         <div className="relative text-center">
           <div className="flex items-center justify-center w-16 h-16 mx-auto mb-4 rounded-full bg-indigo-50 sm:w-20 sm:h-20">
-          <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" className="lg:w-12 lg:h-12 md:w-8 md:h-8 w-12 h-12 w-12 h-12" viewBox="0 0 24 24">
+          <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" className="lg:w-12 lg:h-12 md:w-8 md:h-8 w-12 h-12 w-12 h-12" viewBox="0 0 24 24">
                                         <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path>
               </svg>   
           </div>

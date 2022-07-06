@@ -1,5 +1,4 @@
 export default function pattern({text}) {
-    console.log(text)
     return(
         <div >
         <span className="relative inline-block">
