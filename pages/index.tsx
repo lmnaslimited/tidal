@@ -33,7 +33,8 @@ export default function Home() {
       <Steps />
       <Insurance />
       <Brands/>
-      <Contact />
+       
+    <Contact />
       <Footer />
     </div>
   )

@@ -1,4 +1,4 @@
-export default function Contact({Contact}) {  
+export default function Contact() {  
     return (
         <div>
             <section id="contact" className="text-gray-600 body-font relative bg-sky-50">

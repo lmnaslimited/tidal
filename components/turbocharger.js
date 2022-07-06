@@ -1,10 +1,11 @@
- export default function Turbocharger({turbocharger}){
+import Scope_image from "./scope-image"
+export default function Turbocharger({turbocharger}){
   return(
 
  <div id="turbocharger" className="py-10 flex item-center justify-center">
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
             <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
-              <img
+              <Scope_image width="240" height="240" 
                 className="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
                 src="/scope/Turbocharger-238x238.png"
                 alt=""
@@ -15,60 +16,57 @@
                 </h1>
                 <div className="my-2 px-2">
                  <div className="flex flex-row">
-                  <img
+                  <Scope_image width="32" height="32" 
                     className="h-8 w-8 rounded-full border border-gray-400"
-                    src="./european-union.png"
+                    src="/european-union.png"
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <img className="h-8" src="/brand/abb.png" alt="" />
-                  <img className="h-8 -mt-2" src="/brand/mandiesel.png" alt="" />
-                  <img className="h-12 " src="/brand/line.svg" alt="" />
-                  <img className="h-12" src="/brand/yanmar.svg" alt="" />
-                  <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
+                  <Scope_image width="36" height="32"  className="h-8" src="/brand/abb.png" alt="" />
+                  <Scope_image width="36" height="32"  className="h-8 -mt-2" src="/brand/mandiesel.png" alt="" />
+                  <Scope_image width="40" height="32"  className="h-12 " src="/brand/line.svg" alt="" />
+                  <Scope_image width="40" height="42"  className="h-12" src="/brand/yanmar.svg" alt="" />
+                  
                 </div>
                 </div>
                  {/**   <div className="flex flex-row">
-                  <img
+                  <Scope_image width="" height="" 
                     className="h-8 w-8 rounded-full border border-gray-400"
-                    src="./china.png"
+                    src="/china.png"
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <img className="h-12 " src="/brand/" alt="" />
-                  <img className="h-12" src="/brand/" alt="" />
-                  <img className="h-12 " src="/brand/" alt="" />
-                  <img className="h-12" src="/brand/" alt="" />
-                  <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
+                  <Scope_image width="" height=""  className="h-12 " src="/brand/" alt="" />
+                  <Scope_image width="" height=""  className="h-12" src="/brand/" alt="" />
+                  <Scope_image width="" height=""  className="h-12 " src="/brand/" alt="" />
+                  <Scope_image width="" height=""  className="h-12" src="/brand/" alt="" />
+                  <Scope_image width="" height=""  className="h-4 mt-2 ml-2 md:ml-4" src="/" alt="" />
                 </div>
                 </div>
                 */}
                  <div className="flex flex-row">
-                  <img
+                  <Scope_image width="32" height="32" 
                     className="h-8 w-8 rounded-full border border-gray-400"
-                    src="./japan.png"
+                    src="/japan.png"
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <img className="h-6" src="/brand/nissin.png" alt="" />
-                  <img className="h-8" src="/brand/ihi.png" alt="" />
-                  <img className="h-8" src="/brand/Mitsubishi-logo-238x238.png" alt="" />
-                  <img className="h-12" src="/brand/" alt="" />
-                  <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
+                  <Scope_image width="32" height="32"  className="h-6" src="/brand/nissin.png" alt="" />
+                  <Scope_image width="36" height="32"  className="h-8" src="/brand/ihi.png" alt="" />
+                  <Scope_image width="36" height="32"  className="h-8" src="/brand/Mitsubishi-logo-238x238.png" alt="" />
+                 
                 </div>
                 </div>
                   <div className="flex flex-row">
-                  <img
+                  <Scope_image width="32" height="32" 
                     className="h-8 w-8 rounded-full border border-gray-400"
-                    src="./south-korea.png"
+                    src="/south-korea.png"
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <img className="h-8" src="/brand/stx.png" alt="" />
-                  <img className="h-8" src="/brand/doosan.png" alt="" />
-                  <img className="h-12 " src="/brand/" alt="" />
-                  <img className="h-12" src="/brand/" alt="" />
-                  <img className="h-4 mt-2 ml-2 md:ml-4" src="./" alt="" />
+                  <Scope_image width="36" height="32"  className="h-8" src="/brand/stx.png" alt="" />
+                  <Scope_image width="36" height="32"  className="h-8" src="/brand/doosan.png" alt="" />
+                 
                 </div>
                 </div>
                 </div>
