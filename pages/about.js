@@ -1,9 +1,10 @@
+import Image from "next/image";
 import Nav from "../components/nav"
 export default function AboutUs() {
   return (
     <div>
       <section className="relative">
-        <img className="absolute inset-0 object-cover w-full h-full" alt="" />
+        
         <div className="relative bg-opacity-50 bg-blue-200">
           <div className="absolute inset-x-0 bottom-0">
             <svg
@@ -199,7 +200,8 @@ So we give a top priority to customer satisfaction.
           <div className="grid sm:grid-cols-3">
           
             <div className="relative w-full h-72 lg:h-48 max-h-full rounded shadow sm:h-auto">
-              <img
+              <Image 
+                layout="fill" 
                 className="absolute object-cover bg-gray-200 w-full h-full rounded"
                 src="/about/approach.jpg"
                 alt="Person"
@@ -216,7 +218,7 @@ So we give a top priority to customer satisfaction.
           <div className="grid sm:grid-cols-3">
           
             <div className="relative w-full h-72 lg:h-48 max-h-full rounded shadow sm:h-auto">
-              <img
+              <Image layout="fill"
                 className="absolute object-cover w-full bg-gray-200 h-full rounded"
                 src="/about/customer.png"
                 alt="Person"
@@ -233,7 +235,7 @@ So we give a top priority to customer satisfaction.
           <div className="grid sm:grid-cols-3">
           
             <div className="relative w-full h-72 lg:h-48 max-h-full rounded shadow sm:h-auto">
-              <img
+              <Image  layout="fill"
                 className="absolute object-cover bg-gray-200 w-full h-full rounded"
                 src="/about/excellence.png"
                 alt="Person"
@@ -252,7 +254,7 @@ So we give a top priority to customer satisfaction.
           <div className="grid sm:grid-cols-3">
           
           <div className="relative w-full h-72 lg:h-48 max-h-full rounded shadow sm:h-auto">
-            <img
+            <Image layout="fill"
               className="absolute object-cover w-full bg-gray-200 h-full rounded"
               src="/about/innovation.png"
               alt="Person"
@@ -268,7 +270,7 @@ So we give a top priority to customer satisfaction.
         <div className="grid sm:grid-cols-3">
           
           <div className="relative w-full h-72 lg:h-48 max-h-full rounded shadow sm:h-auto">
-            <img
+            <Image  layout="fill"
               className="absolute object-cover w-full bg-gray-200 h-full rounded"
               src="/about/integrity.png"
               alt="Person"
@@ -285,7 +287,7 @@ So we give a top priority to customer satisfaction.
         <div className="grid sm:grid-cols-3">
           
           <div className="relative w-full h-72 lg:h-48 max-h-full rounded shadow sm:h-auto">
-            <img
+            <Image  layout="fill"
               className="absolute object-cover w-full bg-gray-200 h-full rounded"
               src="/about/environment.png"
               alt="Person"
@@ -302,7 +304,7 @@ So we give a top priority to customer satisfaction.
         <div className="grid sm:grid-cols-3">
           
           <div className="relative w-full h-72 lg:h-48 max-h-full rounded shadow sm:h-auto">
-            <img
+            <Image layout="fill"
               className="absolute object-cover w-full bg-gray-200 h-full rounded"
               src="/about/safety.png"
               alt="Person"
@@ -318,7 +320,7 @@ So we give a top priority to customer satisfaction.
         <div className="grid sm:grid-cols-3">
           
           <div className="relative w-full h-72 lg:h-48 max-h-full rounded shadow sm:h-auto">
-            <img
+            <Image  layout="fill"
               className="absolute object-cover w-full bg-gray-200 h-full rounded"
               src="/about/teamwork.png"
               alt="Person"
