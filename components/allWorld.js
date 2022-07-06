@@ -1,3 +1,4 @@
+import Scope_image from "../components/scope-image";
 import Pattern from '../components/pattern'
 export default function allWorld() {
   return (
@@ -29,9 +30,9 @@ export default function allWorld() {
               </a>*/}
               <a href="/#brands">
               <button  id="brands" className="bg-gray-100 inline-flex py-3 px-5 rounded-lg mr-0 lg:mr-40 items-center hover:bg-gray-200 focus:outline-none">
-                <img src="/brand-logo-238x238.png" className='w-6 h-6'/>
+                <Scope_image width="24" height="24" src="/brand-logo-238x238.png" className='w-6 h-6'/>
                 <span className="md:ml-4 ml-0 flex items-start flex-col leading-none">
-                  <span className="text-xs text-gray-600 mb-1">Supplying</span>
+                  <span className="text-sm ml-4 text-gray-600 mb-1">Supplying</span>
                   <span className="title-font font-medium">Global Brands</span>
                 </span>
               </button></a>
