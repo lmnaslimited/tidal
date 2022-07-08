@@ -66,7 +66,7 @@ export default function Heatexchanger({heatexchanger}){
                
               </div>
              <div className="mt-2 md:mb-0 mb-8 md:ml-0 ml-6">
-                <button className="font-bold inline-flex w-20 items-center h-6 bg-purple-500 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-700 rounded text-sm">
+             <a href="mailto:sales@tidalgroups.com"><button className="font-bold inline-flex w-20 items-center h-6 bg-purple-500 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-700 rounded text-sm">
                   Quote
                   <svg
                     fill="none"
@@ -79,7 +79,7 @@ export default function Heatexchanger({heatexchanger}){
                   >
                     <path d="M5 12h14M12 5l7 7-7 7"></path>
                   </svg>
-                </button>
+                </button></a>
               </div>
             </div>
           </div>

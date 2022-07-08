@@ -3,7 +3,7 @@ export default function service({icon, title, link, }) {
     return (
         <div className="flex flex-col xl:w-1/3 md:w-1/3 w-1/3 p-4 hover:bg-sky-50 justify-center">  
             <a href = {link}> 
-            <div className="w-30 h-30 flex items-center justify-center text-indigo-500 mb-4">
+            <div className="w-30 h-30 flex items-center justify-center text-purple-500 mb-4">
               <Image 
                   src = {icon}
                   width ="40"  

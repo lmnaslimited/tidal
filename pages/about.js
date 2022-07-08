@@ -50,7 +50,7 @@ export default function AboutUs() {
                   </span>
                    <span className="relative px-1">
                     <div className="absolute inset-x-0 bottom-0 h-4 transform -skew-x-12 bg--800"></div>
-                    <span className="relative ml-20 inline-block text-indigo-800">
+                    <span className="relative ml-20 inline-block text-purple-500">
                       About us.
                     </span>
                   </span>
@@ -58,7 +58,7 @@ export default function AboutUs() {
               </div>
               <div className="lg:w-1/2 md:ml-16">
                 <p className="font-sans font-medium text-lg lg:text-2xl">
-               We specialize in <span className="text-indigo-800"> supplying quality products</span>
+               We specialize in <span className="text-purple-500 mr-2"> supplying quality products</span>
 to ship owners, ship managements and overseas traders.
 We supply various spare parts such as main & aux engine,
 pumps, air compressor, purifier, Korea genuine parts
@@ -70,7 +70,7 @@ and so on.
           </div>
         </div>
       </section>
-      <section className="text-purple-600 body-font overflow-hidden">
+      <section className="text-purple-500 body-font overflow-hidden">
         <div className="px-4 py-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-20">
           <div className="max-w-xl mb-10 md:mx-auto sm:text-center lg:max-w-2xl md:mb-12">
             <h2 className="max-w-lg mb-6 font-sans font-bold leading-none tracking-tight text-gray-900 text-3xl md:text-5xl md:mx-auto">
