@@ -22,10 +22,10 @@ export default function Pumps({pumps}) {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="36" height="32"  className="h-8" src="/brand/desmi.png" alt="" />
-                  <Scope_image width="36" height="32"  className="h-8" src="/brand/azcue.png" alt="" />
-                  <Scope_image width="36" height="32"  className="h-8" src="/brand/grundfos.png" alt="" />
-                  <Scope_image width="36" height="32"  className="h-8 ml-2" src="/brand/ALLWEILER.png" alt="" />
+                  <Scope_image width="52" height="24"  className="h-8" src="/brand/desmi.png" alt="" />
+                  <Scope_image width="52" height="24"  className="h-8" src="/brand/azcue.png" alt="" />
+                  <Scope_image width="52" height="24"  className="h-8" src="/brand/grundfos.png" alt="" />
+                  <Scope_image width="52" height="24"  className="h-8 ml-2" src="/brand/ALLWEILER.png" alt="" />
                   
                 </div>
                 </div>
@@ -50,11 +50,11 @@ export default function Pumps({pumps}) {
                     src="/japan.png"
                     alt=""
                   />
-                  <div className="flex flex-row grid mt-4 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="36" height="32"  className="h-8" src="/brand/taikokikai.png" alt="" />
-                  <Scope_image width="36" height="32"  className="h-8" src="/brand/heishin.png" alt="" />
-                  <Scope_image width="36" height="32"  className="h-8" src="/brand/teikoku.png" alt="" />
-                  <Scope_image width="36" height="32"  className="h-8" src="/brand/sasakura.png" alt="" />
+                  <div className="flex flex-row grid mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
+                  <Scope_image width="52" height="24"  className="h-8" src="/brand/taikokikai.png" alt="" />
+                  <Scope_image width="52" height="24"  className="h-8" src="/brand/heishin.png" alt="" />
+                  <Scope_image width="52" height="24"  className="h-8" src="/brand/teikoku.png" alt="" />
+                  <Scope_image width="52" height="24"  className="h-8" src="/brand/sasakura.png" alt="" />
                   
                 </div>
                 </div>
@@ -64,13 +64,9 @@ export default function Pumps({pumps}) {
                     src="/south-korea.png"
                     alt=""
                   />
-                  <div className="flex flex-row grid mt-4 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="36" height="32"  className="h-8" src="/brand/shinshin.png" alt="" />
-                  <Scope_image width="36" height="32"  className="h-12" src="/brand/" alt="" />
-                  <Scope_image width="36" height="32"  className="h-12 " src="/brand/" alt="" />
-                  <Scope_image width="36" height="32"  className="h-12" src="/brand/" alt="" />
-                  <Scope_image width="36" height="32"  className="h-4 mt-2 ml-2 md:ml-4" src="/" alt="" />
-                </div>
+                  <div className="flex flex-row grid mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
+                  <Scope_image width="52" height="24"  className="h-8" src="/brand/shinshin.png" alt="" />
+                    </div>
                 </div>
                 </div>
                

@@ -22,11 +22,9 @@ export default function Turbocharger({turbocharger}){
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="36" height="32"  className="h-8" src="/brand/abb.png" alt="" />
-                  <Scope_image width="36" height="32"  className="h-8 -mt-2" src="/brand/mandiesel.png" alt="" />
-                  <Scope_image width="40" height="32"  className="h-12 " src="/brand/line.svg" alt="" />
-                  <Scope_image width="40" height="42"  className="h-12" src="/brand/yanmar.svg" alt="" />
-                  
+                  <Scope_image width="52" height="24"  className="h-8" src="/brand/abb.png" alt="" />
+                  <Scope_image width="52" height="24"  className="h-8 -mt-2" src="/brand/mandiesel.png" alt="" />
+                 
                 </div>
                 </div>
                  {/**   <div className="flex flex-row">
@@ -52,8 +50,8 @@ export default function Turbocharger({turbocharger}){
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
                   <Scope_image width="32" height="32"  className="h-6" src="/brand/nissin.png" alt="" />
-                  <Scope_image width="36" height="32"  className="h-8" src="/brand/ihi.png" alt="" />
-                  <Scope_image width="36" height="32"  className="h-8" src="/brand/Mitsubishi-logo-238x238.png" alt="" />
+                  <Scope_image width="52" height="24"  className="h-8" src="/brand/ihi.png" alt="" />
+                  <Scope_image width="52" height="24"  className="h-8" src="/brand/Mitsubishi-logo-238x238.png" alt="" />
                  
                 </div>
                 </div>
@@ -64,8 +62,8 @@ export default function Turbocharger({turbocharger}){
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="36" height="32"  className="h-8" src="/brand/stx.png" alt="" />
-                  <Scope_image width="36" height="32"  className="h-8" src="/brand/doosan.png" alt="" />
+                  <Scope_image width="52" height="24"  className="h-8" src="/brand/stx.png" alt="" />
+                  <Scope_image width="52" height="24"  className="h-8" src="/brand/doosan.png" alt="" />
                  
                 </div>
                 </div>

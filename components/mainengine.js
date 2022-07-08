@@ -22,10 +22,10 @@ export default function Mainengine({mainengine}) {
                     alt=""
                   />
                 <div className="flex flex-row grid grid-cols-5 gap-1 md:grid   mx-4 gap-2 md:grid-cols-5  lg:grid-cols-5">
-                <Scope_image width="36" height="32" className="h-8 -ml-2" src="/brand/cummins.png" alt="" />
-                <Scope_image width="36" height="32" className="h-8" src="/brand/sulzer.png" alt="" />
-               <Scope_image width="36" height="32" className="h-8 ml-2" src="/brand/deutz.png" alt="" />
-                  <Scope_image width="36" height="32" className="h-8" src="/brand/hcp.png" alt="" />
+                <Scope_image width="52" height="24" className="h-8 -ml-2" src="/brand/cummins.png" alt="" />
+                <Scope_image width="52" height="24" className="h-8" src="/brand/sulzer.png" alt="" />
+               <Scope_image width="52" height="24" className="h-8 ml-2" src="/brand/deutz.png" alt="" />
+                  <Scope_image width="52" height="24" className="h-8" src="/brand/hcp.png" alt="" />
                     </div>
                 </div>
                 <div className="flex flex-row">
@@ -35,9 +35,9 @@ export default function Mainengine({mainengine}) {
                     src="/china.png"
                     alt=""
                   />
-                  <div className="flex flex-row grid mt-4 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="36" height="32" className="h-8" src="/brand/hudong.png" alt="" />
-                  <Scope_image width="36" height="32" className="h-8 " src="/brand/manbw.png" alt="" />
+                  <div className="flex flex-row grid mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
+                  <Scope_image width="52" height="24" className="h-8" src="/brand/hudong.png" alt="" />
+                  <Scope_image width="52" height="24" className="h-8 " src="/brand/manbw.png" alt="" />
                     </div>
                 </div>
                 
@@ -51,10 +51,10 @@ export default function Mainengine({mainengine}) {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="36" height="32" className="h-8" src="/brand/hitachizosen.png" alt="" />
-                  <Scope_image width="36" height="32" className="h-8" src="/brand/makita.png" alt="" />
-                  <Scope_image width="36" height="32" className="h-8" src="/brand/mitsubishi-logo-238x238.png" alt="" />
-                  <Scope_image width="36" height="32" className="h-8" src="/brand/kawasaki.png" alt="" />
+                  <Scope_image width="52" height="24" className="h-8" src="/brand/hitachizosen.png" alt="" />
+                  <Scope_image width="52" height="24" className="h-8" src="/brand/makita.png" alt="" />
+                  <Scope_image width="52" height="24" className="h-8" src="/brand/mitsubishi-logo-238x238.png" alt="" />
+                  <Scope_image width="52" height="24" className="h-8" src="/brand/kawasaki.png" alt="" />
                     </div>
                 </div>
                  

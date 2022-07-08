@@ -21,7 +21,7 @@ export default function Injectors({injectors}) {
           alt=""
         />
         <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-        <Scope_image width="36" height="32"  className="h-8" src="/brand/mak.png" alt="" />
+        <Scope_image width="52" height="28"  className="h-8" src="/brand/mak.png" alt="" />
           </div>
       </div>
        {/**  <div className="flex flex-row">
@@ -44,8 +44,8 @@ export default function Injectors({injectors}) {
           alt=""
         />
         <div className="flex flex-row grid mt-2 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-         <Scope_image width="36" height="32"  className="h-8" src="/brand/yanmar.png" alt="" />
-        <Scope_image width="36" height="32"  className="h-8" src="/brand/kobediesel.png" alt="" />
+         <Scope_image width="52" height="28"  className="h-8" src="/brand/yanmar.png" alt="" />
+        <Scope_image width="52" height="28"  className="h-8" src="/brand/kobediesel.png" alt="" />
        </div>
       </div>
         <div className="flex flex-row">
@@ -55,8 +55,8 @@ export default function Injectors({injectors}) {
           alt=""
         />
         <div className="flex flex-row grid mt-2 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-        <Scope_image width="36" height="32"  className="h-8" src="/brand/doosan.png" alt="" />
-        <Scope_image width="36" height="32"  className="h-8" src="/brand/ssangyong.png" alt="" />
+        <Scope_image width="52" height="28"  className="h-8" src="/brand/doosan.png" alt="" />
+        <Scope_image width="52" height="28"  className="h-8" src="/brand/ssangyong.png" alt="" />
         </div>
       </div>
       </div>

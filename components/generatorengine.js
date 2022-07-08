@@ -21,8 +21,8 @@ export default function Generatorengine({generatorengine}) {
           alt=""
         />
         <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-        <Scope_image width="44" height="44" className="h-8" src="/brand/wartsila.png" alt="" />
-        <Scope_image width="48" height="48" className="h-10 ml-2" src="/brand/tdi.png" alt="" />
+        <Scope_image width="52" height="24" className="h-8" src="/brand/wartsila.png" alt="" />
+        <Scope_image width="52" height="24" className="h-10 ml-2" src="/brand/tdi.png" alt="" />
         
          </div>
       </div>
@@ -32,8 +32,8 @@ export default function Generatorengine({generatorengine}) {
           alt=""
         />
         <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-        <Scope_image width="52" height="52" className="h-12" src="/brand/daihatsu.png" alt="" />
-        <Scope_image width="48" height="48" className="h-10" src="/brand/cssc-logo-250x250.png" alt="" />
+        <Scope_image width="52" height="32" className="h-12" src="/brand/daihatsu.png" alt="" />
+        <Scope_image width="48" height="28" className="h-10" src="/brand/cssc-logo-250x250.png" alt="" />
          </div>
       </div>
       
@@ -43,9 +43,9 @@ export default function Generatorengine({generatorengine}) {
           alt=""
         />
         <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-       <Scope_image width="44" height="44" className="h-8" src="/brand/niigata.png" alt="" />
-        <Scope_image width="44" height="44" className="h-8" src="/brand/yanmar.png" alt="" />
-        <Scope_image width="44" height="44" className="h-8" src="/brand/daihatsu.png" alt="" />
+       <Scope_image width="52" height="24" className="h-8" src="/brand/niigata.png" alt="" />
+        <Scope_image width="52" height="24" className="h-8" src="/brand/yanmar.png" alt="" />
+        <Scope_image width="52" height="24" className="h-8" src="/brand/daihatsu.png" alt="" />
         
       </div>
       </div>

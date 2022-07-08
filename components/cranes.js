@@ -44,20 +44,18 @@ export default function Cranes({cranes}){
                   src="/japan.png"
                   alt=""
                 />
-                <div className="flex flex-row grid  mx-4 gap-2 mt-2 grid-cols-5 lg:grid-cols-5">
+                <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
                 <Scope_image width="52" height="44" className="h-12 -mt-2" src="/Brands/mac.svg" alt="" />
-                <Scope_image width="52" height="44" className="h-12 -mt-2" src="/Brands/kawasaki.png" alt="" />
-              </div>
+                </div>
               </div>
                 <div className="flex flex-row">
                 <Scope_image width="32" height="32"  className="h-8 w-8 rounded-full mt-2 border border-gray-400"
                   src="/south-korea.png"
                   alt=""
                 />
-                <div className="flex flex-row grid  mx-4 gap-2 mt-2 grid-cols-5 lg:grid-cols-5">
+                <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
                 <Scope_image width="40" height="32" className="h-8  " src="/Brands/dmc.png" alt="" />
                 <Scope_image width="40" height="32" className="h-8  " src="/Brands/taekwang1.png" alt="" />
-                <Scope_image width="40" height="44" className="h-8  " src="/Brands/oriental.png" alt="" />
                   </div>
               </div>
               </div>

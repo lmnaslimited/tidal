@@ -22,10 +22,8 @@ export default function Purifier({purifier}) {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="36" height="32" className="h-8" src="/brand/gea.png" alt="" />
-                  <Scope_image width="28" height="28" className="h-6" src="/brand/alfalaval.png" alt="" />
-                  <Scope_image width="40" height="32" className="h-12 " src="/brand/line.svg" alt="" />
-                  <Scope_image width="40" height="32" className="h-12" src="/brand/yanmar.svg" alt="" />
+                  <Scope_image width="52" height="24" className="h-8" src="/brand/gea.png" alt="" />
+                  <Scope_image width="52" height="24" className="h-6" src="/brand/alfalaval.png" alt="" />
                   
                 </div>
                 </div>
@@ -51,7 +49,7 @@ export default function Purifier({purifier}) {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="36" height="32" className="h-8" src="/brand/Mitsubishi-logo-238x238.png" alt="" />
+                  <Scope_image width="52" height="24" className="h-8" src="/brand/Mitsubishi-logo-238x238.png" alt="" />
                   </div>
                 </div>
                   <div className="flex flex-row">
@@ -61,7 +59,7 @@ export default function Purifier({purifier}) {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="36" height="32" className="h-8" src="/brand/samgong.png" alt="" />
+                  <Scope_image width="52" height="24" className="h-8" src="/brand/samgong.png" alt="" />
                   </div>
                 </div>
                 </div>
