@@ -8,10 +8,10 @@ export default function nav() {
         </a></Link>
         <nav className="md:mr-auto md:ml-4 md:py-1 md:pl-4 md:border-l md:border-gray-400	flex flex-wrap items-center text-base justify-center">
         <Link href="/about">
-      <a>About</a>
+      <a className="mr-4">About</a>
     </Link>
     <Link href="/scope-of-supply">
-      <a>Scope</a>
+      <a className="mr-4">Scope</a>
     </Link>
     <Link href="/#contact">
       <a>Contact</a>
