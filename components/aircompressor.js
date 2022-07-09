@@ -1,4 +1,5 @@
 import Scope_image from "./scope-image";
+import Link from 'next/link'
 export default function Aircompressor({aircompressor}) {
     return (
   

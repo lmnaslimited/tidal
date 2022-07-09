@@ -3,7 +3,7 @@ export default function flag({flag, country, title}) {
     return (
         <div className="lg:w-1/4 sm:w-1/2 p-4">
             <div className="flex relative">
-                <Image
+                <Image alt=""
                     src={flag}
                     layout="fill"
                     className="absolute inset-0 w-full h-full object-cover object-center border-gray-200"

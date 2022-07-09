@@ -15,7 +15,7 @@ export default function heroCta(){
             Get your requirements fulfilled with a choice of over 50+ trusted brands and shipped from over 10+ countries 
             </p>
             <div className="flex justify-left">
-            <a href="mailto:sales@tidalgroups.com" > <button className="inline-flex ml-16 md:ml-0 mb-4 md:mb-0 text-white bg-purple-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">Get Quote</button>
+           <a href="mailto:sales@tidalgroups.com" >  <button className="inline-flex ml-16 md:ml-0 mb-4 md:mb-0 text-white bg-purple-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">Get Quote</button>
             </a>
             </div>
           </div>

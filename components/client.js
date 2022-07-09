@@ -12,7 +12,7 @@ export default function client() {
             <Marquee gradientWidth="150" reverse>
                 <div className="grid grid-cols-11 gap-8 text-center lg:grid-cols-11 mx-4">
                 <div className="px-3">
-                    <Image
+                    <Image alt=""
                         src='/clients/eagle-bulk-logo-238x238.png'
                         height='100'
                         width='100'
@@ -20,7 +20,7 @@ export default function client() {
                     />
                 </div>
                 <div className="px-3">
-                    <Image
+                    <Image alt=""
                         src='/clients/misc-logo-238x238.png'
                         height='100'
                         width='100'
@@ -29,7 +29,7 @@ export default function client() {
                 </div>
                 <div className="px-3">
 
-                    <Image
+                    <Image alt=""
                         src='/clients/wilhelmsen-logo-238x238.png'
                         height='100'
                         width='100'
@@ -38,7 +38,7 @@ export default function client() {
                 </div>
                 <div className="px-3">
 
-                    <Image
+                    <Image alt=""
                         src='/clients/aet-logo-238x238.png'
                         height='100'
                         width='100'
@@ -46,7 +46,7 @@ export default function client() {
                     />
                 </div>
                 <div className="px-3">
-                  <Image
+                  <Image alt=""
                       src='/clients/norbulk-logo-238x238.png'
                       height='100'
                       width='100'
@@ -54,7 +54,7 @@ export default function client() {
                     />
                 </div>
                 <div className="px-3">
-                  <Image
+                  <Image alt=""
                       src='/clients/sirious-logo-238x238.png'
                       height='100'
                       width='100'
@@ -62,7 +62,7 @@ export default function client() {
                     />
                 </div>
                 <div className="px-3">
-                  <Image
+                  <Image alt=""
                       src='/clients/apl-logo-238x238.png'
                       height='100'
                       width='100'
@@ -70,7 +70,7 @@ export default function client() {
                     />
                 </div>
                 <div className="px-3">
-                  <Image
+                  <Image alt=""
                       src='/clients/ecorpio-logo-238x238.png'
                       height='100'
                       width='100'
@@ -78,7 +78,7 @@ export default function client() {
                     />
                 </div>
                 <div className="px-3">
-                  <Image
+                  <Image alt=""
                       src='/clients/pil-logo-238x238.png'
                       height='100'
                       width='100'
@@ -86,7 +86,7 @@ export default function client() {
                     />
                 </div>
                 <div className="px-3">
-                  <Image
+                  <Image alt=""
                       src='/clients/seaspan-logo-238x238.png'
                       height='100'
                       width='100'
@@ -94,7 +94,7 @@ export default function client() {
                     />
                 </div>
                 <div className="px-3">
-                  <Image
+                  <Image alt=""
                       src='/clients/green-reefers-logo-238x238.png'
                       height='100'
                       width='100'
