@@ -1,5 +1,5 @@
 import Marquee from "react-fast-marquee";
-import Image from 'next/image'
+import Scope_image from "./scope-image";
 export default function Brands(brands) {
     return (
         <section id="brands"  className="mx-1 md:mx-10 bg-sky-50 shadow-xl md:my-20 my-10 p-3">
@@ -12,7 +12,7 @@ export default function Brands(brands) {
             <Marquee gradientWidth="150" direction="right" >
                 <div className="grid grid-cols-11 gap-8 text-center lg:grid-cols-11 mx-4">
                 <div className="px-3">
-                    <Image
+                    <Scope_image
                         src='/Brands/sulzer-logo-238x238.png'
                         height='100'
                         width='100'
@@ -20,7 +20,7 @@ export default function Brands(brands) {
                     />
                 </div>
                 <div className="px-3">
-                    <Image
+                    <Scope_image
                         src='/Brands/Kawasaki-Logo-238x238.png'
                         height='100'
                         width='100'
@@ -28,7 +28,7 @@ export default function Brands(brands) {
                     />
                 </div>
                 <div className="px-3">
-                    <Image
+                    <Scope_image
                         src='/Brands/makita-logo-238x238.png'
                         height='100'
                         width='100'
@@ -36,7 +36,7 @@ export default function Brands(brands) {
                     />
                 </div>
                 <div className="px-3">
-                    <Image
+                    <Scope_image
                         src='/Brands/Mitsubishi-logo-238x238.png'
                         height='100'
                         width='100'
@@ -44,7 +44,7 @@ export default function Brands(brands) {
                     />
                 </div>
                 <div className="px-3">
-                    <Image
+                    <Scope_image
                         src='/Brands/hyundai-logo-238x238.png'
                         height='100'
                         width='100'
@@ -52,7 +52,7 @@ export default function Brands(brands) {
                     />
                 </div>
                 <div className="px-3">
-                    <Image
+                    <Scope_image
                         src='/Brands/doosan-logo-238x238.png'
                         height='100'
                         width='100'
@@ -60,7 +60,7 @@ export default function Brands(brands) {
                     />
                 </div>
                 <div className="px-3">
-                    <Image
+                    <Scope_image
                         src='/Brands/diesel-logo-238x238.png'
                         height='100'
                         width='100'
@@ -68,7 +68,7 @@ export default function Brands(brands) {
                     />
                 </div>
                 <div className="px-3">
-                    <Image
+                    <Scope_image
                         src='/Brands/yanmar-logo-238x238.png'
                         height='100'
                         width='100'
@@ -76,7 +76,7 @@ export default function Brands(brands) {
                     />
                 </div>
                 <div className="px-3">
-                    <Image
+                    <Scope_image
                         src='/Brands/caterpillar-logo-238x238.png'
                         height='100'
                         width='100'
@@ -84,7 +84,7 @@ export default function Brands(brands) {
                     />
                 </div>
                 <div className="px-3 mt-2">
-                    <Image
+                    <Scope_image
                         src='/Brands/tamrotor-logo-238x238.png'
                         height='100'
                         width='100'
@@ -92,7 +92,7 @@ export default function Brands(brands) {
                     />
                 </div>
                 <div className="px-3">
-                    <Image
+                    <Scope_image
                         src='/Brands/teikoku-logo-238x238.png'
                         height='100'
                         width='100'
