@@ -36,7 +36,7 @@ export default function Brands(brands) {
                     />
                 </div>
                 <div className="px-3">
-                    <Image
+                    <Scope_image
                         src='/Brands/Mitsubishi-logo-238x238.png'
                         height='100'
                         width='100'
