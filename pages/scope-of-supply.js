@@ -12,7 +12,7 @@ import Scope_image from "../components/scope-image";
 export default function ScopeOfSupply() {
   return (
     <div>
-    <div>
+    <div class="ml-16 md:ml-0">
         <Nav />
     </div>
       <section className="py-5">
