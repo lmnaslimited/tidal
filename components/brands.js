@@ -35,14 +35,7 @@ export default function Brands(brands) {
                         className="absolute inset-0 w-full h-full object-center border-gray-200"
                     />
                 </div>
-                <div className="px-3">
-                    <Scope_image
-                        src='/Brands/Mitsubishi-logo-238x238.png'
-                        height='100'
-                        width='100'
-                        className="absolute inset-0 w-full h-full object-center border-gray-200"
-                    />
-                </div>
+                
                 <div className="px-3">
                     <Scope_image
                         src='/Brands/hyundai-logo-238x238.png'
