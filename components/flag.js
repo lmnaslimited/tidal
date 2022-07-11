@@ -1,5 +1,6 @@
 import Image from 'next/image'
 export default function flag({flag, country, title}) {
+    const iconUrl = process.env.assetPrefix + flag
     return (
         <div className="lg:w-1/4 sm:w-1/2 p-4">
             <div className="flex relative">
