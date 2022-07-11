@@ -17,7 +17,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Create Next App</title>
+        <title>Tidal Groups</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <div className="flex flex-col items-center justify-center min-h-screen bg-cover bg-[url('/shipyard.jpeg')] ">
@@ -33,7 +33,8 @@ export default function Home() {
       <Steps />
       <Insurance />
       <Brands/>
-      <Contact />
+       
+    <Contact />
       <Footer />
     </div>
   )
