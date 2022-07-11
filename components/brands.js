@@ -21,7 +21,7 @@ export default function Brands(brands) {
                 </div>
                 <div className="px-3">
                     <Image alt=""
-                        src='/Brands/Kawasaki-Logo-238x238.png'
+                        src= {process.env.assetPrefix + '/Brands/Kawasaki-Logo-238x238.png'}
                         height='100'
                         width='100'
                         className="absolute inset-0 w-full h-full object-center border-gray-200"
@@ -29,7 +29,7 @@ export default function Brands(brands) {
                 </div>
                 <div className="px-3">
                     <Image alt=""
-                        src='/Brands/makita-logo-238x238.png'
+                        src= {process.env.assetPrefix + '/Brands/makita-logo-238x238.png'}
                         height='100'
                         width='100'
                         className="absolute inset-0 w-full h-full object-center border-gray-200"
@@ -37,7 +37,7 @@ export default function Brands(brands) {
                 </div>
                 <div className="px-3">
                     <Image alt=""
-                        src='/Brands/Mitsubishi-logo-238x238.png'
+                        src= {process.env.assetPrefix + '/Brands/Mitsubishi-logo-238x238.png'}
                         height='100'
                         width='100'
                         className="absolute inset-0 w-full h-full object-center border-gray-200"
@@ -45,7 +45,7 @@ export default function Brands(brands) {
                 </div>
                 <div className="px-3">
                     <Image alt=""
-                        src='/Brands/hyundai-logo-238x238.png'
+                        src= {process.env.assetPrefix + '/Brands/hyundai-logo-238x238.png'}
                         height='100'
                         width='100'
                         className="absolute inset-0 w-full h-full object-center border-gray-200"
@@ -53,7 +53,7 @@ export default function Brands(brands) {
                 </div>
                 <div className="px-3">
                     <Image alt=""
-                        src='/Brands/doosan-logo-238x238.png'
+                        src= {process.env.assetPrefix + '/Brands/doosan-logo-238x238.png'}
                         height='100'
                         width='100'
                         className="absolute inset-0 w-full h-full object-center border-gray-200"
@@ -61,7 +61,7 @@ export default function Brands(brands) {
                 </div>
                 <div className="px-3">
                     <Image alt=""
-                        src='/Brands/diesel-logo-238x238.png'
+                        src= {process.env.assetPrefix + '/Brands/diesel-logo-238x238.png'}
                         height='100'
                         width='100'
                         className="absolute inset-0 w-full h-full object-center border-gray-200"
@@ -69,7 +69,7 @@ export default function Brands(brands) {
                 </div>
                 <div className="px-3">
                     <Image alt=""
-                        src='/Brands/yanmar-logo-238x238.png'
+                        src= {process.env.assetPrefix + '/Brands/yanmar-logo-238x238.png'}
                         height='100'
                         width='100'
                         className="absolute inset-0 w-full h-full object-center border-gray-200"
@@ -77,7 +77,7 @@ export default function Brands(brands) {
                 </div>
                 <div className="px-3">
                     <Image alt=""
-                        src='/Brands/caterpillar-logo-238x238.png'
+                        src= {process.env.assetPrefix + '/Brands/caterpillar-logo-238x238.png'}
                         height='100'
                         width='100'
                         className="absolute inset-0 w-full h-full object-center border-gray-200"
@@ -85,7 +85,7 @@ export default function Brands(brands) {
                 </div>
                 <div className="px-3 mt-2">
                     <Image alt=""
-                        src='/Brands/tamrotor-logo-238x238.png'
+                        src= {process.env.assetPrefix + '/Brands/tamrotor-logo-238x238.png'}
                         height='100'
                         width='100'
                         className="absolute inset-0 w-full h-full object-center border-gray-200"
@@ -93,7 +93,7 @@ export default function Brands(brands) {
                 </div>
                 <div className="px-3">
                     <Image alt=""
-                        src='/Brands/teikoku-logo-238x238.png'
+                        src= {process.env.assetPrefix + '/Brands/teikoku-logo-238x238.png'}
                         height='100'
                         width='100'
                         className="absolute inset-0 w-full h-full object-center border-gray-200"
