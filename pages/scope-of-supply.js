@@ -95,7 +95,7 @@ export default function ScopeOfSupply() {
                
               </div>
               <div className="mt-2 md:mb-0 mb-8 md:ml-0 ml-20">
-                <a href="mailto:sales@tidalgroups.com"><button className="font-bold inline-flex w-20 items-center h-6 bg-purple-500 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-700 rounded text-sm">
+                <a href="mailto:sales@tidalgroups.com"><button className="font-bold inline-flex w-20 items-center h-6 bg-indigo-600 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-500 rounded text-sm">
         Quote
         <svg
           fill="none"
@@ -181,7 +181,7 @@ export default function ScopeOfSupply() {
                
               </div>
              <div className="mt-2 md:mb-0 mb-8 md:ml-0 ml-20">
-                <a href="mailto:sales@tidalgroups.com"><button className="font-bold inline-flex w-20 items-center h-6 bg-purple-500 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-700 rounded text-sm">
+                <a href="mailto:sales@tidalgroups.com"><button className="font-bold inline-flex w-20 items-center h-6 bg-indigo-600 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-500 rounded text-sm">
         Quote
         <svg
           fill="none"
@@ -266,7 +266,7 @@ export default function ScopeOfSupply() {
                
               </div>
              <div className="mt-2 md:mb-0 mb-8 md:ml-0 ml-6">
-                <a href="mailto:sales@tidalgroups.com"><button className="font-bold inline-flex w-20 items-center h-6 bg-purple-500 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-700 rounded text-sm">
+                <a href="mailto:sales@tidalgroups.com"><button className="font-bold inline-flex w-20 items-center h-6 bg-indigo-600 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-500 rounded text-sm">
         Quote
         <svg
           fill="none"
@@ -353,7 +353,7 @@ export default function ScopeOfSupply() {
                
               </div>
              <div className="mt-2 md:mb-0 mb-8 md:ml-0 ml-6">
-                <a href="mailto:sales@tidalgroups.com"><button className="font-bold inline-flex w-20 items-center h-6 bg-purple-500 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-700 rounded text-sm">
+                <a href="mailto:sales@tidalgroups.com"><button className="font-bold inline-flex w-20 items-center h-6 bg-indigo-600 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-500 rounded text-sm">
         Quote
         <svg
           fill="none"
@@ -436,7 +436,7 @@ export default function ScopeOfSupply() {
                
               </div>
              <div className="mt-2 md:mb-0 mb-8 md:ml-0 ml-6">
-                <a href="mailto:sales@tidalgroups.com"><button className="font-bold inline-flex w-20 items-center h-6 bg-purple-500 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-700 rounded text-sm">
+                <a href="mailto:sales@tidalgroups.com"><button className="font-bold inline-flex w-20 items-center h-6 bg-indigo-600 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-500 rounded text-sm">
         Quote
         <svg
           fill="none"
@@ -524,7 +524,7 @@ export default function ScopeOfSupply() {
                
               </div>
              <div className="mt-2 md:mb-0 mb-8 md:ml-0 ml-6">
-                <a href="mailto:sales@tidalgroups.com"><button className="font-bold inline-flex w-20 items-center h-6 bg-purple-500 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-700 rounded text-sm">
+                <a href="mailto:sales@tidalgroups.com"><button className="font-bold inline-flex w-20 items-center h-6 bg-indigo-600 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-500 rounded text-sm">
         Quote
         <svg
           fill="none"
@@ -608,7 +608,7 @@ export default function ScopeOfSupply() {
                
               </div>
              <div className="mt-2 md:mb-0 mb-8 md:ml-0 ml-6">
-                <a href="mailto:sales@tidalgroups.com"><button className="font-bold inline-flex w-20 items-center h-6 bg-purple-500 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-700 rounded text-sm">
+                <a href="mailto:sales@tidalgroups.com"><button className="font-bold inline-flex w-20 items-center h-6 bg-indigo-600 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-500 rounded text-sm">
         Quote
         <svg
           fill="none"
@@ -693,7 +693,7 @@ export default function ScopeOfSupply() {
                
               </div>
              <div className="mt-2 md:mb-0 mb-8 md:ml-0 ml-6">
-                <a href="mailto:sales@tidalgroups.com"><button className="font-bold inline-flex w-20 items-center h-6 bg-purple-500 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-700 rounded text-sm">
+                <a href="mailto:sales@tidalgroups.com"><button className="font-bold inline-flex w-20 items-center h-6 bg-indigo-600 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-500 rounded text-sm">
         Quote
         <svg
           fill="none"
@@ -778,7 +778,7 @@ export default function ScopeOfSupply() {
                
               </div>
              <div className="mt-2 md:mb-0 mb-8 md:ml-0 ml-6">
-                <a href="mailto:sales@tidalgroups.com"><button className="font-bold inline-flex w-20 items-center h-6 bg-purple-500 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-700 rounded text-sm">
+                <a href="mailto:sales@tidalgroups.com"><button className="font-bold inline-flex w-20 items-center h-6 bg-indigo-600 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-500 rounded text-sm">
         Quote
         <svg
           fill="none"
@@ -863,7 +863,7 @@ export default function ScopeOfSupply() {
                
               </div>
              <div className="mt-2 md:mb-0 mb-8 md:ml-0 ml-6">
-                <a href="mailto:sales@tidalgroups.com"><button className="font-bold inline-flex w-20 items-center h-6 bg-purple-500 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-700 rounded text-sm">
+                <a href="mailto:sales@tidalgroups.com"><button className="font-bold inline-flex w-20 items-center h-6 bg-indigo-600 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-500 rounded text-sm">
         Quote
         <svg
           fill="none"
@@ -948,7 +948,7 @@ export default function ScopeOfSupply() {
                
               </div>
              <div className="mt-2 md:mb-0 mb-8 md:ml-0 ml-6">
-                <a href="mailto:sales@tidalgroups.com"><button className="font-bold inline-flex w-20 items-center h-6 bg-purple-500 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-700 rounded text-sm">
+                <a href="mailto:sales@tidalgroups.com"><button className="font-bold inline-flex w-20 items-center h-6 bg-indigo-600 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-500 rounded text-sm">
         Quote
         <svg
           fill="none"
@@ -1035,7 +1035,7 @@ export default function ScopeOfSupply() {
                
               </div>
              <div className="mt-2 md:mb-0 mb-8 md:ml-0 ml-6">
-                <a href="mailto:sales@tidalgroups.com"><button className="font-bold inline-flex w-20 items-center h-6 bg-purple-500 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-700 rounded text-sm">
+                <a href="mailto:sales@tidalgroups.com"><button className="font-bold inline-flex w-20 items-center h-6 bg-indigo-600 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-500 rounded text-sm">
         Quote
         <svg
           fill="none"
@@ -1127,7 +1127,7 @@ export default function ScopeOfSupply() {
                
               </div>
              <div className="mt-2 md:mb-0 mb-8 md:ml-0 ml-6">
-                <a href="mailto:sales@tidalgroups.com"><button className="font-bold inline-flex w-20 items-center h-6 bg-purple-500 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-700 rounded text-sm">
+                <a href="mailto:sales@tidalgroups.com"><button className="font-bold inline-flex w-20 items-center h-6 bg-indigo-600 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-500 rounded text-sm">
         Quote
         <svg
           fill="none"
@@ -1215,7 +1215,7 @@ export default function ScopeOfSupply() {
                
               </div>
              <div className="mt-2 md:mb-0 mb-8 md:ml-0 ml-6">
-                <a href="mailto:sales@tidalgroups.com"><button className="font-bold inline-flex w-20 items-center h-6 bg-purple-500 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-700 rounded text-sm">
+                <a href="mailto:sales@tidalgroups.com"><button className="font-bold inline-flex w-20 items-center h-6 bg-indigo-600 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-500 rounded text-sm">
         Quote
         <svg
           fill="none"
@@ -1301,7 +1301,7 @@ export default function ScopeOfSupply() {
                
               </div>
              <div className="mt-2 md:mb-0 mb-8 md:ml-0 ml-6">
-                <a href="mailto:sales@tidalgroups.com"><button className="font-bold inline-flex w-20 items-center h-6 bg-purple-500 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-700 rounded text-sm">
+                <a href="mailto:sales@tidalgroups.com"><button className="font-bold inline-flex w-20 items-center h-6 bg-indigo-600 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-500 rounded text-sm">
         Quote
         <svg
           fill="none"
@@ -1384,7 +1384,7 @@ export default function ScopeOfSupply() {
                
               </div>
              <div className="mt-2 md:mb-0 mb-8 md:ml-0 ml-6">
-                <a href="mailto:sales@tidalgroups.com"><button className="font-bold inline-flex w-20 items-center h-6 bg-purple-500 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-700 rounded text-sm">
+                <a href="mailto:sales@tidalgroups.com"><button className="font-bold inline-flex w-20 items-center h-6 bg-indigo-600 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-500 rounded text-sm">
         Quote
         <svg
           fill="none"
@@ -1471,7 +1471,7 @@ export default function ScopeOfSupply() {
                
               </div>
              <div className="mt-2 md:mb-0 mb-8 md:ml-0 ml-6">
-                <a href="mailto:sales@tidalgroups.com"><button className="font-bold inline-flex w-20 items-center h-6 bg-purple-500 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-700 rounded text-sm">
+                <a href="mailto:sales@tidalgroups.com"><button className="font-bold inline-flex w-20 items-center h-6 bg-indigo-600 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-500 rounded text-sm">
         Quote
         <svg
           fill="none"
@@ -1555,7 +1555,7 @@ export default function ScopeOfSupply() {
                
               </div>
              <div className="mt-2 md:mb-0 mb-8 md:ml-0 ml-6">
-                <a href="mailto:sales@tidalgroups.com"><button className="font-bold inline-flex w-20 items-center h-6 bg-purple-500 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-700 rounded text-sm">
+                <a href="mailto:sales@tidalgroups.com"><button className="font-bold inline-flex w-20 items-center h-6 bg-indigo-600 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-500 rounded text-sm">
         Quote
         <svg
           fill="none"
@@ -1644,7 +1644,7 @@ export default function ScopeOfSupply() {
                
               </div>
              <div className="mt-2 md:mb-0 mb-8 md:ml-0 ml-6">
-                <a href="mailto:sales@tidalgroups.com"><button className="font-bold inline-flex w-20 items-center h-6 bg-purple-500 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-700 rounded text-sm">
+                <a href="mailto:sales@tidalgroups.com"><button className="font-bold inline-flex w-20 items-center h-6 bg-indigo-600 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-500 rounded text-sm">
         Quote
         <svg
           fill="none"
@@ -1730,7 +1730,7 @@ export default function ScopeOfSupply() {
                
               </div>
              <div className="mt-2 md:mb-0 mb-8 md:ml-0 ml-6">
-                <a href="mailto:sales@tidalgroups.com"><button className="font-bold inline-flex w-20 items-center h-6 bg-purple-500 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-700 rounded text-sm">
+                <a href="mailto:sales@tidalgroups.com"><button className="font-bold inline-flex w-20 items-center h-6 bg-indigo-600 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-500 rounded text-sm">
         Quote
         <svg
           fill="none"
@@ -1816,7 +1816,7 @@ export default function ScopeOfSupply() {
                
               </div>
              <div className="mt-2 md:mb-0 mb-8 md:ml-0 ml-6">
-                <a href="mailto:sales@tidalgroups.com"><button className="font-bold inline-flex w-20 items-center h-6 bg-purple-500 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-700 rounded text-sm">
+                <a href="mailto:sales@tidalgroups.com"><button className="font-bold inline-flex w-20 items-center h-6 bg-indigo-600 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-500 rounded text-sm">
         Quote
         <svg
           fill="none"
@@ -1903,7 +1903,7 @@ export default function ScopeOfSupply() {
                
               </div>
              <div className="mt-2 md:mb-0 mb-8 md:ml-0 ml-6">
-                <a href="mailto:sales@tidalgroups.com"><button className="font-bold inline-flex w-20 items-center h-6 bg-purple-500 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-700 rounded text-sm">
+                <a href="mailto:sales@tidalgroups.com"><button className="font-bold inline-flex w-20 items-center h-6 bg-indigo-600 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-500 rounded text-sm">
         Quote
         <svg
           fill="none"
@@ -1987,7 +1987,7 @@ export default function ScopeOfSupply() {
                
               </div>
              <div className="mt-2 md:mb-0 mb-8 md:ml-0 ml-6">
-                <a href="mailto:sales@tidalgroups.com"><button className="font-bold inline-flex w-20 items-center h-6 bg-purple-500 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-700 rounded text-sm">
+                <a href="mailto:sales@tidalgroups.com"><button className="font-bold inline-flex w-20 items-center h-6 bg-indigo-600 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-500 rounded text-sm">
         Quote
         <svg
           fill="none"
@@ -2079,7 +2079,7 @@ export default function ScopeOfSupply() {
                 
               </div>
              <div className="mt-2 md:mb-0 mb-8 md:ml-0 ml-6">
-                <a href="mailto:sales@tidalgroups.com"><button className="font-bold inline-flex w-20 items-center h-6 bg-purple-500 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-700 rounded text-sm">
+                <a href="mailto:sales@tidalgroups.com"><button className="font-bold inline-flex w-20 items-center h-6 bg-indigo-600 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-500 rounded text-sm">
         Quote
         <svg
           fill="none"
@@ -2167,7 +2167,7 @@ export default function ScopeOfSupply() {
                
               </div>
              <div className="mt-2 md:mb-0 mb-8 md:ml-0 ml-6">
-                <a href="mailto:sales@tidalgroups.com"><button className="font-bold inline-flex w-20 items-center h-6 bg-purple-500 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-700 rounded text-sm">
+                <a href="mailto:sales@tidalgroups.com"><button className="font-bold inline-flex w-20 items-center h-6 bg-indigo-600 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-500 rounded text-sm">
         Quote
         <svg
           fill="none"
@@ -2255,7 +2255,7 @@ export default function ScopeOfSupply() {
                
               </div>
              <div className="mt-2 md:mb-0 mb-8 md:ml-0 ml-6">
-                <a href="mailto:sales@tidalgroups.com"><button className="font-bold inline-flex w-20 items-center h-6 bg-purple-500 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-700 rounded text-sm">
+                <a href="mailto:sales@tidalgroups.com"><button className="font-bold inline-flex w-20 items-center h-6 bg-indigo-600 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-500 rounded text-sm">
         Quote
         <svg
           fill="none"
@@ -2343,7 +2343,7 @@ export default function ScopeOfSupply() {
                
               </div>
              <div className="mt-2 md:mb-0 mb-8 md:ml-0 ml-6">
-                <a href="mailto:sales@tidalgroups.com"><button className="font-bold inline-flex w-20 items-center h-6 bg-purple-500 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-700 rounded text-sm">
+                <a href="mailto:sales@tidalgroups.com"><button className="font-bold inline-flex w-20 items-center h-6 bg-indigo-600 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-500 rounded text-sm">
         Quote
         <svg
           fill="none"
@@ -2426,7 +2426,7 @@ export default function ScopeOfSupply() {
                
               </div>
              <div className="mt-2 md:mb-0 mb-8 md:ml-0 ml-6">
-                <a href="mailto:sales@tidalgroups.com"><button className="font-bold inline-flex w-20 items-center h-6 bg-purple-500 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-700 rounded text-sm">
+                <a href="mailto:sales@tidalgroups.com"><button className="font-bold inline-flex w-20 items-center h-6 bg-indigo-600 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-500 rounded text-sm">
         Quote
         <svg
           fill="none"
@@ -2510,7 +2510,7 @@ export default function ScopeOfSupply() {
                
               </div>
              <div className="mt-2 md:mb-0 mb-8 md:ml-0 ml-6">
-                <a href="mailto:sales@tidalgroups.com"><button className="font-bold inline-flex w-20 items-center h-6 bg-purple-500 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-700 rounded text-sm">
+                <a href="mailto:sales@tidalgroups.com"><button className="font-bold inline-flex w-20 items-center h-6 bg-indigo-600 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-500 rounded text-sm">
         Quote
         <svg
           fill="none"
@@ -2592,7 +2592,7 @@ export default function ScopeOfSupply() {
                
               </div>
              <div className="mt-2 md:mb-0 mb-8 md:ml-0 ml-6">
-                <a href="mailto:sales@tidalgroups.com"><button className="font-bold inline-flex w-20 items-center h-6 bg-purple-500 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-700 rounded text-sm">
+                <a href="mailto:sales@tidalgroups.com"><button className="font-bold inline-flex w-20 items-center h-6 bg-indigo-600 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-500 rounded text-sm">
         Quote
         <svg
           fill="none"
@@ -2681,7 +2681,7 @@ export default function ScopeOfSupply() {
                
               </div>
              <div className="mt-2 md:mb-0 mb-8 md:ml-0 ml-6">
-                <a href="mailto:sales@tidalgroups.com"><button className="font-bold inline-flex w-20 items-center h-6 bg-purple-500 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-700 rounded text-sm">
+                <a href="mailto:sales@tidalgroups.com"><button className="font-bold inline-flex w-20 items-center h-6 bg-indigo-600 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-500 rounded text-sm">
         Quote
         <svg
           fill="none"
@@ -2768,7 +2768,7 @@ export default function ScopeOfSupply() {
                
               </div>
              <div className="mt-2 md:mb-0 mb-8 md:ml-0 ml-6">
-                <a href="mailto:sales@tidalgroups.com"><button className="font-bold inline-flex w-20 items-center h-6 bg-purple-500 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-700 rounded text-sm">
+                <a href="mailto:sales@tidalgroups.com"><button className="font-bold inline-flex w-20 items-center h-6 bg-indigo-600 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-500 rounded text-sm">
         Quote
         <svg
           fill="none"
@@ -2852,7 +2852,7 @@ export default function ScopeOfSupply() {
                
               </div>
               <div className="mt-2 md:mb-0 mb-8 md:ml-0 ml-12">
-                <a href="mailto:sales@tidalgroups.com"><button className="font-bold inline-flex w-20 items-center h-6 bg-purple-500 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-700 rounded text-sm">
+                <a href="mailto:sales@tidalgroups.com"><button className="font-bold inline-flex w-20 items-center h-6 bg-indigo-600 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-500 rounded text-sm">
         Quote
         <svg
           fill="none"
@@ -2916,7 +2916,7 @@ export default function ScopeOfSupply() {
                 </div>
               </div>
              <div className="mt-2 md:mb-0 mb-8 md:ml-0 ml-6">
-                <a href="mailto:sales@tidalgroups.com"><button className="font-bold inline-flex w-20 items-center h-6 bg-purple-500 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-700 rounded text-sm">
+                <a href="mailto:sales@tidalgroups.com"><button className="font-bold inline-flex w-20 items-center h-6 bg-indigo-600 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-500 rounded text-sm">
         Quote
         <svg
           fill="none"
