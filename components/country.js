@@ -12,10 +12,10 @@ export default function country() {
                     <p className="lg:w-2/3 mx-auto leading-relaxed text-base">We are committed to provide quality products & services at competitive price. We Supply / Export  good condition marine Equipment and spare parts </p>
                 </div>
                 <div className="flex flex-wrap -m-4">
-                    <Flag flag="/china.png" country="CHINA" title="Economy" />
-                    <Flag flag="/south-korea.png" country="SOUTH KOREA" title="Precession" />
-                    <Flag flag="/japan.png" country="Japan" title="Finest Quality" />
-                    <Flag flag="/european-union.png" country="EUROPE" title="Superior Performance" />
+                    <Flag flag={process.env.assetPrefix + "/china.png"} country="CHINA" title="Economy" />
+                    <Flag flag={process.env.assetPrefix +"/south-korea.png"} country="SOUTH KOREA" title="Precession" />
+                    <Flag flag={process.env.assetPrefix +"/japan.png"} country="Japan" title="Finest Quality" />
+                    <Flag flag={process.env.assetPrefix +"/european-union.png"} country="EUROPE" title="Superior Performance" />
                 </div>
             </div>
         </section>
