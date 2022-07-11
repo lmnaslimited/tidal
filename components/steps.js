@@ -64,7 +64,7 @@ export default function s() {
       </div>
       <div className="grid gap-8 row-gap-0 lg:grid-cols-4">
         <div className="relative text-center">
-          <div className="flex items-center justify-center w-16 h-16 mx-auto mb-4 rounded-full bg-purple-5000 sm:w-20 sm:h-20">
+          <div className="flex items-center justify-center w-16 h-16 mx-auto mb-4 rounded-full bg-indigo-6000 sm:w-20 sm:h-20">
           <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" className="lg:w-12 lg:h-12 md:w-8 md:h-8 w-12 h-12 w-12 h-12" viewBox="0 0 24 24">
                                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
                                     </svg>  
@@ -100,7 +100,7 @@ export default function s() {
           </div>
         </div>
         <div className="relative text-center">
-          <div className="flex items-center justify-center w-16 h-16 mx-auto mb-4 rounded-full bg-purple-5000 sm:w-20 sm:h-20">
+          <div className="flex items-center justify-center w-16 h-16 mx-auto mb-4 rounded-full bg-indigo-6000 sm:w-20 sm:h-20">
           <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" className="lg:w-12 lg:h-12 md:w-8 md:h-8 w-12 h-12 w-12 h-12" viewBox="0 0 24 24">
                                         <path d="M22 12h-4l-3 9L9 3l-3 9H2"></path>
                                     </svg>
@@ -136,7 +136,7 @@ export default function s() {
           </div>
         </div>
         <div className="relative text-center">
-          <div className="flex items-center justify-center w-16 h-16 mx-auto mb-4 rounded-full bg-purple-5000 sm:w-20 sm:h-20">
+          <div className="flex items-center justify-center w-16 h-16 mx-auto mb-4 rounded-full bg-indigo-6000 sm:w-20 sm:h-20">
           <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" className="lg:w-12 lg:h-12 md:w-8 md:h-8 w-12 h-12 w-12 h-12" viewBox="0 0 24 24">
                                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 12l2 2 4-4M7.835 4.697a3.42 3.42 0 001.946-.806 3.42 3.42 0 014.438 0 3.42 3.42 0 001.946.806 3.42 3.42 0 013.138 3.138 3.42 3.42 0 00.806 1.946 3.42 3.42 0 010 4.438 3.42 3.42 0 00-.806 1.946 3.42 3.42 0 01-3.138 3.138 3.42 3.42 0 00-1.946.806 3.42 3.42 0 01-4.438 0 3.42 3.42 0 00-1.946-.806 3.42 3.42 0 01-3.138-3.138 3.42 3.42 0 00-.806-1.946 3.42 3.42 0 010-4.438 3.42 3.42 0 00.806-1.946 3.42 3.42 0 013.138-3.138z" />
                                     </svg>  
@@ -171,7 +171,7 @@ export default function s() {
           </div>
         </div>
         <div className="relative text-center">
-          <div className="flex items-center justify-center w-16 h-16 mx-auto mb-4 rounded-full bg-purple-5000 sm:w-20 sm:h-20">
+          <div className="flex items-center justify-center w-16 h-16 mx-auto mb-4 rounded-full bg-indigo-6000 sm:w-20 sm:h-20">
           <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" className="lg:w-12 lg:h-12 md:w-8 md:h-8 w-12 h-12 w-12 h-12" viewBox="0 0 24 24">
                                         <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path>
               </svg>   
