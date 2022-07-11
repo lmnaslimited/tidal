@@ -4,7 +4,7 @@ export default function nav() {
   return (
       <div className="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center ">
         <Link href="/"><a>
-          <Image alt="" width="140" height="60" className="w-40 h-16 text-white p-2 " src="/TG logo-01.png"/>
+          <Image alt="" width="140" height="60" className="w-40 h-16 text-white p-2 " src= {process.env.assetPrefix + "/TG logo-01.png"}/>
         </a></Link>
         <nav className="md:mr-auto md:ml-4 md:py-1 md:pl-4 md:border-l md:border-gray-400	flex flex-wrap items-center text-base justify-center">
         <Link href="/about">

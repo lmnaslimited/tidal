@@ -203,7 +203,7 @@ So we give a top priority to customer satisfaction.
               <Image 
                 layout="fill" 
                 className="absolute object-cover bg-gray-200 w-full h-full rounded"
-                src="/about/approach.jpg"
+                src= {process.env.assetPrefix + "/about/approach.jpg"}
                 alt="Person"
               />
               
@@ -220,7 +220,7 @@ So we give a top priority to customer satisfaction.
             <div className="relative w-full h-72 lg:h-48 max-h-full rounded shadow sm:h-auto">
               <Image layout="fill"
                 className="absolute object-cover w-full bg-gray-200 h-full rounded"
-                src="/about/customer.png"
+                src= {process.env.assetPrefix + "/about/customer.png"} 
                 alt="Person"
               />
             
@@ -237,7 +237,7 @@ So we give a top priority to customer satisfaction.
             <div className="relative w-full h-72 lg:h-48 max-h-full rounded shadow sm:h-auto">
               <Image  layout="fill"
                 className="absolute object-cover bg-gray-200 w-full h-full rounded"
-                src="/about/excellence.png"
+                src= {process.env.assetPrefix + "/about/excellence.png"} 
                 alt="Person"
               />
               
@@ -256,7 +256,7 @@ So we give a top priority to customer satisfaction.
           <div className="relative w-full h-72 lg:h-48 max-h-full rounded shadow sm:h-auto">
             <Image layout="fill"
               className="absolute object-cover w-full bg-gray-200 h-full rounded"
-              src="/about/innovation.png"
+              src= {process.env.assetPrefix + "/about/innovation.png"} 
               alt="Person"
             />
           
@@ -272,7 +272,7 @@ So we give a top priority to customer satisfaction.
           <div className="relative w-full h-72 lg:h-48 max-h-full rounded shadow sm:h-auto">
             <Image  layout="fill"
               className="absolute object-cover w-full bg-gray-200 h-full rounded"
-              src="/about/integrity.png"
+              src= {process.env.assetPrefix + "/about/integrity.png"} 
               alt="Person"
             />
           
@@ -289,7 +289,7 @@ So we give a top priority to customer satisfaction.
           <div className="relative w-full h-72 lg:h-48 max-h-full rounded shadow sm:h-auto">
             <Image  layout="fill"
               className="absolute object-cover w-full bg-gray-200 h-full rounded"
-              src="/about/environment.png"
+              src= {process.env.assetPrefix + "/about/environment.png"} 
               alt="Person"
             />
           
@@ -306,7 +306,7 @@ So we give a top priority to customer satisfaction.
           <div className="relative w-full h-72 lg:h-48 max-h-full rounded shadow sm:h-auto">
             <Image layout="fill"
               className="absolute object-cover w-full bg-gray-200 h-full rounded"
-              src="/about/safety.png"
+              src= {process.env.assetPrefix + "/about/safety.png"} 
               alt="Person"
             />
           
@@ -322,7 +322,7 @@ So we give a top priority to customer satisfaction.
           <div className="relative w-full h-72 lg:h-48 max-h-full rounded shadow sm:h-auto">
             <Image  layout="fill"
               className="absolute object-cover w-full bg-gray-200 h-full rounded"
-              src="/about/teamwork.png"
+              src= {process.env.assetPrefix + "/about/teamwork.png"} 
               alt="Person"
             />
           

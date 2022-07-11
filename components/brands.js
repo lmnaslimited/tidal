@@ -6,7 +6,7 @@ export default function Brands(brands) {
              <div className="flex flex-col text-center w-full mb-20">
                 <h1 className="sm:text-3xl text-2xl font-medium title-font mb-4 text-th-primary-medium">Trusted by Global brands
                 </h1>
-                <p className="lg:w-2/3 text-purple-500 font-semibold mx-auto text-th-primary-dark leading-relaxed md:text-lg text-base">We assure your orders arrive on time.
+                <p className="lg:w-2/3 text-indigo-600 font-semibold mx-auto text-th-primary-dark leading-relaxed md:text-lg text-base">We assure your orders arrive on time.
                 </p>
             </div>
             <Marquee gradientWidth="150" direction="right" >

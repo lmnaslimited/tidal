@@ -6,7 +6,7 @@ export default function Injectors({injectors}) {
   <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
     <Scope_image width="240" height="240" 
       className="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
-      src="/scope/fuel-injection_ccexpress-238x238.png"
+      src= {process.env.assetPrefix + "/scope/fuel-injection_ccexpress-238x238.png"} 
       alt=""
     />
     <div className="p-3 flex flex-col justify-start">
@@ -17,46 +17,46 @@ export default function Injectors({injectors}) {
        <div className="flex flex-row">
         <Scope_image width="32" height="32" 
           className="h-8 w-8 rounded-full border border-gray-400"
-          src="/european-union.png"
+          src= {process.env.assetPrefix + "/european-union.png"} 
           alt=""
         />
         <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-        <Scope_image width="52" height="28"  className="h-8" src="/brand/mak.png" alt="" />
+        <Scope_image width="52" height="28"  className="h-8" src= {process.env.assetPrefix + "/brand/mak.png"}  alt="" />
           </div>
       </div>
        {/**  <div className="flex flex-row">
         <Scope_image width="" height="" 
           className="h-8 w-8 rounded-full mt-2 border border-gray-400"
-          src="/china.png"
+          src= {process.env.assetPrefix + "/china.png"} 
           alt=""
         />
         <div className="flex flex-row grid mt-2 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-        <Scope_image width="" height=""  className="h-12 " src="/brand/" alt="" />
-        <Scope_image width="" height=""  className="h-12" src="/brand/" alt="" />
-        <Scope_image width="" height=""  className="h-4 mt-2 ml-2 md:ml-4" src="/" alt="" />
+        <Scope_image width="" height=""  className="h-12 " src= {process.env.assetPrefix + "/brand/" alt="" />
+        <Scope_image width="" height=""  className="h-12" src= {process.env.assetPrefix + "/brand/" alt="" />
+        <Scope_image width="" height=""  className="h-4 mt-2 ml-2 md:ml-4" src= {process.env.assetPrefix + "/" alt="" />
       </div>
       </div>*/} 
       
        <div className="flex flex-row">
         <Scope_image width="32" height="32" 
           className="h-8 w-8 rounded-full mt-2 border border-gray-400"
-          src="/japan.png"
+          src= {process.env.assetPrefix + "/japan.png"} 
           alt=""
         />
         <div className="flex flex-row grid mt-2 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-         <Scope_image width="52" height="28"  className="h-8" src="/brand/yanmar.png" alt="" />
-        <Scope_image width="52" height="28"  className="h-8" src="/brand/kobediesel.png" alt="" />
+         <Scope_image width="52" height="28"  className="h-8" src= {process.env.assetPrefix + "/brand/yanmar.png"}  alt="" />
+        <Scope_image width="52" height="28"  className="h-8" src= {process.env.assetPrefix + "/brand/kobediesel.png"}  alt="" />
        </div>
       </div>
         <div className="flex flex-row">
         <Scope_image width="32" height="32" 
           className="h-8 w-8 rounded-full mt-2 border border-gray-400"
-          src="/south-korea.png"
+          src= {process.env.assetPrefix + "/south-korea.png"} 
           alt=""
         />
         <div className="flex flex-row grid mt-2 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-        <Scope_image width="52" height="28"  className="h-8" src="/brand/doosan.png" alt="" />
-        <Scope_image width="52" height="28"  className="h-8" src="/brand/ssangyong.png" alt="" />
+        <Scope_image width="52" height="28"  className="h-8" src= {process.env.assetPrefix + "/brand/doosan.png"}  alt="" />
+        <Scope_image width="52" height="28"  className="h-8" src= {process.env.assetPrefix + "/brand/ssangyong.png"}  alt="" />
         </div>
       </div>
       </div>

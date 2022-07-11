@@ -12,7 +12,7 @@ export default function Contact() {
                     </div>
                     <div className="lg:w-1/2 px-6 mt-4 lg:mt-0">
                     <h2 className="title-font font-semibold text-gray-900 tracking-widest text-xs">EMAIL</h2>
-                    <a href="mailto:sales@tidalgroups.com" className="text-purple-500 leading-relaxed">sales@tidalgroups.com</a>
+                    <a href="mailto:sales@tidalgroups.com" className="text-indigo-600 leading-relaxed">sales@tidalgroups.com</a>
                     <h2 className="title-font font-semibold text-gray-900 tracking-widest text-xs mt-4">PHONE</h2>
                     <a href="tel:+971 0501378676"><p className="leading-relaxed">+971 0501378676</p></a> 
                     </div>
@@ -33,7 +33,7 @@ export default function Contact() {
                     <label htmlFor="message" className="leading-7 text-sm text-gray-600">Message</label>
                     <textarea id="message" name="message"  className="w-full bg-white rounded border border-gray-300 focus:border-purple-500 focus:ring-2 focus:ring-indigo-200 h-32 text-base outline-none text-gray-700 py-1 px-3 resize-none leading-6 transition-colors duration-200 ease-in-out"></textarea>
                 </div>
-                <button className="text-white bg-purple-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">Contact Us</button>
+                <button className="text-white bg-indigo-600 border-0 py-2 px-6 focus:outline-none hover:bg-purple-500 rounded text-lg">Contact Us</button>
                 <p className="text-xs text-gray-500 mt-3"></p>
                 </div>
             </div>

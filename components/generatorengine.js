@@ -7,7 +7,7 @@ export default function Generatorengine({generatorengine}) {
   <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
     <Scope_image width="240" height="240"
       className="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
-      src="/scope/Generator-Engines_ccexpress-238x238.png"
+      src= {process.env.assetPrefix + "/scope/Generator-Engines_ccexpress-238x238.png"}
       alt=""
     />
     <div className="p-3 flex flex-col justify-start">
@@ -17,49 +17,49 @@ export default function Generatorengine({generatorengine}) {
       <div className="my-2 px-2">
        <div className="flex flex-row">
         <Scope_image width="32"  height="32" className="h-8 w-8 rounded-full border border-gray-400"
-          src="/european-union.png"
+          src= {process.env.assetPrefix + "/european-union.png"}
           alt=""
         />
         <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-        <Scope_image width="52" height="24" className="h-8" src="/brand/wartsila.png" alt="" />
-        <Scope_image width="52" height="24" className="h-10 ml-2" src="/brand/tdi.png" alt="" />
+        <Scope_image width="52" height="24" className="h-8" src= {process.env.assetPrefix + "/brand/wartsila.png"} alt="" />
+        <Scope_image width="52" height="24" className="h-10 ml-2" src= {process.env.assetPrefix + "/brand/tdi.png"} alt="" />
         
          </div>
       </div>
          <div className="flex flex-row">
         <Scope_image width="32"  height="32" className="h-8 w-8 rounded-full border border-gray-400"
-          src="/china.png"
+          src= {process.env.assetPrefix + "/china.png"}
           alt=""
         />
         <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-        <Scope_image width="52" height="32" className="h-12" src="/brand/daihatsu.png" alt="" />
-        <Scope_image width="48" height="28" className="h-10" src="/brand/cssc-logo-250x250.png" alt="" />
+        <Scope_image width="52" height="32" className="h-12" src= {process.env.assetPrefix + "/brand/daihatsu.png"} alt="" />
+        <Scope_image width="48" height="28" className="h-10" src= {process.env.assetPrefix + "/brand/cssc-logo-250x250.png"} alt="" />
          </div>
       </div>
       
        <div className="flex flex-row">
         <Scope_image width="32"  height="32" className="h-8 w-8 rounded-full border border-gray-400"
-          src="/japan.png"
+          src= {process.env.assetPrefix + "/japan.png"}
           alt=""
         />
         <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-       <Scope_image width="52" height="24" className="h-8" src="/brand/niigata.png" alt="" />
-        <Scope_image width="52" height="24" className="h-8" src="/brand/yanmar.png" alt="" />
-        <Scope_image width="52" height="24" className="h-8" src="/brand/daihatsu.png" alt="" />
+       <Scope_image width="52" height="24" className="h-8" src= {process.env.assetPrefix + "/brand/niigata.png"} alt="" />
+        <Scope_image width="52" height="24" className="h-8" src= {process.env.assetPrefix + "/brand/yanmar.png"} alt="" />
+        <Scope_image width="52" height="24" className="h-8" src= {process.env.assetPrefix + "/brand/daihatsu.png"} alt="" />
         
       </div>
       </div>
        {/** <div className="flex flex-row">
         <Scope_image width="32"  height="32" className="h-8 w-8 rounded-full border border-gray-400"
-          src="/south-korea.png"
+          src= {process.env.assetPrefix + "/south-korea.png"}
           alt=""
         />
         <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-        <Scope_image width="52" height="52" className="h-12 " src="/brand/" alt="" />
-        <Scope_image width="52" height="52" className="h-12" src="/brand/" alt="" />
-        <Scope_image width="52" height="52" className="h-12 " src="/brand/" alt="" />
-        <Scope_image width="52" height="52" className="h-12" src="/brand/" alt="" />
-        <Scope_image width="36" height="36" className="h-4 mt-2 ml-2 md:ml-4" src="/" alt="" />
+        <Scope_image width="52" height="52" className="h-12 " src= {process.env.assetPrefix + "/brand/" alt="" />
+        <Scope_image width="52" height="52" className="h-12" src= {process.env.assetPrefix + "/brand/" alt="" />
+        <Scope_image width="52" height="52" className="h-12 " src= {process.env.assetPrefix + "/brand/" alt="" />
+        <Scope_image width="52" height="52" className="h-12" src= {process.env.assetPrefix + "/brand/" alt="" />
+        <Scope_image width="36" height="36" className="h-4 mt-2 ml-2 md:ml-4" src= {process.env.assetPrefix + "/" alt="" />
       </div>
       </div>*/} 
       </div>

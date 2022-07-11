@@ -14,7 +14,7 @@ export default function allWorld() {
                 Marine Spare Parts
           </h1>
 
-              <h2 className="md:text-2xl text-lg text-purple-500 tracking-normal font-medium title-font mb-1"><Pattern text="To Any Part of the World" /> </h2>
+              <h2 className="md:text-2xl text-lg text-indigo-600 tracking-normal font-medium title-font mb-1"><Pattern text="To Any Part of the World" /> </h2>
 
 
             </div>
@@ -31,7 +31,7 @@ export default function allWorld() {
               </a>*/}
               <Link id="brands" href="/#brands">
               <button   className="bg-gray-100 inline-flex py-3 px-5 rounded-lg mr-0 lg:mr-40 items-center hover:bg-gray-200 focus:outline-none">
-                <Image alt="" width="24" height="24" src="/brand-logo-238x238.png" className='w-6 h-6'/>
+                <Image alt="" width="24" height="24" src= {process.env.assetPrefix + "/brand-logo-238x238.png"} className='w-6 h-6'/>
                 <span className="md:ml-4 ml-0 flex items-start flex-col leading-none">
                   <span className="text-sm ml-4 text-gray-600 mb-1">Supplying</span>
                   <span className="title-font font-medium">Global Brands</span>
