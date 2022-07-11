@@ -8,7 +8,7 @@ export default function Aircompressor({aircompressor}) {
   <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
   
      <Scope_image width="240" height="240" className="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
-      src="/scope/Air compressor-238x238.png"
+      part="/scope/Air compressor-238x238.png"
       alt=""
     />
     <div className="p-3 flex flex-col justify-start">
@@ -18,24 +18,24 @@ export default function Aircompressor({aircompressor}) {
       <div className="my-2  px-2">
        <div className="flex  flex-row">
         <Scope_image width="32" height="32" className="h-8 w-8 rounded-full border border-gray-400"
-          src="/european-union.png"
+          part="/european-union.png"
           alt=""
         />
       <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-        <Scope_image width="40" height="40"  className="h-8" src="/Brands/bock.svg" alt="" />
-        <Scope_image width="40" height="40"  className="h-8" src="/Brands/york.svg" alt="" />
-        <Scope_image width="40" height="40"  className="h-8" src="/Brands/bitzer.svg" alt="" />
-        <Scope_image width="40" height="40"  className="h-8" src="/Brands/gea.svg" alt="" />
+        <Scope_image width="40" height="40"  className="h-8" part="/Brands/bock.svg" alt="" />
+        <Scope_image width="40" height="40"  className="h-8" part="/Brands/york.svg" alt="" />
+        <Scope_image width="40" height="40"  className="h-8" part="/Brands/bitzer.svg" alt="" />
+        <Scope_image width="40" height="40"  className="h-8" part="/Brands/gea.svg" alt="" />
          </div>
       </div>
       <div className="flex flex-row">
         <Scope_image width="32" height="32" className="h-8 w-82 my-2 rounded-full border border-gray-400"
-          src="/south-korea.png"
+          part="/south-korea.png"
           alt=""
         />
         <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-        <Scope_image width="52" height="32"  className="h-12 ml-4 mt-1" src="/Brands/tanabe.svg" alt="" />
-        <Scope_image width="52" height="32"  className="h-12 ml-4 md:ml-4 " src="/Brands/h.svg" alt="" />
+        <Scope_image width="52" height="32"  className="h-12 ml-4 mt-1" part="/Brands/tanabe.svg" alt="" />
+        <Scope_image width="52" height="32"  className="h-12 ml-4 md:ml-4 " part="/Brands/h.svg" alt="" />
         
        
       </div>
@@ -43,12 +43,12 @@ export default function Aircompressor({aircompressor}) {
 
        <div className="flex flex-row">
         <Scope_image width="32" height="32" className="h-8 w-82 rounded-full border border-gray-400"
-          src="/japan.png"
+          part="/japan.png"
           alt=""
         />
 
          <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 mt-2 lg:grid-cols-5">
-        <Scope_image width="52" height="32"  className="h-12 ml-4 -mt-2" src="/Brands/tanabe.svg" alt="" />
+        <Scope_image width="52" height="32"  className="h-12 ml-4 -mt-2" part="/Brands/tanabe.svg" alt="" />
         
          </div>
       </div>

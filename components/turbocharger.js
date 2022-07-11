@@ -7,7 +7,7 @@ export default function Turbocharger({turbocharger}){
             <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
               <Scope_image width="240" height="240" 
                 className="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
-                src="/scope/Turbocharger-238x238.png"
+                part="/scope/Turbocharger-238x238.png"
                 alt=""
               />
               <div className="p-3 flex flex-col justify-start">
@@ -18,52 +18,52 @@ export default function Turbocharger({turbocharger}){
                  <div className="flex flex-row">
                   <Scope_image width="32" height="32" 
                     className="h-8 w-8 rounded-full border border-gray-400"
-                    src="/european-union.png"
+                    part="/european-union.png"
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="52" height="24"  className="h-8" src="/brand/abb.png" alt="" />
-                  <Scope_image width="52" height="24"  className="h-8 -mt-2" src="/brand/mandiesel.png" alt="" />
+                  <Scope_image width="52" height="24"  className="h-8" part="/brand/abb.png" alt="" />
+                  <Scope_image width="52" height="24"  className="h-8 -mt-2" part="/brand/mandiesel.png" alt="" />
                  
                 </div>
                 </div>
                  {/**   <div className="flex flex-row">
                   <Scope_image width="" height="" 
                     className="h-8 w-8 rounded-full border border-gray-400"
-                    src="/china.png"
+                    part="/china.png"
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="" height=""  className="h-12 " src="/brand/" alt="" />
-                  <Scope_image width="" height=""  className="h-12" src="/brand/" alt="" />
-                  <Scope_image width="" height=""  className="h-12 " src="/brand/" alt="" />
-                  <Scope_image width="" height=""  className="h-12" src="/brand/" alt="" />
-                  <Scope_image width="" height=""  className="h-4 mt-2 ml-2 md:ml-4" src="/" alt="" />
+                  <Scope_image width="" height=""  className="h-12 " part="/brand/" alt="" />
+                  <Scope_image width="" height=""  className="h-12" part="/brand/" alt="" />
+                  <Scope_image width="" height=""  className="h-12 " part="/brand/" alt="" />
+                  <Scope_image width="" height=""  className="h-12" part="/brand/" alt="" />
+                  <Scope_image width="" height=""  className="h-4 mt-2 ml-2 md:ml-4" part="/" alt="" />
                 </div>
                 </div>
                 */}
                  <div className="flex flex-row">
                   <Scope_image width="32" height="32" 
                     className="h-8 w-8 rounded-full border border-gray-400"
-                    src="/japan.png"
+                    part="/japan.png"
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="32" height="32"  className="h-6" src="/brand/nissin.png" alt="" />
-                  <Scope_image width="52" height="24"  className="h-8" src="/brand/ihi.png" alt="" />
-                  <Scope_image width="52" height="24"  className="h-8" src="/brand/Mitsubishi-logo-238x238.png" alt="" />
+                  <Scope_image width="32" height="32"  className="h-6" part="/brand/nissin.png" alt="" />
+                  <Scope_image width="52" height="24"  className="h-8" part="/brand/ihi.png" alt="" />
+                  <Scope_image width="52" height="24"  className="h-8" part="/brand/Mitsubishi-logo-238x238.png" alt="" />
                  
                 </div>
                 </div>
                   <div className="flex flex-row">
                   <Scope_image width="32" height="32" 
                     className="h-8 w-8 rounded-full border border-gray-400"
-                    src="/south-korea.png"
+                    part="/south-korea.png"
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="52" height="24"  className="h-8" src="/brand/stx.png" alt="" />
-                  <Scope_image width="52" height="24"  className="h-8" src="/brand/doosan.png" alt="" />
+                  <Scope_image width="52" height="24"  className="h-8" part="/brand/stx.png" alt="" />
+                  <Scope_image width="52" height="24"  className="h-8" part="/brand/doosan.png" alt="" />
                  
                 </div>
                 </div>
@@ -71,7 +71,7 @@ export default function Turbocharger({turbocharger}){
                
               </div>
              <div className="mt-2 md:mb-0 mb-8 md:ml-0 ml-6">
-             <a href="mailto:sales@tidalgroups.com"><button className="font-bold inline-flex w-20 items-center h-6 bg-indigo-600 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-500 rounded text-sm">
+             <a href="mailto:sales@tidalgroups.com"><button className="font-bold inline-flex w-20 items-center h-6 bg-purple-500 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-700 rounded text-sm">
                   Quote
                   <svg
                     fill="none"

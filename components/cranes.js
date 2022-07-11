@@ -6,7 +6,7 @@ export default function Cranes({cranes}){
           <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
             <Scope_image width="240" height="240"
               className="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
-              src="/scope/Cranes-and-Hatch-Covers-final-238x238.png"
+              part="/scope/Cranes-and-Hatch-Covers-final-238x238.png"
               alt=""
             />
             <div className="p-3 flex flex-col justify-start">
@@ -16,46 +16,46 @@ export default function Cranes({cranes}){
               <div className="my-2 px-2">
                <div className="flex flex-row">
                 <Scope_image width="32" height="32"  className="h-8 w-8 rounded-full border border-gray-400"
-                  src="/european-union.png"
+                  part="/european-union.png"
                   alt=""
                 />
                 <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                <Scope_image width="40" height="44" className="h-8  " src="/Brands/denjet.svg" alt="" />
-                <Scope_image width="52" height="44" className="h-12" src="/Brands/terasaki.svg" alt="" />
-                <Scope_image width="40" height="44" className="h-8   " src="/Brands/line.svg" alt="" />
-                <Scope_image width="52" height="44" className="h-12" src="/Brands/yanmar.svg" alt="" />
+                <Scope_image width="40" height="44" className="h-8  " part="/Brands/denjet.svg" alt="" />
+                <Scope_image width="52" height="44" className="h-12" part="/Brands/terasaki.svg" alt="" />
+                <Scope_image width="40" height="44" className="h-8   " part="/Brands/line.svg" alt="" />
+                <Scope_image width="52" height="44" className="h-12" part="/Brands/yanmar.svg" alt="" />
                 
               </div>
               </div>
                  <div className="flex flex-row">
                 <Scope_image width="32" height="32"  className="h-8 w-8 rounded-full border border-gray-400"
-                  src="/china.png"
+                  part="/china.png"
                   alt=""
                 />
                 <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                <Scope_image width="40" height="44" className="h-8   " src="/Brands/cssc.png" alt="" />
-                <Scope_image width="40" height="44" className="h-8  " src="/Brands/jx.png" alt="" />
+                <Scope_image width="40" height="44" className="h-8   " part="/Brands/cssc.png" alt="" />
+                <Scope_image width="40" height="44" className="h-8  " part="/Brands/jx.png" alt="" />
                
               </div>
               </div>
               
                 <div className="flex flex-row">
                 <Scope_image width="32" height="32"  className="h-8 w-8 rounded-full mt-2 border border-gray-400"
-                  src="/japan.png"
+                  part="/japan.png"
                   alt=""
                 />
                 <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                <Scope_image width="52" height="44" className="h-12 -mt-2" src="/Brands/mac.svg" alt="" />
+                <Scope_image width="52" height="44" className="h-12 -mt-2" part="/Brands/mac.svg" alt="" />
                 </div>
               </div>
                 <div className="flex flex-row">
                 <Scope_image width="32" height="32"  className="h-8 w-8 rounded-full mt-2 border border-gray-400"
-                  src="/south-korea.png"
+                  part="/south-korea.png"
                   alt=""
                 />
                 <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                <Scope_image width="40" height="32" className="h-8  " src="/Brands/dmc.png" alt="" />
-                <Scope_image width="40" height="32" className="h-8  " src="/Brands/taekwang1.png" alt="" />
+                <Scope_image width="40" height="32" className="h-8  " part="/Brands/dmc.png" alt="" />
+                <Scope_image width="40" height="32" className="h-8  " part="/Brands/taekwang1.png" alt="" />
                   </div>
               </div>
               </div>
