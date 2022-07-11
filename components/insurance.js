@@ -25,7 +25,7 @@ export default function insurance() {
                         </h1>
                                 <h2 className="text-sm text-indigo-600 tracking-widest font-medium title-font mb-1">We ship the parts straight from the OEM</h2>
                             </div>
-                            <Link href="/scope-of-supply" ><a><button className="flex-shrink-0 ml-4 text-white bg-indigo-600 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded text-lg mt-10 sm:mt-0">Know More</button></a></Link>
+                            <Link href="/scope-of-supply" ><a><button className="flex-shrink-0 ml-4 text-white bg-indigo-600 border-0 py-2 px-8 focus:outline-none hover:bg-purple-500 rounded text-lg mt-10 sm:mt-0">Know More</button></a></Link>
         
                        
                         </div>

@@ -7,7 +7,7 @@ export default function Pumps({pumps}) {
             <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
               <Scope_image width="240" height="240" 
                 className="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
-                src= {process.env.assetPrefix + "/scope/pump-1_ccexpress-238x238.png"}
+                src="/scope/pump-1_ccexpress-238x238.png"
                 alt=""
               />
               <div className="p-3 flex flex-col justify-start">
@@ -18,61 +18,61 @@ export default function Pumps({pumps}) {
                  <div className="flex flex-row">
                   <Scope_image width="32" height="32" 
                     className="h-8 w-8 rounded-full border border-gray-400"
-                    src= {process.env.assetPrefix + "/european-union.png"}
+                    src="/european-union.png"
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="52" height="24"  className="h-8" src= {process.env.assetPrefix + "/brand/desmi.png"} alt="" />
-                  <Scope_image width="52" height="24"  className="h-8" src= {process.env.assetPrefix + "/brand/azcue.png"} alt="" />
-                  <Scope_image width="52" height="24"  className="h-8" src= {process.env.assetPrefix + "/brand/grundfos.png"} alt="" />
-                  <Scope_image width="52" height="24"  className="h-8 ml-2" src= {process.env.assetPrefix + "/brand/ALLWEILER.png"} alt="" />
+                  <Scope_image width="52" height="24"  className="h-8" src="/brand/desmi.png" alt="" />
+                  <Scope_image width="52" height="24"  className="h-8" src="/brand/azcue.png" alt="" />
+                  <Scope_image width="52" height="24"  className="h-8" src="/brand/grundfos.png" alt="" />
+                  <Scope_image width="52" height="24"  className="h-8 ml-2" src="/brand/ALLWEILER.png" alt="" />
                   
                 </div>
                 </div>
                   {/**  <div className="flex flex-row">
                   <Scope_image width="" height="" 
                     className="h-8 w-8 rounded-full border mt-4 border-gray-400"
-                    src= {process.env.assetPrefix + "/china.png"}
+                    src="/china.png"
                     alt=""
                   />
                   <div className="flex flex-row grid mt-4 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="" height=""  className="h-12 " src= {process.env.assetPrefix + "/brand/" alt="" />
-                  <Scope_image width="" height=""  className="h-12" src= {process.env.assetPrefix + "/brand/" alt="" />
-                  <Scope_image width="" height=""  className="h-12 " src= {process.env.assetPrefix + "/brand/" alt="" />
-                  <Scope_image width="" height=""  className="h-12" src= {process.env.assetPrefix + "/brand/" alt="" />
-                  <Scope_image width="" height=""  className="h-4 mt-2 ml-2 md:ml-4" src= {process.env.assetPrefix + "/" alt="" />
+                  <Scope_image width="" height=""  className="h-12 " src="/brand/" alt="" />
+                  <Scope_image width="" height=""  className="h-12" src="/brand/" alt="" />
+                  <Scope_image width="" height=""  className="h-12 " src="/brand/" alt="" />
+                  <Scope_image width="" height=""  className="h-12" src="/brand/" alt="" />
+                  <Scope_image width="" height=""  className="h-4 mt-2 ml-2 md:ml-4" src="/" alt="" />
                 </div>
                 </div>
                 */}
                  <div className="flex flex-row">
                   <Scope_image width="32" height="32" 
                     className="h-8 w-8 rounded-full mt-4 border border-gray-400"
-                    src= {process.env.assetPrefix + "/japan.png"}
+                    src="/japan.png"
                     alt=""
                   />
                   <div className="flex flex-row grid mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="52" height="24"  className="h-8" src= {process.env.assetPrefix + "/brand/taikokikai.png"} alt="" />
-                  <Scope_image width="52" height="24"  className="h-8" src= {process.env.assetPrefix + "/brand/heishin.png"} alt="" />
-                  <Scope_image width="52" height="24"  className="h-8" src= {process.env.assetPrefix + "/brand/teikoku.png"} alt="" />
-                  <Scope_image width="52" height="24"  className="h-8" src= {process.env.assetPrefix + "/brand/sasakura.png"} alt="" />
+                  <Scope_image width="52" height="24"  className="h-8" src="/brand/taikokikai.png" alt="" />
+                  <Scope_image width="52" height="24"  className="h-8" src="/brand/heishin.png" alt="" />
+                  <Scope_image width="52" height="24"  className="h-8" src="/brand/teikoku.png" alt="" />
+                  <Scope_image width="52" height="24"  className="h-8" src="/brand/sasakura.png" alt="" />
                   
                 </div>
                 </div>
                   <div className="flex flex-row">
                   <Scope_image width="32" height="32" 
                     className="h-8 w-8 rounded-full mt-4 border border-gray-400"
-                    src= {process.env.assetPrefix + "/south-korea.png"}
+                    src="/south-korea.png"
                     alt=""
                   />
                   <div className="flex flex-row grid mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="52" height="24"  className="h-8" src= {process.env.assetPrefix + "/brand/shinshin.png"} alt="" />
+                  <Scope_image width="52" height="24"  className="h-8" src="/brand/shinshin.png" alt="" />
                     </div>
                 </div>
                 </div>
                
               </div>
              <div className="mt-2 md:mb-0 mb-8 md:ml-0 ml-6">
-                 <a href="mailto:sales@tidalgroups.com"><button className="font-bold inline-flex w-20 items-center h-6 bg-indigo-600 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-700 rounded text-sm">
+                 <a href="mailto:sales@tidalgroups.com"><button className="font-bold inline-flex w-20 items-center h-6 bg-purple-500 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-700 rounded text-sm">
                   Quote
                   <svg
                     fill="none"

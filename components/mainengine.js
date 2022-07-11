@@ -7,7 +7,7 @@ export default function Mainengine({mainengine}) {
             <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
               <Scope_image width="240" height="240"
                 className="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
-                src= {process.env.assetPrefix + "/scope/main-engine-238x238.png"}
+                src="/scope/main-engine-238x238.png"
                 alt=""
               />
               <div className="p-3 flex flex-col justify-start">
@@ -18,26 +18,26 @@ export default function Mainengine({mainengine}) {
                  <div className="flex flex-row">
                   <Scope_image width="32" height="32"
                     className="h-8 w-8 rounded-full border border-gray-400"
-                    src= {process.env.assetPrefix + "/european-union.png"}
+                    src="/european-union.png"
                     alt=""
                   />
                 <div className="flex flex-row grid grid-cols-5 gap-1 md:grid   mx-4 gap-2 md:grid-cols-5  lg:grid-cols-5">
-                <Scope_image width="52" height="24" className="h-8 -ml-2" src= {process.env.assetPrefix + "/brand/cummins.png"} alt="" />
-                <Scope_image width="52" height="24" className="h-8" src= {process.env.assetPrefix + "/brand/sulzer.png"} alt="" />
-               <Scope_image width="52" height="24" className="h-8 ml-2" src= {process.env.assetPrefix + "/brand/deutz.png"} alt="" />
-                  <Scope_image width="52" height="24" className="h-8" src= {process.env.assetPrefix + "/brand/hcp.png"} alt="" />
+                <Scope_image width="52" height="24" className="h-8 -ml-2" src="/brand/cummins.png" alt="" />
+                <Scope_image width="52" height="24" className="h-8" src="/brand/sulzer.png" alt="" />
+               <Scope_image width="52" height="24" className="h-8 ml-2" src="/brand/deutz.png" alt="" />
+                  <Scope_image width="52" height="24" className="h-8" src="/brand/hcp.png" alt="" />
                     </div>
                 </div>
                 <div className="flex flex-row">
                    <div className="flex flex-row">
                   <Scope_image width="32" height="32"
                     className="h-8 w-8 rounded-full mt-4 border border-gray-400"
-                    src= {process.env.assetPrefix + "/china.png"}
+                    src="/china.png"
                     alt=""
                   />
                   <div className="flex flex-row grid mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="52" height="24" className="h-8" src= {process.env.assetPrefix + "/brand/hudong.png"} alt="" />
-                  <Scope_image width="52" height="24" className="h-8 " src= {process.env.assetPrefix + "/brand/manbw.png"} alt="" />
+                  <Scope_image width="52" height="24" className="h-8" src="/brand/hudong.png" alt="" />
+                  <Scope_image width="52" height="24" className="h-8 " src="/brand/manbw.png" alt="" />
                     </div>
                 </div>
                 
@@ -47,14 +47,14 @@ export default function Mainengine({mainengine}) {
                  <div className="flex flex-row">
                   <Scope_image width="32" height="32"
                     className="h-8 w-8 rounded-full border border-gray-400"
-                    src= {process.env.assetPrefix + "/japan.png"}
+                    src="/japan.png"
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="52" height="24" className="h-8" src= {process.env.assetPrefix + "/brand/hitachizosen.png"} alt="" />
-                  <Scope_image width="52" height="24" className="h-8" src= {process.env.assetPrefix + "/brand/makita.png"} alt="" />
-                  <Scope_image width="52" height="24" className="h-8" src= {process.env.assetPrefix + "/brand/mitsubishi-logo-238x238.png"} alt="" />
-                  <Scope_image width="52" height="24" className="h-8" src= {process.env.assetPrefix + "/brand/kawasaki.png"} alt="" />
+                  <Scope_image width="52" height="24" className="h-8" src="/brand/hitachizosen.png" alt="" />
+                  <Scope_image width="52" height="24" className="h-8" src="/brand/makita.png" alt="" />
+                  <Scope_image width="52" height="24" className="h-8" src="/brand/mitsubishi-logo-238x238.png" alt="" />
+                  <Scope_image width="52" height="24" className="h-8" src="/brand/kawasaki.png" alt="" />
                     </div>
                 </div>
                  
@@ -63,14 +63,14 @@ export default function Mainengine({mainengine}) {
                   <div className="flex flex-row">
                   <Scope_image width="32" height="32"
                     className="h-8 w-8 rounded-full mt-4 border border-gray-400"
-                    src= {process.env.assetPrefix + "/south-korea.png"}
+                    src="/south-korea.png"
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="28" height="32" className="h-8" src= {process.env.assetPrefix + "/brand/hyundai.png"} alt="" />
-                  <Scope_image width="28" height="32" className="h-8" src= {process.env.assetPrefix + "/brand/doosan.png"} alt="" />
-                  <Scope_image width="28" height="32" className="h-8" src= {process.env.assetPrefix + "/brand/stx.png"} alt="" />
-                  <Scope_image width="28" height="32" className="h-8" src= {process.env.assetPrefix + "/brand/ssangyong.png"} alt="" />
+                  <Scope_image width="28" height="32" className="h-8" src="/brand/hyundai.png" alt="" />
+                  <Scope_image width="28" height="32" className="h-8" src="/brand/doosan.png" alt="" />
+                  <Scope_image width="28" height="32" className="h-8" src="/brand/stx.png" alt="" />
+                  <Scope_image width="28" height="32" className="h-8" src="/brand/ssangyong.png" alt="" />
                   
                 </div>
                 </div>
@@ -80,7 +80,7 @@ export default function Mainengine({mainengine}) {
                
               </div>
              <div className="mt-2 md:mb-0 mb-8 md:ml-0 ml-6">
-                 <a href="mailto:sales@tidalgroups.com"><button className="font-bold inline-flex w-20 items-center h-6 bg-indigo-600 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-700 rounded text-sm">
+                 <a href="mailto:sales@tidalgroups.com"><button className="font-bold inline-flex w-20 items-center h-6 bg-purple-500 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-700 rounded text-sm">
                   Quote
                   <svg
                     fill="none"
