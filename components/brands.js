@@ -13,7 +13,7 @@ export default function Brands(brands) {
                 <div className="grid grid-cols-11 gap-8 text-center lg:grid-cols-11 mx-4">
                 <div className="px-3">
                     <Image alt=""
-                        src='/Brands/sulzer-logo-238x238.png'
+                        src= '/Brands/sulzer-logo-238x238.png'
                         height='100'
                         width='100'
                         className="absolute inset-0 w-full h-full object-center border-gray-200"

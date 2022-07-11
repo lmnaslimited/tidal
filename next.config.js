@@ -8,6 +8,9 @@ if (!process.env.NODE_ENV || process.env.NODE_ENV === "development") {
     images: {
       domains: ["localhost", "res.cloudinary.com", "lmnas.com"],
     },
+    env: {
+      assetPrefix: '',
+    },
   };
 } else if (process.env.NODE_ENV === "production") {
   module.exports = {
@@ -17,6 +20,8 @@ if (!process.env.NODE_ENV || process.env.NODE_ENV === "development") {
       path: 'https://res.cloudinary.com/lmnas/image/fetch/',
       domains: ["res.cloudinary.com"],
     },
-    //assetPrefix: '/lmnas-cms-blog/'
+    env: {
+      assetPrefix: 'https://tidalgroups.com',
+    },
   };
 }

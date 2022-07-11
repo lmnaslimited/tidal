@@ -1,11 +1,12 @@
 import Image from 'next/image'
 export default function service({icon, title, link, alt, }) {
+    const iconUrl = process.env.assetPrefix + icon
     return (
         <div className="flex flex-col xl:w-1/3 md:w-1/3 w-1/3 p-4 hover:bg-sky-50 justify-center">  
             <a href = {link}> 
             <div className="w-30 h-30 flex items-center justify-center text-purple-500 mb-4">
               <Image 
-                  src = {icon}
+                  src = {iconUrl}
                   width ="40"  
                   height = "40"
                   className='w-20 h-20 md:w-40 md:h-40'
