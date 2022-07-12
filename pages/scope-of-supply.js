@@ -500,7 +500,7 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 mt-2  grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="44" height="28" className="h-10" part="/brand/mitsubishi-logo-250x250.png" alt="" />
+                  <Scope_image width="44" height="28" className="h-10" part="/brand/mitsubishi-logo-238x238.png" alt="" />
                   <Scope_image width="44" height="28" className="h-10" part="/brand/kawasaki-logo-250x250.png" alt="" />
                   
                   
@@ -1193,7 +1193,6 @@ export default function ScopeOfSupply() {
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
                   <Scope_image width="40" height="24"  className="h-8" part="/brand/miura.png" alt="" />
                   <Scope_image width="36" height="24"  className="h-8" part="/brand/misuzu.png" alt="" />
-                  <Scope_image width="48" height="24"  className="h-8" part="/brand/fuji-electric.png" alt="" />
                   <Scope_image width="52" height="28"  className="h-8 -ml-2" part="/brand/volcano.png" alt="" />
                   
                 </div>
