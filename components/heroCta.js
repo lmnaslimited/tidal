@@ -10,7 +10,7 @@ export default function heroCta(){
             <h1 className=" title-font xl:text-3xl lg:-ml-8 text-2xl md:text-xl mb-8 font-medium text-gray-900">
             <Pattern text="Got a Marine Part Requirement?"/>
             </h1>
-            <p className="mb-8 text-md xl:text-lg lg:-ml-8 lg:w-3/8 xl:w-full xl:-ml-8 lg:mx-12 xl:mx-16 leading-relaxed">
+            <p className="mb-8 text-md xl:text-lg -ml-10 lg:-ml-8 xl:w-full xl:-ml-8 lg:mx-2 xl:mx-56 leading-relaxed">
             
             Get your requirements fulfilled with a choice of over 50+ trusted brands and shipped from over 10+ countries 
             </p>
