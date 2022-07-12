@@ -3,7 +3,7 @@ export default function heroCta(){
     return (
       <section className="lg:mx-40 text-gray-600 body-font border-8 border-white mb-28">
       <div className="container  md:flex-row flex-col items-center ">
-        <div className="lg:flex-grow md:w-1/3 lg:pr-30  lg:py-24 md:pr-10 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center bg-white">
+        <div className="lg:flex-grow md:w-1/3 lg:pr-30  lg:py-16 md:pr-10 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center bg-white">
         
           <div className="ml-10 mb-16">
           
