@@ -5,12 +5,13 @@ export default function Aircompressor({aircompressor}) {
   
 <div  id="aircompressor" className="py-10 flex item-center justify-center">
 <div className="w-4/5 lg:w-3/4 xl:w-2/4">
-  <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
-  
-     <Scope_image width="238" height="238" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
-      part="/scope/Air compressor-238x238.png"
+<div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
+            <div className="md:p-4 md:bg-gray-100">
+            <Scope_image width="220" height="220" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
+              part="/scope/Air compressor-238x238.png"
       alt=""
     />
+    </div>
     <div className="p-3 flex flex-col justify-start">
       <h1 className="text-black font-sans font-semibold text-2xl md:text-lg mb-2">
        Air Compressor

@@ -22,12 +22,13 @@ export default function ScopeOfSupply() {
 
         <div className="py-10 flex item-center justify-center">
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
-            <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
-            
-               <Scope_image width="240" height="240" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
+          <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
+            <div className="md:p-4 md:bg-gray-100">
+            <Scope_image width="220" height="220" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
                 part="/scope/Air-starters-238x238.png"
                 alt=""
               />
+            </div>
               <div className="p-3 flex flex-col justify-start">
                 <h1 className="text-black font-sans font-semibold text-2xl md:text-lg mb-2">
                  Air Starters
@@ -115,11 +116,14 @@ export default function ScopeOfSupply() {
        
         <div className="py-10 flex item-center justify-center">
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
-            <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
-              <Scope_image width="220" height="240" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
+          <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
+            <div className="md:p-4 md:bg-gray-100">
+            <Scope_image width="220" height="220" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
                 part="/scope/Air-Conditioning-and-Refrigeration-238x238.png"
                 alt=""
               />
+            
+              </div>
               <div className="p-3 flex flex-col justify-start">
                 <h1 className="text-black font-sans font-semibold text-2xl md:text-lg mb-2">
                 Air Conditioning and Refrigeration
@@ -200,11 +204,13 @@ export default function ScopeOfSupply() {
         </div>
         <div className="py-10 flex item-center justify-center">
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
-            <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
-              <Scope_image width="220" height="240" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
+          <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
+            <div className="md:p-4 md:bg-gray-100">
+            <Scope_image width="220" height="220" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
                 part="/scope/Blowers-and-Fans-238x238.png"
                 alt=""
               />
+              </div>
               <div className="p-3 flex flex-col justify-start">
                 <h1 className="text-black font-sans font-semibold text-2xl md:text-lg mb-2">
                 Blowers and Fans
@@ -286,9 +292,10 @@ export default function ScopeOfSupply() {
         <div className="py-10 flex item-center justify-center">
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
             <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
-              <Scope_image width="240" height="240" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
+            <div className="md:p-4 md:bg-gray-100">  <Scope_image width="220" height="220" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
                 part="/scope/Boiler-Parts-and-Accessories-238x238.png" alt=""
               />
+              </div>
               <div className="p-3 flex flex-col justify-start">
                 <h1 className="text-black font-sans font-semibold text-2xl md:text-lg mb-2">
                 Boiler Parts and Accessories
@@ -371,12 +378,13 @@ export default function ScopeOfSupply() {
         </div>
         <div className="py-10 flex item-center justify-center">
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
-            <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
-              <Scope_image width="238" height="238" 
-                class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
+          <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
+            <div className="md:p-4 md:bg-gray-100">
+            <Scope_image width="220" height="220" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
                 part="/scope/Bow-Thrusters-238x238.png"
                 alt=""
               />
+              </div>
               <div className="p-3 flex flex-col justify-start">
                 <h1 className="text-black font-sans font-semibold text-2xl md:text-lg mb-2">
                 Bow Thrusters
@@ -457,11 +465,13 @@ export default function ScopeOfSupply() {
        </div>
         <div className="py-10 flex item-center justify-center">
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
-            <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
-              <Scope_image width="240" height="240" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
+          <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
+            <div className="md:p-4 md:bg-gray-100">
+            <Scope_image width="220" height="220" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
                 part="/scope/Deck-Machineries-238x238.png"
                 alt=""
               />
+              </div>
               <div className="p-3 flex flex-col justify-start">
                 <h1 className="text-black font-sans font-semibold text-2xl md:text-lg mb-2">
                 Deck Machineries
@@ -543,10 +553,11 @@ export default function ScopeOfSupply() {
         <div className="py-10 flex item-center justify-center">
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
             <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
-              <Scope_image width="240" height="240" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
+            <div className="md:p-4 md:bg-gray-100">  <Scope_image width="220" height="220" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
                 part="/scope/Electric-motors-238x238.png"
                 alt=""
               />
+              </div>
               <div className="p-3 flex flex-col justify-start">
                 <h1 className="text-black font-sans font-semibold text-2xl md:text-lg mb-2">
                 Electric motors
@@ -627,10 +638,11 @@ export default function ScopeOfSupply() {
         <div className="py-10 flex item-center justify-center">
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
             <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
-              <Scope_image width="240" height="240" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
+            <div className="md:p-4 md:bg-gray-100">  <Scope_image width="220" height="220" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
                 part="/scope/Filters-and-Strainers_ccexpress-238x238.png"
                 alt=""
               />
+              </div>
               <div className="p-3 flex flex-col justify-start">
                 <h1 className="text-black font-sans font-semibold text-2xl md:text-lg mb-2">
                 Filters and Strainers
@@ -712,10 +724,11 @@ export default function ScopeOfSupply() {
         <div className="py-10 flex item-center justify-center">
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
             <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
-              <Scope_image width="240" height="240" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
+            <div className="md:p-4 md:bg-gray-100">  <Scope_image width="220" height="220" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
               part="/scope/Fire-Detection-Safety-Equipments-238x238.png" 
                 alt=""
               />
+              </div>
               <div className="p-3 flex flex-col justify-start">
                 <h1 className="text-black font-sans font-semibold text-2xl md:text-lg mb-2">
                 Fire Detection Safety Equipments
@@ -797,10 +810,11 @@ export default function ScopeOfSupply() {
         <div className="py-10 flex item-center justify-center">
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
             <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
-              <Scope_image width="240" height="240" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
+            <div className="md:p-4 md:bg-gray-100">  <Scope_image width="220" height="220" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
                 part="/scope/Flow Meters_ccexpress-238x238.png"
                 alt=""
               />
+              </div>
               <div className="p-3 flex flex-col justify-start">
                 <h1 className="text-black font-sans font-semibold text-2xl md:text-lg mb-2">
                 Flow Meters
@@ -883,10 +897,11 @@ export default function ScopeOfSupply() {
         <div className="py-10 flex item-center justify-center">
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
             <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
-              <Scope_image width="240" height="240" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
+            <div className="md:p-4 md:bg-gray-100">  <Scope_image width="220" height="220" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
                 part="/scope/Fresh_Water_Generators-238x238.png"
                 alt=""
               />
+              </div>
               <div className="p-3 flex flex-col justify-start">
                 <h1 className="text-black font-sans font-semibold text-2xl md:text-lg mb-2">
                 Fresh Water Generators
@@ -970,11 +985,12 @@ export default function ScopeOfSupply() {
         <div className="py-10 flex item-center justify-center">
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
             <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
-              <Scope_image width="240" height="240" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
+            <div className="md:p-4 md:bg-gray-100">  <Scope_image width="220" height="220" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
                 part="/scope/Galley-Equipments-final-238x238.png"
                 alt=""
               />
         
+              </div>
               <div className="p-3 flex flex-col justify-start">
                 <h1 className="text-black font-sans font-semibold text-2xl md:text-lg mb-2">
                 Galley Equipments
@@ -1060,11 +1076,12 @@ export default function ScopeOfSupply() {
         <div className="py-10 flex item-center justify-center">
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
             <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
-              <Scope_image width="240" height="240"
+            <div className="md:p-4 md:bg-gray-100">  <Scope_image width="220" height="220"
                 class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
                 part="/scope/Governor-ccexpress-238x238.png"
                 alt=""
               />
+              </div>
               <div className="p-3 flex flex-col justify-start">
                 <h1 className="text-black font-sans font-semibold text-2xl md:text-lg mb-2">
                 Governor
@@ -1149,11 +1166,12 @@ export default function ScopeOfSupply() {
         <div className="py-10 flex item-center justify-center">
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
             <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
-              <Scope_image width="240" height="240"
+            <div className="md:p-4 md:bg-gray-100">  <Scope_image width="220" height="220"
                 class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
                 part="/scope/Incinerators_ccexpress-238x238.png"
                 alt=""
               />
+              </div>
               <div className="p-3 flex flex-col justify-start">
                 <h1 className="text-black font-sans font-semibold text-2xl md:text-lg mb-2">
                 Incinerators
@@ -1233,11 +1251,12 @@ export default function ScopeOfSupply() {
         <div className="py-10 flex item-center justify-center">
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
             <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
-              <Scope_image width="240" height="240"
+            <div className="md:p-4 md:bg-gray-100">  <Scope_image width="220" height="220"
                 class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
                 part="/scope/Inert-Gas-System_ccexpress-238x238.png"
                 alt=""
               />
+              </div>
               <div className="p-3 flex flex-col justify-start">
                 <h1 className="text-black font-sans font-semibold text-2xl md:text-lg mb-2">
                 Inert Gas System
@@ -1319,10 +1338,11 @@ export default function ScopeOfSupply() {
         <div className="py-10 flex item-center justify-center">
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
             <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
-              <Scope_image width="240" height="240" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
+            <div className="md:p-4 md:bg-gray-100">  <Scope_image width="220" height="220" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
                 part="/scope/Level-Sensors&Thermometers_ccexpress-238x238.png"
                 alt=""
               />
+              </div>
               <div className="p-3 flex flex-col justify-start">
                 <h1 className="text-black font-sans font-semibold text-2xl md:text-lg mb-2">
                 Level Sensors and Thermometers
@@ -1402,10 +1422,11 @@ export default function ScopeOfSupply() {
         <div className="py-10 flex item-center justify-center">
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
             <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
-              <Scope_image width="240" height="240" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
+            <div className="md:p-4 md:bg-gray-100">  <Scope_image width="220" height="220" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
                 part="/scope/Lifeboat-and-Davits-238x238.png"
                 alt=""
               />
+              </div>
               <div className="p-3 flex flex-col justify-start">
                 <h1 className="text-black font-sans font-semibold text-2xl md:text-lg mb-2">
                 Lifeboat and Davits
@@ -1489,10 +1510,11 @@ export default function ScopeOfSupply() {
         <div className="py-10 flex item-center justify-center">
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
             <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
-              <Scope_image width="240" height="240" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
+            <div className="md:p-4 md:bg-gray-100">  <Scope_image width="220" height="220" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
                 part="/scope/Magnetic-Gyro-Compasses-.png"
                 alt=""
               />
+              </div>
               <div className="p-3 flex flex-col justify-start">
                 <h1 className="text-black font-sans font-semibold text-2xl md:text-lg mb-2">
                 Magnetic Gyro Compasses
@@ -1577,10 +1599,11 @@ export default function ScopeOfSupply() {
         <div className="py-10 flex item-center justify-center">
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
             <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
-              <Scope_image width="240" height="240" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
+            <div className="md:p-4 md:bg-gray-100">  <Scope_image width="220" height="220" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
                 part="/scope/Oil-Mist-Detectors_ccexpress-238x238.png"
                 alt=""
               />
+              </div>
               <div className="p-3 flex flex-col justify-start">
                 <h1 className="text-black font-sans font-semibold text-2xl md:text-lg mb-2">
                 Oil Mist Detectors
@@ -1662,10 +1685,11 @@ export default function ScopeOfSupply() {
         <div className="py-10 flex item-center justify-center">
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
             <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
-              <Scope_image width="240" height="240" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
+            <div className="md:p-4 md:bg-gray-100">  <Scope_image width="220" height="220" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
                 part="/scope/Oily-Bilge-Water-Seperators-2_ccexpress-238x238.png"
                 alt=""
               />
+              </div>
               <div className="p-3 flex flex-col justify-start">
                 <h1 className="text-black font-sans font-semibold text-2xl md:text-lg mb-2">
                 Oily Bilge Water Seperators-2
@@ -1748,10 +1772,11 @@ export default function ScopeOfSupply() {
         <div className="py-10 flex item-center justify-center">
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
             <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
-              <Scope_image width="240" height="240" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
+            <div className="md:p-4 md:bg-gray-100">  <Scope_image width="220" height="220" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
                 part="/scope/Oily-Bilge-Water-Seperators_ccexpress-238x238.png"
                 alt=""
               />
+              </div>
               <div className="p-3 flex flex-col justify-start">
                 <h1 className="text-black font-sans font-semibold text-2xl md:text-lg mb-2">
                 Oily Bilge Water Seperators
@@ -1837,10 +1862,11 @@ export default function ScopeOfSupply() {
         <div className="py-10 flex item-center justify-center">
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
             <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
-              <Scope_image width="240" height="240" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
+            <div className="md:p-4 md:bg-gray-100">  <Scope_image width="220" height="220" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
                 part="/scope/Polished_ship_propeller_ccexpress-238x238.png"
                 alt=""
               />
+              </div>
               <div className="p-3 flex flex-col justify-start">
                 <h1 className="text-black font-sans font-semibold text-2xl md:text-lg mb-2">
                 Polished Ship Propeller
@@ -1921,10 +1947,11 @@ export default function ScopeOfSupply() {
         <div className="py-10 flex item-center justify-center">
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
             <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
-              <Scope_image width="240" height="240" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
+            <div className="md:p-4 md:bg-gray-100">  <Scope_image width="220" height="220" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
                 part="/scope/Pressure-Control-Valves_ccexpress-238x238.png"
                 alt=""
               />
+              </div>
               <div className="p-3 flex flex-col justify-start">
                 <h1 className="text-black font-sans font-semibold text-2xl md:text-lg mb-2">
                 Pressure Control Valves
@@ -2009,10 +2036,11 @@ export default function ScopeOfSupply() {
         <div className="py-10 flex item-center justify-center">
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
             <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
-              <Scope_image width="240" height="240" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
+            <div className="md:p-4 md:bg-gray-100">  <Scope_image width="220" height="220" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
                 part="/scope/pump-2_ccexpress-238x238.png"
                 alt=""
               />
+              </div>
               <div className="p-3 flex flex-col justify-start">
                 <h1 className="text-black font-sans font-semibold text-2xl md:text-lg mb-2">
                 pump-2
@@ -2097,10 +2125,11 @@ export default function ScopeOfSupply() {
         <div className="py-10 flex item-center justify-center">
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
             <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
-              <Scope_image width="240" height="240" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
+            <div className="md:p-4 md:bg-gray-100">  <Scope_image width="220" height="220" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
                 part="/scope/pump-3_ccexpress.png"
                 alt=""
               />
+              </div>
               <div className="p-3 flex flex-col justify-start">
                 <h1 className="text-black font-sans font-semibold text-2xl md:text-lg mb-2">
                 pump-3
@@ -2185,10 +2214,11 @@ export default function ScopeOfSupply() {
         <div className="py-10 flex item-center justify-center">
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
             <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
-              <Scope_image width="240" height="240" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
+            <div className="md:p-4 md:bg-gray-100">  <Scope_image width="220" height="220" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
                 part="/scope/pump-4_ccexpress-238x238.png"
                 alt=""
               />
+              </div>
               <div className="p-3 flex flex-col justify-start">
                 <h1 className="text-black font-sans font-semibold text-2xl md:text-lg mb-2">
                 pump-4
@@ -2276,10 +2306,11 @@ export default function ScopeOfSupply() {
         <div className="py-10 flex item-center justify-center">
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
             <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
-              <Scope_image width="240" height="240" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
+            <div className="md:p-4 md:bg-gray-100">  <Scope_image width="220" height="220" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
                 part="/scope/radars-238x238.png"
                 alt=""
               />
+              </div>
               <div className="p-3 flex flex-col justify-start">
                 <h1 className="text-black font-sans font-semibold text-2xl md:text-lg mb-2">
                 Radars and Navigation Equipment
@@ -2361,10 +2392,11 @@ export default function ScopeOfSupply() {
         <div className="py-10 flex item-center justify-center">
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
             <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
-              <Scope_image width="240" height="240" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
+            <div className="md:p-4 md:bg-gray-100">  <Scope_image width="220" height="220" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
                 part="/scope/Seawage-Treatment-Plant_ccexpress-238x238.png"
                 alt=""
               />
+              </div>
               <div className="p-3 flex flex-col justify-start">
                 <h1 className="text-black font-sans font-semibold text-2xl md:text-lg mb-2">
                 Seawage Treatment Plant
@@ -2444,10 +2476,11 @@ export default function ScopeOfSupply() {
         <div className="py-10 flex item-center justify-center">
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
             <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
-              <Scope_image width="240" height="240" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
+            <div className="md:p-4 md:bg-gray-100">  <Scope_image width="220" height="220" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
                 part="/scope/Steering-Gears_ccexpress.png"
                 alt=""
               />
+              </div>
               <div className="p-3 flex flex-col justify-start">
                 <h1 className="text-black font-sans font-semibold text-2xl md:text-lg mb-2">
                 Steering Gears
@@ -2528,10 +2561,11 @@ export default function ScopeOfSupply() {
        <div className="py-10 flex item-center justify-center">
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
             <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
-              <Scope_image width="240" height="240" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
+            <div className="md:p-4 md:bg-gray-100">  <Scope_image width="220" height="220" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
                 part="/scope/Stern-Tube-Seal-and-Bearing-final-238x238.png"
                 alt=""
               />
+              </div>
               <div className="p-3 flex flex-col justify-start">
                 <h1 className="text-black font-sans font-semibold text-2xl md:text-lg mb-2">
                 Stern Tube Seal And Bearing
@@ -2612,11 +2646,13 @@ export default function ScopeOfSupply() {
        </div>
         <div className="py-10 flex item-center justify-center">
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
-            <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
-              <Scope_image width="240" height="240" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
+          <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
+            <div className="md:p-4 md:bg-gray-100">
+            <Scope_image width="220" height="220" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
                 part="/scope/Valves_ccexpress-238x238.png"
                 alt=""
               />
+              </div>
               <div className="p-3 flex flex-col justify-start">
                 <h1 className="text-black font-sans font-semibold text-2xl md:text-lg mb-2">
                 Valves
@@ -2698,11 +2734,13 @@ export default function ScopeOfSupply() {
         </div>
         <div className="py-10 flex item-center justify-center">
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
-            <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
-              <Scope_image width="240" height="240" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
+          <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
+            <div className="md:p-4 md:bg-gray-100">
+            <Scope_image width="220" height="220" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
                 part="/scope/Viscosity-Controllers_ccexpress-238x238.png"
                 alt=""
               />
+              </div>
               <div className="p-3 flex flex-col justify-start">
                 <h1 className="text-black font-sans font-semibold text-2xl md:text-lg mb-2">
                 Viscosity Controllers
@@ -2784,11 +2822,13 @@ export default function ScopeOfSupply() {
         </div>
         <div className="py-10 flex item-center justify-center">
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
-            <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
-              <Scope_image width="240" height="240" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
+          <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
+            <div className="md:p-4 md:bg-gray-100">
+            <Scope_image width="220" height="220" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
                 part="/scope/wiper-238x238.png"
                 alt=""
               />
+              </div>
               <div className="p-3 flex flex-col justify-start">
                 <h1 className="text-black font-sans font-semibold text-2xl md:text-lg mb-2">
                 Windows And Window Wipers
@@ -2870,32 +2910,33 @@ export default function ScopeOfSupply() {
         <div className="py-5 flex item-center justify-center">
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
             <div className="rounded-lg shadow-2xl flex flex-row">
-              <Scope_image width="240" height="240" class_scope="bg-gray-100 rounded-l-lg h-48 sm:h-auto w-48 sm:w-48 border-8 border-white p-5"
+              <Scope_image width="220" height="220" class_scope="bg-gray-100 rounded-l-lg h-48 sm:h-auto w-48 sm:w-48 border-8 border-white p-5"
                 part="/construction.png"
                 alt=""
               />
+              </div>
               <div className="p-3 flex flex-col justify-start">
                 <h1 className="text-black font-sans font-semibold text-2xl md:text-lg mb-2">
                   Heavy lifters
                 </h1>
                 <div className="flex">
                   <Scope_image
- width="240" height="240"   className="h-8 w-8 rounded-full border border-gray-400"
+ width="220" height="220"   className="h-8 w-8 rounded-full border border-gray-400"
                     part="/european-union.png"
                     alt=""
                   />
                   <Scope_image
- width="240" height="240"   className="h-8 w-8 ml-2 rounded-full border border-gray-400"
+ width="220" height="220"   className="h-8 w-8 ml-2 rounded-full border border-gray-400"
                     part="/china.png"
                     alt=""
                   />
                   <Scope_image
- width="240" height="240"   className="h-8 w-8 ml-2 rounded-full border border-gray-400"
+ width="220" height="220"   className="h-8 w-8 ml-2 rounded-full border border-gray-400"
                     part="/japan.png"
                     alt=""
                   />
                   <Scope_image
- width="240" height="240"   className="h-8 w-8 ml-2 rounded-full border border-gray-400"
+ width="220" height="220"   className="h-8 w-8 ml-2 rounded-full border border-gray-400"
                     part="/south-korea.png"
                     alt=""
                   />
