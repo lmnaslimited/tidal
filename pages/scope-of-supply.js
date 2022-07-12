@@ -25,7 +25,7 @@ export default function ScopeOfSupply() {
             <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
             
                <Scope_image width="240" height="240" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
-                part="/scope/air-starters-238x238.png"
+                part="/scope/Air-starters-238x238.png"
                 alt=""
               />
               <div className="p-3 flex flex-col justify-start">
