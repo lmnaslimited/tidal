@@ -5,7 +5,7 @@ export default function heroCta(){
       <div className="container  md:flex-row flex-col items-center ">
         <div className="lg:flex-grow md:w-1/3 lg:pr-30  lg:py-24 md:pr-10 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center bg-white">
         
-          <div className="ml-10">
+          <div className="ml-10 mb-16">
           
             <h1 className=" title-font xl:text-3xl lg:-ml-8 text-2xl md:text-xl mb-8 font-medium text-gray-900">
             <Pattern text="Got a Marine Part Requirement?"/>
