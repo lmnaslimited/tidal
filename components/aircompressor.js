@@ -56,7 +56,7 @@ export default function Aircompressor({aircompressor}) {
       </div>
      
     </div>
-    <div className="mt-2 md:mb-0 mb-8 md:ml-0 ml-6">
+    <div className="md:absolute md:top-2 md:right-2 mt-2 md:mb-0 mb-8 md:ml-0 ml-6">
        <a href="mailto:sales@tidalgroups.com"><button className="font-bold inline-flex w-20 items-center h-6 bg-indigo-600 border-0 py-1 px-3 focus:outline-none text-white hover:bg-purple-500 rounded text-sm">
         Quote
         <svg
