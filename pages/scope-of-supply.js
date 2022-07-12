@@ -24,7 +24,7 @@ export default function ScopeOfSupply() {
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
             <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
             
-               <Scope_image width="240" height="240" className="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
+               <Scope_image width="240" height="240" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
                 part="/scope/air-starters-238x238.png"
                 alt=""
               />
@@ -35,27 +35,27 @@ export default function ScopeOfSupply() {
                 <div className="my-2  px-2">
                  <div className="flex  flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/european-union.png"
                     alt=""
                   />
                 <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
                   <Scope_image width="52" height="40"  className="h-12 -mt-2" part="/Brands/tdi.svg" alt="" />
                   <Scope_image width="52" height="40"  className="h-12 -mt-2" part="/Brands/bukh.svg" alt="" />
-                  <Scope_image width="52" height="40"  className="h-12 -mt-2" part="/Brands/wartsila.svg" alt="" />
+                  <Scope_image width="52" height="40"  className="h-12 -mt-6" part="/Brands/wartsila.svg" alt="" />
                   <Scope_image width="52" height="40"  className="h-12 -mt-2" part="/Brands/gali.svg" alt="" />
                   
                 </div>
                 </div>
                 <div className="flex flex-row">
                 <Scope_image
- width="32" height="32"   className="h-8 w-8 mt-2 rounded-full border border-gray-400"
+ width="32" height="32"   class_scope="h-8 w-8 mt-2 rounded-full border border-gray-400"
                     part="/china.png"
                     alt=""
                   />
                    <div className="flex flex-row grid gap-2 mx-4 grid-cols-5 mt-2 lg:grid-cols-5">
                   <Scope_image width="44" height="28"  className="h-8" part="/Brands/ningbo.svg" alt="" />
-                  <Scope_image width="48" height="24"  className="h-8" part="/Brands/man.svg" alt="" />
+                  <Scope_image width="48" height="28"  className="h-8" part="/Brands/man.svg" alt="" />
                   
                   
                   
@@ -64,29 +64,28 @@ export default function ScopeOfSupply() {
                 </div>
                   <div className="flex flex-row">
                  
-                  <Scope_image
- width="32" height="32"   className="h-8 w-8 mt-2 rounded-full border border-gray-400"
+                  <Scope_image width="32" height="32"   class_scope="h-8 w-8 mt-2 rounded-full border border-gray-400"
                     part="/japan.png"
                     alt=""
                   />
                  
                    <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="40" height="40"  className="h-12 mt-0" part="/Brands/jrcs.svg" alt="" />
-                  <Scope_image width="40" height="40"  className="h-12" part="/Brands/terasaki.svg" alt="" />
-                  <Scope_image width="40" height="40"  className="h-12 " part="/Brands/line.svg" alt="" />
-                  <Scope_image width="40" height="40"  className="h-12" part="/Brands/yanmar.svg" alt="" />
+                  <Scope_image width="44" height="44"  className="h-12 mt-0" part="/Brands/jrcs.svg" alt="" />
+                  <Scope_image width="44" height="44"  className="h-12" part="/Brands/terasaki.svg" alt="" />
+                  <Scope_image width="44" height="44"  className="h-12 " part="/Brands/line.svg" alt="" />
+                  <Scope_image width="44" height="44"  className="h-12" part="/Brands/yanmar.svg" alt="" />
                   
                 </div>
                 </div>
                 <div className="flex flex-row">
                 <Scope_image
- width="32" height="32"   className="h-8 w-8 my-2 rounded-full border border-gray-400"
+ width="32" height="32"   class_scope="h-8 w-8 my-2 rounded-full border border-gray-400"
                     part="/south-korea.png"
                     alt=""
                   />
                   <div className="flex flex-row grid mx-4 gap-2 grid-cols-5 grid-cols-5">
-                  <Scope_image width="40" height="40"  className="h-12" part="/Brands/samgong.svg" alt="" />
-                  <Scope_image width="48" height="24"  className="h-8" part="/Brands/kte.svg" alt="" />
+                  <Scope_image width="44" height="40"  className="h-12" part="/Brands/samgong.svg" alt="" />
+                  <Scope_image width="48" height="32"  className="h-8" part="/Brands/kte.svg" alt="" />
                   
                   
                 </div>
@@ -117,7 +116,7 @@ export default function ScopeOfSupply() {
         <div className="py-10 flex item-center justify-center">
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
             <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
-              <Scope_image width="240" height="240" className="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
+              <Scope_image width="220" height="240" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
                 part="/scope/Air-Conditioning-and-Refrigeration-238x238.png"
                 alt=""
               />
@@ -128,30 +127,30 @@ export default function ScopeOfSupply() {
                 <div className="my-2 px-2">
                  <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/european-union.png"
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="56" height="36"  className="h-12 -mt-2" part="/Brands/johnson-controls.svg" alt="" />
+                  <Scope_image width="56" height="40"  class_scope="h-12 -mt-6" part="/Brands/johnson-controls.svg" alt="" />
                   
                 </div>
                 </div>
                    <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/china.png"
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="44" height="28"  className="h-8" part="/Brands/hudong.png" alt="" />
+                  <Scope_image width="28" height="28"  class_scope="mt-4" part="/Brands/hudong.png" alt="" />
                   
                 </div>
                 </div>
                 
                   <div className="flex flex-row">
                  
-                  <Scope_image width="32" height="32"   className="h-8 w-8 rounded-full border border-gray-400"
+                  <Scope_image width="32" height="32"   class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/japan.png"
                     alt=""
                   />
@@ -166,13 +165,13 @@ export default function ScopeOfSupply() {
                 
                   <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/south-korea.png"
                     alt=""
                   />
                  
                    <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="52" height="40"  className="h-12" part="/Brands/dongwha.svg" alt="" />
+                  <Scope_image width="56" height="40"  className="h-12" part="/Brands/dongwha.svg" alt="" />
                   <Scope_image width="40" height="40"  className="h-12" part="/Brands/h.svg" alt="" />
                   
                 </div>
@@ -202,7 +201,7 @@ export default function ScopeOfSupply() {
         <div className="py-10 flex item-center justify-center">
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
             <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
-              <Scope_image width="240" height="240" className="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
+              <Scope_image width="220" height="240" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
                 part="/scope/Blowers-and-Fans-238x238.png"
                 alt=""
               />
@@ -213,18 +212,18 @@ export default function ScopeOfSupply() {
                 <div className="my-2 px-2">
                  <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/european-union.png"
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="40" height="40"  className="h-12 -mt-1" part="/Brands/becker.svg" alt="" />
+                  <Scope_image width="52" height="40"  className="h-12 -mt-1" part="/Brands/becker.svg" alt="" />
                  
                 </div>
                 </div>
                 {/**<div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/china.png"
                     alt=""
                   />
@@ -238,21 +237,21 @@ export default function ScopeOfSupply() {
                  
                  <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/japan.png"
                     alt=""
                   />
                  
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="44" height="28"  className="h-12" part="/Brands/osaka.svg" alt="" />
-                  <Scope_image width="40" height="40"  className="h-12" part="/Brands/misuzu1.svg" alt="" />
+                  <Scope_image width="44" height="32"  className="h-12" part="/Brands/osaka.svg" alt="" />
+                  <Scope_image width="44" height="40"  className="h-12" part="/Brands/misuzu1.svg" alt="" />
                   
                 </div>
                 </div>
                 
                   <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/south-korea.png"
                     alt=""
                   />
@@ -287,8 +286,8 @@ export default function ScopeOfSupply() {
         <div className="py-10 flex item-center justify-center">
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
             <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
-              <Scope_image width="240" height="240" className="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
-                part="/scope/Boiler-Parts-and-Accessories-238x238.png"
+              <Scope_image width="240" height="240" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
+                part="/scope/Boiler-Parts-and-Accessories-238x238.png" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
                 alt=""
               />
               <div className="p-3 flex flex-col justify-start">
@@ -298,7 +297,7 @@ export default function ScopeOfSupply() {
                 <div className="my-2 px-2">
                  <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/european-union.png"
                     alt=""
                   />
@@ -312,7 +311,7 @@ export default function ScopeOfSupply() {
                 </div>
                  {/**  <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/china.png"
                     alt=""
                   />
@@ -325,7 +324,7 @@ export default function ScopeOfSupply() {
                 
                    <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/japan.png"
                     alt=""
                   />
@@ -374,8 +373,8 @@ export default function ScopeOfSupply() {
         <div className="py-10 flex item-center justify-center">
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
             <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
-              <Scope_image width="240" height="240"
-                className="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
+              <Scope_image width="238" height="238" 
+                class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
                 part="/scope/Bow-Thrusters-238x238.png"
                 alt=""
               />
@@ -386,21 +385,21 @@ export default function ScopeOfSupply() {
                 <div className="my-2 px-2">
                  <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/european-union.png"
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="40" height="40"  className="h-12" part="/Brands/jrcs.svg" alt="" />
-                  <Scope_image width="40" height="40"  className="h-12" part="/Brands/terasaki.svg" alt="" />
-                  <Scope_image width="40" height="40"  className="h-12 " part="/Brands/line.svg" alt="" />
-                  <Scope_image width="40" height="40"  className="h-12" part="/Brands/yanmar.svg" alt="" />
+                  <Scope_image width="48" height="40"  className="h-12" part="/Brands/jrcs.svg" alt="" />
+                  <Scope_image width="52" height="40"  className="h-12" part="/Brands/terasaki.svg" alt="" />
+                  <Scope_image width="48" height="40"  className="h-12 " part="/Brands/line.svg" alt="" />
+                  <Scope_image width="48" height="40"  className="h-12" part="/Brands/yanmar.svg" alt="" />
                   
                 </div>
                 </div>
                 <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/china.png"
                     alt=""
                   />
@@ -411,24 +410,24 @@ export default function ScopeOfSupply() {
                 </div>
                   <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/japan.png"
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="40" height="40"  className="h-12 -mt-2" part="/Brands/hitachi.svg" alt="" />
-                  <Scope_image width="40" height="40"  className="h-12 -mt-2" part="/Brands/kte.svg" alt="" />
+                  <Scope_image width="44" height="40"  className="h-12 -mt-2" part="/Brands/hitachi.svg" alt="" />
+                  <Scope_image width="36" height="40"  className="h-12 -mt-2" part="/Brands/kte.svg" alt="" />
                   
                 </div>
                 </div>
                 <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/south-korea.png"
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="40" height="40"  className="h-12 -mt-2" part="/Brands/hanbo.svg" alt="" />
+                  <Scope_image width="44" height="40"  className="h-12 -mt-2" part="/Brands/hanbo.svg" alt="" />
                  
                 </div>
                 </div>
@@ -460,7 +459,7 @@ export default function ScopeOfSupply() {
         <div className="py-10 flex item-center justify-center">
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
             <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
-              <Scope_image width="240" height="240" className="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
+              <Scope_image width="240" height="240" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
                 part="/scope/Deck-Machineries-238x238.png"
                 alt=""
               />
@@ -471,7 +470,7 @@ export default function ScopeOfSupply() {
                 <div className="my-2 px-2">
                  <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/european-union.png"
                     alt=""
                   />
@@ -484,7 +483,7 @@ export default function ScopeOfSupply() {
                 </div>
                    <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 mt-2 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 mt-2 rounded-full border border-gray-400"
                     part="/china.png"
                     alt=""
                   />
@@ -497,7 +496,7 @@ export default function ScopeOfSupply() {
                 
                  <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 mt-2 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 mt-2 rounded-full border border-gray-400"
                     part="/japan.png"
                     alt=""
                   />
@@ -510,7 +509,7 @@ export default function ScopeOfSupply() {
                 </div>
                   <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 mt-2 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 mt-2 rounded-full border border-gray-400"
                     part="/south-korea.png"
                     alt=""
                   />
@@ -545,7 +544,7 @@ export default function ScopeOfSupply() {
         <div className="py-10 flex item-center justify-center">
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
             <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
-              <Scope_image width="240" height="240" className="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
+              <Scope_image width="240" height="240" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
                 part="/scope/Electric-motors-238x238.png"
                 alt=""
               />
@@ -556,7 +555,7 @@ export default function ScopeOfSupply() {
                 <div className="my-2 px-2">
                  <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/european-union.png"
                     alt=""
                   />
@@ -567,7 +566,7 @@ export default function ScopeOfSupply() {
                 </div>
                  {/**   <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 mt-2 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 mt-2 rounded-full border border-gray-400"
                     part="/china.png"
                     alt=""
                   />
@@ -580,12 +579,12 @@ export default function ScopeOfSupply() {
                 
                  <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 mt-2 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 mt-2 rounded-full border border-gray-400"
                     part="/japan.png"
                     alt=""
                   />
                   <div className="flex flex-row grid  mt-2 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="44" height="28"  className="h-8" part="/brand/taiyo.png" alt="" />
+                  <Scope_image width="40" height="32"  className="h-8" part="/brand/taiyo.png" alt="" />
                   <Scope_image width="48" height="24"  className="h-8" part="/brand/onishi-logo-250x250.png" alt="" />
                  <Scope_image width="32" height="32"  className="h-8" part="/brand/Yokogawa.png" alt="" />
                   
@@ -593,14 +592,14 @@ export default function ScopeOfSupply() {
                 </div>
                   <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 mt-2 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 mt-2 rounded-full border border-gray-400"
                     part="/south-korea.png"
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 mt-2 gap-2 grid-cols-5 lg:grid-cols-5">
-                   <Scope_image width="32" height="32"  className="h-8" part="/brand/Samgong.png" alt="" />
-                  <Scope_image width="48" height="24"  className="h-8" part="/brand/hyosung.png" alt="" />
-                  <Scope_image width="48" height="24"  className="h-8" part="/brand/ssangyong.png" alt="" />
+                   <Scope_image width="40" height="24"  className="h-8" part="/brand/Samgong.png" alt="" />
+                  <Scope_image width="40" height="24"  className="h-8" part="/brand/hyosung.png" alt="" />
+                  <Scope_image width="40" height="24"  className="h-8" part="/brand/ssangyong.png" alt="" />
                    
                 </div>
                 </div>
@@ -629,7 +628,7 @@ export default function ScopeOfSupply() {
         <div className="py-10 flex item-center justify-center">
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
             <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
-              <Scope_image width="240" height="240" className="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
+              <Scope_image width="240" height="240" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
                 part="/scope/Filters-and-Strainers_ccexpress-238x238.png"
                 alt=""
               />
@@ -640,52 +639,52 @@ export default function ScopeOfSupply() {
                 <div className="my-2 px-2">
                  <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/european-union.png"
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="44" height="28"  className="h-8" part="/brand/boll.png" alt="" />
-                  <Scope_image width="48" height="24"  className="h-8" part="/brand/twinfilter.png" alt="" />
-                  <Scope_image width="48" height="24"  className="h-8" part="/brand/auramarine.png" alt="" />
-                  <Scope_image width="48" height="24"  className="h-8 ml-2" part="/brand/donaldson.png" alt="" />
+                  <Scope_image width="40" height="24"  className="h-8" part="/brand/boll.png" alt="" />
+                  <Scope_image width="40" height="24"  className="h-8" part="/brand/twinfilter.png" alt="" />
+                  <Scope_image width="40" height="24"  className="h-8" part="/brand/auramarine.png" alt="" />
+                  <Scope_image width="40" height="24"  className="h-8 ml-2" part="/brand/donaldson.png" alt="" />
                   
                 </div>
                 </div>
                    <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 mt-2 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 mt-2 rounded-full border border-gray-400"
                     part="/china.png"
                     alt=""
                   />
                   <div className="flex flex-row grid mt-2 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                 <Scope_image width="32" height="32"  className="h-8" part="/brand/Zibo-Yonghua.png" alt="" />
+                 <Scope_image width="40" height="24"  className="h-8" part="/brand/Zibo-Yonghua.png" alt="" />
                   
                 </div>
                 </div>
                 
                  <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/japan.png"
                     alt=""
                   />
                   <div className="flex flex-row grid mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="44" height="28"  className="h-8" part="/brand/fujifilter.png" alt="" />
-                  <Scope_image width="48" height="24"  className="h-8" part="/brand/mizuno.png" alt="" />
-                  <Scope_image width="48" height="24"  className="h-8" part="/brand/niikurakogyo.png" alt="" />
+                  <Scope_image width="40" height="24"  className="h-8" part="/brand/fujifilter.png" alt="" />
+                  <Scope_image width="40" height="24"  className="h-8" part="/brand/mizuno.png" alt="" />
+                  <Scope_image width="40" height="24"  className="h-8" part="/brand/niikurakogyo.png" alt="" />
                   
                 </div>
                 </div>
                   <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 mt-2 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 mt-2 rounded-full border border-gray-400"
                     part="/south-korea.png"
                     alt=""
                   />
                   <div className="flex flex-row grid mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                 <Scope_image width="32" height="32"  className="h-8 " part="/brand/samkun.png" alt="" />
-                  <Scope_image width="48" height="24"  className="h-8" part="/brand/jowa.png" alt="" />
+                 <Scope_image width="48" height="24"  className="h-8 " part="/brand/samkun.png" alt="" />
+                  <Scope_image width="40" height="24"  className="h-8" part="/brand/jowa.png" alt="" />
                   
                 </div>
                 </div>
@@ -714,7 +713,7 @@ export default function ScopeOfSupply() {
         <div className="py-10 flex item-center justify-center">
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
             <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
-              <Scope_image width="240" height="240" className="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
+              <Scope_image width="240" height="240" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
                 part="/scope/fire-detection-safety-equipments-238x238.png"
                 alt=""
               />
@@ -725,34 +724,34 @@ export default function ScopeOfSupply() {
                 <div className="my-2 px-2">
                  <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/european-union.png"
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="44" height="28"  className="h-8" part="/brand/autronica.png" alt="" />
-                  <Scope_image width="48" height="24"  className="h-8 mt-1" part="/brand/tyco.png" alt="" />
-                  <Scope_image width="48" height="24"  className="h-8" part="/brand/kidde.png" alt="" />
-                  <Scope_image width="48" height="24"  className="h-8" part="/brand/thornsecurity.png" alt="" />
+                  <Scope_image width="44" height="24"  className="h-8" part="/brand/autronica.png" alt="" />
+                  <Scope_image width="44" height="24"  className="h-8 mt-1" part="/brand/tyco.png" alt="" />
+                  <Scope_image width="44" height="24"  className="h-8" part="/brand/kidde.png" alt="" />
+                  <Scope_image width="52" height="24"  className="h-8" part="/brand/thornsecurity.png" alt="" />
                   
                 </div>
                 </div>
                    <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 mt-2 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 mt-2 rounded-full border border-gray-400"
                     part="/china.png"
                     alt=""
                   />
                   <div className="flex flex-row grid mt-2 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="44" height="28"  className="h-8" part="/brand/nittan.png" alt="" />
-                  <Scope_image width="48" height="24"  className="h-8" part="/brand/nohmi.png" alt="" />
+                  <Scope_image width="44" height="24"  className="h-8" part="/brand/nittan.png" alt="" />
+                  <Scope_image width="44" height="24"  className="h-8" part="/brand/nohmi.png" alt="" />
                   
                 </div>
                 </div>
                 
                 {/**  <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/japan.png"
                     alt=""
                   />
@@ -764,13 +763,13 @@ export default function ScopeOfSupply() {
                 </div>*/}
                   <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 mt-2 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 mt-2 rounded-full border border-gray-400"
                     part="/south-korea.png"
                     alt=""
                   />
                   <div className="flex flex-row grid mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                 <Scope_image width="32" height="32"  className="h-8" part="/brand/nk.png" alt="" />
-                  <Scope_image width="44" height="28" className="h-10" part="/brand/saracom.png" alt="" />
+                 <Scope_image width="40" height="24"  className="h-8" part="/brand/nk.png" alt="" />
+                  <Scope_image width="40" height="24" class_scope="mt-6" part="/brand/saracom.png" alt="" />
                   
                 </div>
                 </div>
@@ -799,7 +798,7 @@ export default function ScopeOfSupply() {
         <div className="py-10 flex item-center justify-center">
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
             <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
-              <Scope_image width="240" height="240" className="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
+              <Scope_image width="240" height="240" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
                 part="/scope/Flow Meters_ccexpress-238x238.png"
                 alt=""
               />
@@ -810,21 +809,21 @@ export default function ScopeOfSupply() {
                 <div className="my-2 px-2">
                  <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/european-union.png"
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="44" height="28"  className="h-8" part="/brand/aquametro.png" alt="" />
-                  <Scope_image width="48" height="24"  className="h-8" part="/brand/alfalaval.png" alt="" />
-                  <Scope_image width="40" height="40"  className="h-12 " part="/brand/kral.png" alt="" />
-                  <Scope_image width="40" height="40"  className="h-12" part="/brand/vaf.png" alt="" />
+                  <Scope_image width="60" height="24"  className="h-8" part="/brand/aquametro.png" alt="" />
+                  <Scope_image width="44" height="24"  className="h-8" part="/brand/alfalaval.png" alt="" />
+                  <Scope_image width="48" height="24"  className="h-12 " part="/brand/kral.png" alt="" />
+                  <Scope_image width="40" height="24"  className="h-12" part="/brand/vaf.png" alt="" />
                   
                 </div>
                 </div>
                   {/**<div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/china.png"
                     alt=""
                   />
@@ -837,25 +836,25 @@ export default function ScopeOfSupply() {
                 
                  <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8  rounded-full border border-gray-400"
+                    class_scope="h-8 w-8  rounded-full border border-gray-400"
                     part="/japan.png"
                     alt=""
                   />
                   <div className="flex flex-row grid mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="44" height="28" className="h-10" part="/brand/yokogawa.png" alt="" />
+                  <Scope_image width="40" height="28" className="h-10" part="/brand/yokogawa.png" alt="" />
                   <Scope_image width="48" height="24"  className="h-8" part="/brand/tokico.png" alt="" />
-                  <Scope_image width="48" height="24"  className="h-8" part="/brand/azbil.png" alt="" />
+                  <Scope_image width="44" height="24"  className="h-8" part="/brand/azbil.png" alt="" />
                  
                 </div>
                 </div>
                   <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full mt-2 border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full mt-2 border border-gray-400"
                     part="/south-korea.png"
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="44" height="28"  className="h-8" part="/brand/daeho.png" alt="" />
+                  <Scope_image width="48" height="28"  className="h-8" part="/brand/daeho.png" alt="" />
                   
                 </div>
                 </div>
@@ -885,7 +884,7 @@ export default function ScopeOfSupply() {
         <div className="py-10 flex item-center justify-center">
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
             <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
-              <Scope_image width="240" height="240" className="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
+              <Scope_image width="240" height="240" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
                 part="/scope/Fresh_Water_Generators-238x238.png"
                 alt=""
               />
@@ -896,7 +895,7 @@ export default function ScopeOfSupply() {
                 <div className="my-2 px-2">
                  <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/european-union.png"
                     alt=""
                   />
@@ -904,42 +903,42 @@ export default function ScopeOfSupply() {
                   <Scope_image width="44" height="28"  className="h-8" part="/brand/SPX.png" alt="" />
                   <Scope_image width="48" height="24"  className="h-8" part="/brand/alfalaval.png" alt="" />
                   <Scope_image width="48" height="24"  className="h-8 ml-2" part="/brand/gea.png" alt="" />
-                  <Scope_image width="48" height="24"  className="h-8 ml-2" part="/brand/tacmina.png" alt="" />
+                  <Scope_image width="40" height="24"  className="h-8 ml-2" part="/brand/tacmina.png" alt="" />
                   
                 </div>
                 </div>
                    <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 mt-2 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 mt-2 rounded-full border border-gray-400"
                     part="/china.png"
                     alt=""
                   />
-                  <div className="flex flex-row grid mt-2 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="44" height="28"  className="h-8" part="/brand/nantongshentong.png" alt="" />
+                  <div className="flex flex-row grid mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
+                  <Scope_image width="52" height="24"  className="h-8" part="/brand/nantongshentong.png" alt="" />
                 
                 </div>
                 </div>
                 
                  <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/japan.png"
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                 <Scope_image width="32" height="32"  className="h-8" part="/brand/sasakura.png" alt="" />
-                  <Scope_image width="48" height="24"  className="h-8" part="/brand/Miura.png" alt="" />
+                 <Scope_image width="36" height="28"  className="h-8" part="/brand/sasakura.png" alt="" />
+                  <Scope_image width="40" height="28"  className="h-8" part="/brand/Miura.png" alt="" />
                   
                 </div>
                 </div>
                   <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 mt-2 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 mt-2 rounded-full border border-gray-400"
                     part="/south-korea.png"
                     alt=""
                   />
                   <div className="flex flex-row grid mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                 <Scope_image width="32" height="32"  className="h-8" part="/brand/ilseung.png" alt="" />
+                 <Scope_image width="44" height="28"  className="h-8" part="/brand/ilseung.png" alt="" />
                   <Scope_image width="48" height="24"  className="h-8" part="/brand/jowa.png" alt="" />
                   
                 </div>
@@ -972,7 +971,7 @@ export default function ScopeOfSupply() {
         <div className="py-10 flex item-center justify-center">
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
             <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
-              <Scope_image width="240" height="240" className="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
+              <Scope_image width="240" height="240" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
                 part="/scope/Galley-Equipments-final-238x238.png"
                 alt=""
               />
@@ -984,21 +983,21 @@ export default function ScopeOfSupply() {
                 <div className="my-2 px-2">
                  <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/european-union.png"
                     alt=""
                   />
                   <div className="flex flex-row grid ml-2 gap-2 grid-cols-5 lg:grid-cols-5">
                   <Scope_image width="44" height="28" className="h-10" part="/brand/Aluminox.png" alt="" />
-                  <Scope_image width="48" height="24"  className="h-8 ml-2" part="/brand/electrolux.png" alt="" />
+                  <Scope_image width="36" height="20"  className="h-8 ml-2" part="/brand/electrolux.png" alt="" />
                   <Scope_image width="44" height="28" className="h-10 -ml-4" part="/brand/wesco.png" alt="" />
-                  <Scope_image width="44" height="28" className="h-6 mt-2" part="/brand/metos.png" alt="" />
+                  <Scope_image width="40" height="28" className="h-6 mt-2" part="/brand/metos.png" alt="" />
                   
                 </div>
                 </div>
                   {/** <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/china.png"
                     alt=""
                   />
@@ -1011,23 +1010,23 @@ export default function ScopeOfSupply() {
                 
                  <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 mt-2 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 mt-2 rounded-full border border-gray-400"
                     part="/japan.png"
                     alt=""
                   />
-                  <div className="flex flex-row grid mt-2  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                   <Scope_image width="32" height="32"  className="h-8" part="/brand/Mitsubishi-logo-238x238.png" alt="" />
+                  <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
+                   <Scope_image width="44" height="32"  className="h-8" part="/brand/Mitsubishi-logo-238x238.png" alt="" />
                   
                 </div>
                 </div>
                   <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/south-korea.png"
                     alt=""
                   />
-                  <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="44" height="28" className="h-6 mt-2" part="/brand/kangli.png" alt="" />
+                  <div className="flex flex-row grid mt-2 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
+                  <Scope_image width="40" height="24" class_scope="h-6" part="/brand/kangli.png" alt="" />
                   
                 </div>
                 </div>
@@ -1063,7 +1062,7 @@ export default function ScopeOfSupply() {
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
             <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
               <Scope_image width="240" height="240"
-                className="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
+                class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
                 part="/scope/Governor-ccexpress-238x238.png"
                 alt=""
               />
@@ -1074,30 +1073,30 @@ export default function ScopeOfSupply() {
                 <div className="my-2 px-2">
                  <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/european-union.png"
                     alt=""
                   />
-                  <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="44" height="28"  className="h-8" part="/brand/woodward.png" alt="" />
+                  <div className="flex flex-row grid mt-1  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
+                  <Scope_image width="44" height="24"  className="h-8" part="/brand/woodward.png" alt="" />
                   
                 </div>
                 </div>
                 <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/japan.png"
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="44" height="28"  className="h-8" part="/brand/zexel.png" alt="" />
+                  <Scope_image width="44" height="24"  className="h-8" part="/brand/zexel.png" alt="" />
                  
                 </div>
                 </div>
                 {/** 
                    <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/china.png"
                     alt=""
                   />
@@ -1111,7 +1110,7 @@ export default function ScopeOfSupply() {
                 
                   <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/south-korea.png"
                     alt=""
                   />
@@ -1152,7 +1151,7 @@ export default function ScopeOfSupply() {
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
             <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
               <Scope_image width="240" height="240"
-                className="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
+                class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
                 part="/scope/Incinerators_ccexpress-238x238.png"
                 alt=""
               />
@@ -1163,20 +1162,20 @@ export default function ScopeOfSupply() {
                 <div className="my-2 px-2">
                  <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/european-union.png"
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
                   <Scope_image width="44" height="28"  className="h-8" part="/brand/teamtec.png" alt="" />
-                  <Scope_image width="48" height="24"  className="h-8" part="/brand/atlas.png" alt="" />
-                  <Scope_image width="48" height="24"  className="h-8" part="/brand/vestas.png" alt="" />
+                  <Scope_image width="52" height="28"  className="h-8" part="/brand/atlas.png" alt="" />
+                  <Scope_image width="44" height="20"  className="h-8" part="/brand/vestas.png" alt="" />
                    
                 </div>
                 </div>
                    <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/china.png"
                     alt=""
                   />
@@ -1188,26 +1187,26 @@ export default function ScopeOfSupply() {
                 
                  <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/japan.png"
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="44" height="28"  className="h-8" part="/brand/miura.png" alt="" />
-                  <Scope_image width="48" height="24"  className="h-8" part="/brand/misuzu.png" alt="" />
+                  <Scope_image width="40" height="24"  className="h-8" part="/brand/miura.png" alt="" />
+                  <Scope_image width="36" height="24"  className="h-8" part="/brand/misuzu.png" alt="" />
                   <Scope_image width="48" height="24"  className="h-8" part="/brand/fuji-electric.png" alt="" />
-                  <Scope_image width="48" height="24"  className="h-8 -ml-2" part="/brand/volcano.png" alt="" />
+                  <Scope_image width="52" height="28"  className="h-8 -ml-2" part="/brand/volcano.png" alt="" />
                   
                 </div>
                 </div>
                   <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 mt-4 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 mt-4 rounded-full border border-gray-400"
                     part="/south-korea.png"
                     alt=""
                   />
                   <div className="flex flex-row grid mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="44" height="28"  className="h-8" part="/brand/kangrim.png" alt="" />
+                  <Scope_image width="52" height="28"  className="h-8" part="/brand/kangrim.png" alt="" />
                   
                 </div>
                 </div>
@@ -1237,7 +1236,7 @@ export default function ScopeOfSupply() {
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
             <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
               <Scope_image width="240" height="240"
-                className="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
+                class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
                 part="/scope/Inert-Gas-System_ccexpress-238x238.png"
                 alt=""
               />
@@ -1248,13 +1247,13 @@ export default function ScopeOfSupply() {
                 <div className="my-2 px-2">
                  <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/european-union.png"
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="44" height="28"  className="h-8" part="/brand/hamworthy.png" alt="" />
-                  <Scope_image width="48" height="24"  className="h-8 -ml-2" part="/brand/atlas.png" alt="" />
+                  <Scope_image width="40" height="28"  className="h-8" part="/brand/hamworthy.png" alt="" />
+                  <Scope_image width="52" height="28"  className="h-8 -ml-2" part="/brand/atlas.png" alt="" />
                   <Scope_image width="48" height="24"  className="h-8" part="/brand/tmc.png" alt="" />
                   <Scope_image width="48" height="24"  className="h-8" part="/brand/alfalaval.png" alt="" />
                   
@@ -1262,7 +1261,7 @@ export default function ScopeOfSupply() {
                 </div>
                    <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 mt-4 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 mt-4 rounded-full border border-gray-400"
                     part="/china.png"
                     alt=""
                   />
@@ -1274,7 +1273,7 @@ export default function ScopeOfSupply() {
                 
                  <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/japan.png"
                     alt=""
                   />
@@ -1287,13 +1286,13 @@ export default function ScopeOfSupply() {
                 </div>
                   <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 mt-2 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 mt-2 rounded-full border border-gray-400"
                     part="/south-korea.png"
                     alt=""
                   />
                   <div className="flex flex-row grid mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
                   <Scope_image width="44" height="28"  className="h-8" part="/brand/Hyundai-Heavy-Industries.png" alt="" />
-                  <Scope_image width="48" height="24"  className="h-8 -ml-1" part="/brand/kangrim.png" alt="" />
+                  <Scope_image width="52" height="28"  className="h-8 -ml-1" part="/brand/kangrim.png" alt="" />
                   
                 </div>
                 </div>
@@ -1322,7 +1321,7 @@ export default function ScopeOfSupply() {
         <div className="py-10 flex item-center justify-center">
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
             <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
-              <Scope_image width="240" height="240" className="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
+              <Scope_image width="240" height="240" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
                 part="/scope/Level-Sensors&Thermometers_ccexpress-238x238.png"
                 alt=""
               />
@@ -1333,7 +1332,7 @@ export default function ScopeOfSupply() {
                 <div className="my-2 px-2">
                  <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/european-union.png"
                     alt=""
                   />
@@ -1345,7 +1344,7 @@ export default function ScopeOfSupply() {
                 </div>
                    <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/china.png"
                     alt=""
                   />
@@ -1357,7 +1356,7 @@ export default function ScopeOfSupply() {
                 
                  <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/japan.png"
                     alt=""
                   />
@@ -1369,7 +1368,7 @@ export default function ScopeOfSupply() {
                 </div>
                   <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/south-korea.png"
                     alt=""
                   />
@@ -1405,7 +1404,7 @@ export default function ScopeOfSupply() {
         <div className="py-10 flex item-center justify-center">
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
             <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
-              <Scope_image width="240" height="240" className="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
+              <Scope_image width="240" height="240" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
                 part="/scope/Lifeboat-and-Davits-238x238.png"
                 alt=""
               />
@@ -1416,21 +1415,21 @@ export default function ScopeOfSupply() {
                 <div className="my-2 px-2">
                  <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/european-union.png"
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
                   <Scope_image width="44" height="28"  className="h-8" part="/brand/bukh.png" alt="" />
                   <Scope_image width="48" height="24"  className="h-8" part="/brand/fassmer.png" alt="" />
-                  <Scope_image width="44" height="20"  className="h-8" part="/brand/norsafe.png" alt="" />
-                  <Scope_image width="44" height="20"  className="h-8" part="/brand/schneider.png" alt="" />
+                  <Scope_image width="44" height="24"  className="h-8" part="/brand/norsafe.png" alt="" />
+                  <Scope_image width="44" height="24"  className="h-8" part="/brand/schneider.png" alt="" />
                   
                 </div>
                 </div>
                    <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 mt-4 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 mt-4 rounded-full border border-gray-400"
                     part="/china.png"
                     alt=""
                   />
@@ -1444,13 +1443,13 @@ export default function ScopeOfSupply() {
                 
                  <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/japan.png"
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
                   <Scope_image width="44" height="28" className="h-10" part="/brand/tohatsu.png" alt="" />
-                  <Scope_image width="44" height="28" className="h-10" part="/brand/daihatsu.png" alt="" />
+                  <Scope_image width="48" height="32" className="h-10" part="/brand/daihatsu.png" alt="" />
                   <Scope_image width="44" height="28" className="h-10" part="/brand/shigi.png" alt="" />
                   <Scope_image width="44" height="28" className="h-10" part="/brand/ihi.png" alt="" />
                   
@@ -1458,7 +1457,7 @@ export default function ScopeOfSupply() {
                 </div>
                   <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full mt-2 border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full mt-2 border border-gray-400"
                     part="/south-korea.png"
                     alt=""
                   />
@@ -1492,7 +1491,7 @@ export default function ScopeOfSupply() {
         <div className="py-10 flex item-center justify-center">
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
             <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
-              <Scope_image width="240" height="240" className="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
+              <Scope_image width="240" height="240" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
                 part="/scope/Magnetic-Gyro-Compasses-.png"
                 alt=""
               />
@@ -1503,7 +1502,7 @@ export default function ScopeOfSupply() {
                 <div className="my-2 px-2">
                  <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/european-union.png"
                     alt=""
                   />
@@ -1514,7 +1513,7 @@ export default function ScopeOfSupply() {
                 </div>
                  {/**  <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/china.png"
                     alt=""
                   />
@@ -1529,19 +1528,19 @@ export default function ScopeOfSupply() {
                 
                  <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/japan.png"
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="44" height="28"  className="h-8" part="/brand/tokimec.png" alt="" />
+                  <Scope_image width="44" height="24"  className="h-8" part="/brand/tokimec.png" alt="" />
                   <Scope_image width="44" height="28" className="h-10" part="/brand/yokogawa.png" alt="" />
                  
                 </div>
                 </div>
                   <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/south-korea.png"
                     alt=""
                   />
@@ -1580,7 +1579,7 @@ export default function ScopeOfSupply() {
         <div className="py-10 flex item-center justify-center">
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
             <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
-              <Scope_image width="240" height="240" className="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
+              <Scope_image width="240" height="240" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
                 part="/scope/Oil-Mist-Detectors_ccexpress-238x238.png"
                 alt=""
               />
@@ -1591,20 +1590,20 @@ export default function ScopeOfSupply() {
                 <div className="my-2 px-2">
                  <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/european-union.png"
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
                   <Scope_image width="44" height="28"  className="h-8" part="/brand/kidde.png" alt="" />
-                  <Scope_image width="48" height="24"  className="h-8" part="/brand/deckma.png" alt="" />
-                  <Scope_image width="48" height="24"  className="h-8" part="/brand/schaller.png" alt="" />
+                  <Scope_image width="56" height="28"  className="h-8" part="/brand/deckma.png" alt="" />
+                  <Scope_image width="52" height="24"  className="h-8" part="/brand/schaller.png" alt="" />
                   
                 </div>
                 </div>
                   {/** <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/china.png"
                     alt=""
                   />
@@ -1619,19 +1618,19 @@ export default function ScopeOfSupply() {
                 
                  <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/japan.png"
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="44" height="28"  className="h-8" part="/brand/daihatsu.png" alt="" />
+                  <Scope_image width="48" height="32"  className="h-8" part="/brand/daihatsu.png" alt="" />
                   <Scope_image width="48" height="24"  className="h-8" part="/brand/meiyo.png" alt="" />
                   
                 </div>
                 </div>
                   <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/south-korea.png"
                     alt=""
                   />
@@ -1665,7 +1664,7 @@ export default function ScopeOfSupply() {
         <div className="py-10 flex item-center justify-center">
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
             <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
-              <Scope_image width="240" height="240" className="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
+              <Scope_image width="240" height="240" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
                 part="/scope/Oily-Bilge-Water-Seperators-2_ccexpress-238x238.png"
                 alt=""
               />
@@ -1676,19 +1675,19 @@ export default function ScopeOfSupply() {
                 <div className="my-2 px-2">
                  <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/european-union.png"
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
                   <Scope_image width="52" height="24"  className="h-8" part="/brand/dvz.png" alt="" />
-                  <Scope_image width="52" height="24" className="h-6" part="/brand/blohm+voss.png" alt="" />
+                  <Scope_image width="56" height="12" className="h-6" part="/brand/blohm+voss.png" alt="" />
                   
                 </div>
                 </div>
                   {/** <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/china.png"
                     alt=""
                   />
@@ -1703,7 +1702,7 @@ export default function ScopeOfSupply() {
                  */}
                  <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/japan.png"
                     alt=""
                   />
@@ -1717,7 +1716,7 @@ export default function ScopeOfSupply() {
                 </div>
                   <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full mt-4 border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full mt-4 border border-gray-400"
                     part="/south-korea.png"
                     alt=""
                   />
@@ -1751,7 +1750,7 @@ export default function ScopeOfSupply() {
         <div className="py-10 flex item-center justify-center">
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
             <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
-              <Scope_image width="240" height="240" className="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
+              <Scope_image width="240" height="240" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
                 part="/scope/Oily-Bilge-Water-Seperators_ccexpress-238x238.png"
                 alt=""
               />
@@ -1762,19 +1761,19 @@ export default function ScopeOfSupply() {
                 <div className="my-2 px-2">
                  <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/european-union.png"
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
                   <Scope_image width="52" height="24"  className="h-8" part="/brand/dvz.png" alt="" />
-                  <Scope_image width="52" height="24" className="h-6" part="/brand/blohm+voss.png" alt="" />
+                  <Scope_image width="56" height="12" className="h-6" part="/brand/blohm+voss.png" alt="" />
                  
                 </div>
                 </div>
                   {/** <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/china.png"
                     alt=""
                   />
@@ -1789,7 +1788,7 @@ export default function ScopeOfSupply() {
                  */}
                  <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/japan.png"
                     alt=""
                   />
@@ -1803,11 +1802,11 @@ export default function ScopeOfSupply() {
                 </div>
                   <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full mt-4 border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full mt-4 border border-gray-400"
                     part="/south-korea.png"
                     alt=""
                   />
-                  <div className="flex flex-row grid mt-4 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
+                  <div className="flex flex-row grid mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
                   <Scope_image width="44" height="28"  className="h-8" part="/brand/jowa.png" alt="" />
                  
                 </div>
@@ -1840,7 +1839,7 @@ export default function ScopeOfSupply() {
         <div className="py-10 flex item-center justify-center">
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
             <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
-              <Scope_image width="240" height="240" className="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
+              <Scope_image width="240" height="240" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
                 part="/scope/Polished_ship_propeller_ccexpress-238x238.png"
                 alt=""
               />
@@ -1851,20 +1850,20 @@ export default function ScopeOfSupply() {
                 <div className="my-2 px-2">
                  <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/european-union.png"
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="52" height="20"  className="h-8" part="/brand/wartsila.png" alt="" />
-                  <Scope_image width="52" height="24"  className="h-8" part="/brand/marellimotori.png" alt="" />
-                  <Scope_image width="52" height="24" className="h-10" part="/brand/mmg.png" alt="" />
+                  <Scope_image width="48" height="24"  className="h-8" part="/brand/wartsila.png" alt="" />
+                  <Scope_image width="48" height="28"  className="h-8" part="/brand/marellimotori.png" alt="" />
+                  <Scope_image width="48" height="28" className="h-10" part="/brand/mmg.png" alt="" />
                   
                 </div>
                 </div>
                   {/**  <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/china.png"
                     alt=""
                   />
@@ -1879,7 +1878,7 @@ export default function ScopeOfSupply() {
                 
                  <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/japan.png"
                     alt=""
                   />
@@ -1890,12 +1889,12 @@ export default function ScopeOfSupply() {
                 </div>
                   <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/south-korea.png"
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="60" height="28"  className="h-8" part="/brand/sillametal.png" alt="" />
+                  <Scope_image width="56" height="28"  className="h-8" part="/brand/sillametal.png" alt="" />
                   
                 </div>
                 </div>
@@ -1924,7 +1923,7 @@ export default function ScopeOfSupply() {
         <div className="py-10 flex item-center justify-center">
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
             <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
-              <Scope_image width="240" height="240" className="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
+              <Scope_image width="240" height="240" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
                 part="/scope/Pressure-Control-Valves_ccexpress-238x238.png"
                 alt=""
               />
@@ -1935,20 +1934,20 @@ export default function ScopeOfSupply() {
                 <div className="my-2 px-2">
                  <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/european-union.png"
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="44" height="28"  className="h-8" part="/brand/danfoss.png" alt="" />
-                  <Scope_image width="48" height="24"  className="h-8" part="/brand/spiraxsarco.png" alt="" />
-                  <Scope_image width="48" height="24"  className="h-8" part="/brand/spx.png" alt="" />
+                  <Scope_image width="52" height="24"  className="h-8" part="/brand/danfoss.png" alt="" />
+                  <Scope_image width="52" height="24"  className="h-8" part="/brand/spiraxsarco.png" alt="" />
+                  <Scope_image width="52" height="24"  className="h-8" part="/brand/spx.png" alt="" />
                   
                 </div>
                 </div>
                   {/** <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/china.png"
                     alt=""
                   />
@@ -1963,23 +1962,23 @@ export default function ScopeOfSupply() {
                 
                  <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/japan.png"
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="44" height="28"  className="h-8" part="/brand/nakakita.png" alt="" />
+                  <Scope_image width="48" height="32"  className="h-8" part="/brand/nakakita.png" alt="" />
                  
                 </div>
                 </div>
                   <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/south-korea.png"
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="44" height="28"  className="h-8" part="/brand/control.png" alt="" />
+                  <Scope_image width="48" height="32"  className="h-8" part="/brand/control.png" alt="" />
                  
                 </div>
                 </div>
@@ -2012,7 +2011,7 @@ export default function ScopeOfSupply() {
         <div className="py-10 flex item-center justify-center">
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
             <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
-              <Scope_image width="240" height="240" className="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
+              <Scope_image width="240" height="240" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
                 part="/scope/pump-2_ccexpress-238x238.png"
                 alt=""
               />
@@ -2023,21 +2022,21 @@ export default function ScopeOfSupply() {
                 <div className="my-2 px-2">
                  <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/european-union.png"
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="44" height="28"  className="h-8" part="/brand/desmi.png" alt="" />
+                  <Scope_image width="44" height="24"  className="h-8" part="/brand/desmi.png" alt="" />
                   <Scope_image width="48" height="24"  className="h-8" part="/brand/azcue.png" alt="" />
-                  <Scope_image width="48" height="24"  className="h-8" part="/brand/grundfos.png" alt="" />
+                  <Scope_image width="52" height="24"  className="h-8" part="/brand/grundfos.png" alt="" />
                   <Scope_image width="48" height="24"  className="h-8 ml-2" part="/brand/ALLWEILER.png" alt="" />
                   
                 </div>
                 </div>
                   {/**  <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border mt-4 border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border mt-4 border-gray-400"
                     part="/china.png"
                     alt=""
                   />
@@ -2052,26 +2051,26 @@ export default function ScopeOfSupply() {
                 */}
                  <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full mt-4 border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full mt-4 border border-gray-400"
                     part="/japan.png"
                     alt=""
                   />
                   <div className="flex flex-row grid mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
                   <Scope_image width="44" height="28"  className="h-8" part="/brand/taikokikai.png" alt="" />
                   <Scope_image width="48" height="24"  className="h-8" part="/brand/heishin.png" alt="" />
-                  <Scope_image width="48" height="24"  className="h-8" part="/brand/teikoku.png" alt="" />
-                  <Scope_image width="48" height="24"  className="h-8" part="/brand/sasakura.png" alt="" />
+                  <Scope_image width="44" height="28"  className="h-8" part="/brand/teikoku.png" alt="" />
+                  <Scope_image width="44" height="24"  className="h-8" part="/brand/sasakura.png" alt="" />
                   
                 </div>
                 </div>
                   <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full mt-4 border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full mt-4 border border-gray-400"
                     part="/south-korea.png"
                     alt=""
                   />
                   <div className="flex flex-row grid mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="60" height="32"  className="h-8" part="/brand/shinshin.png" alt="" />
+                  <Scope_image width="64" height="32"  className="h-8" part="/brand/shinshin.png" alt="" />
                   
                 </div>
                 </div>
@@ -2100,7 +2099,7 @@ export default function ScopeOfSupply() {
         <div className="py-10 flex item-center justify-center">
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
             <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
-              <Scope_image width="240" height="240" className="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
+              <Scope_image width="240" height="240" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
                 part="/scope/pump-3_ccexpress.png"
                 alt=""
               />
@@ -2111,12 +2110,12 @@ export default function ScopeOfSupply() {
                 <div className="my-2 px-2">
                  <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/european-union.png"
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="44" height="28"  className="h-8" part="/brand/desmi.png" alt="" />
+                  <Scope_image width="44" height="24"  className="h-8" part="/brand/desmi.png" alt="" />
                   <Scope_image width="48" height="24"  className="h-8" part="/brand/azcue.png" alt="" />
                   <Scope_image width="48" height="24"  className="h-8" part="/brand/grundfos.png" alt="" />
                   <Scope_image width="48" height="24"  className="h-8 ml-2" part="/brand/ALLWEILER.png" alt="" />
@@ -2125,7 +2124,7 @@ export default function ScopeOfSupply() {
                 </div>
                   {/**  <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border mt-4 border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border mt-4 border-gray-400"
                     part="/china.png"
                     alt=""
                   />
@@ -2140,12 +2139,12 @@ export default function ScopeOfSupply() {
                 */}
                  <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full mt-4 border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full mt-4 border border-gray-400"
                     part="/japan.png"
                     alt=""
                   />
                   <div className="flex flex-row grid mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="44" height="28"  className="h-8" part="/brand/taikokikai.png" alt="" />
+                  <Scope_image width="44" height="24"  className="h-8" part="/brand/taikokikai.png" alt="" />
                   <Scope_image width="48" height="24"  className="h-8" part="/brand/heishin.png" alt="" />
                   <Scope_image width="48" height="24"  className="h-8" part="/brand/teikoku.png" alt="" />
                   <Scope_image width="48" height="24"  className="h-8" part="/brand/sasakura.png" alt="" />
@@ -2154,7 +2153,7 @@ export default function ScopeOfSupply() {
                 </div>
                   <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full mt-4 border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full mt-4 border border-gray-400"
                     part="/south-korea.png"
                     alt=""
                   />
@@ -2188,7 +2187,7 @@ export default function ScopeOfSupply() {
         <div className="py-10 flex item-center justify-center">
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
             <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
-              <Scope_image width="240" height="240" className="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
+              <Scope_image width="240" height="240" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
                 part="/scope/pump-4_ccexpress-238x238.png"
                 alt=""
               />
@@ -2199,12 +2198,12 @@ export default function ScopeOfSupply() {
                 <div className="my-2 px-2">
                  <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/european-union.png"
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="44" height="28"  className="h-8" part="/brand/desmi.png" alt="" />
+                  <Scope_image width="44" height="24"  className="h-8" part="/brand/desmi.png" alt="" />
                   <Scope_image width="48" height="24"  className="h-8" part="/brand/azcue.png" alt="" />
                   <Scope_image width="48" height="24"  className="h-8" part="/brand/grundfos.png" alt="" />
                   <Scope_image width="48" height="24"  className="h-8 ml-2" part="/brand/ALLWEILER.png" alt="" />
@@ -2213,7 +2212,7 @@ export default function ScopeOfSupply() {
                 </div>
                   {/**  <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border mt-4 border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border mt-4 border-gray-400"
                     part="/china.png"
                     alt=""
                   />
@@ -2228,7 +2227,7 @@ export default function ScopeOfSupply() {
                 */}
                  <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full mt-4 border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full mt-4 border border-gray-400"
                     part="/japan.png"
                     alt=""
                   />
@@ -2242,7 +2241,7 @@ export default function ScopeOfSupply() {
                 </div>
                   <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full mt-4 border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full mt-4 border border-gray-400"
                     part="/south-korea.png"
                     alt=""
                   />
@@ -2279,7 +2278,7 @@ export default function ScopeOfSupply() {
         <div className="py-10 flex item-center justify-center">
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
             <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
-              <Scope_image width="240" height="240" className="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
+              <Scope_image width="240" height="240" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
                 part="/scope/radars-238x238.png"
                 alt=""
               />
@@ -2290,7 +2289,7 @@ export default function ScopeOfSupply() {
                 <div className="my-2 px-2">
                  <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/european-union.png"
                     alt=""
                   />
@@ -2301,7 +2300,7 @@ export default function ScopeOfSupply() {
                 </div>
                  {/**  <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/china.png"
                     alt=""
                   />
@@ -2316,21 +2315,21 @@ export default function ScopeOfSupply() {
                  */}
                  <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/japan.png"
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="52" height="28"  className="h-8" part="/brand/jrc.png" alt="" />
-                  <Scope_image width="52" height="24"  className="h-8" part="/brand/furuno.png" alt="" />
-                  <Scope_image width="52" height="24"  className="h-8" part="/brand/tokyo keiki.png" alt="" />
-                  <Scope_image width="52" height="24"  className="h-8" part="/brand/tokimec.png" alt="" />
+                  <Scope_image width="44" height="24"  className="h-8" part="/brand/jrc.png" alt="" />
+                  <Scope_image width="40" height="20"  className="h-8" part="/brand/furuno.png" alt="" />
+                  <Scope_image width="44" height="24"  className="h-8" part="/brand/tokyo keiki.png" alt="" />
+                  <Scope_image width="44" height="24"  className="h-8" part="/brand/tokimec.png" alt="" />
                   
                 </div>
                 </div>
                   <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 mt-4 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 mt-4 rounded-full border border-gray-400"
                     part="/south-korea.png"
                     alt=""
                   />
@@ -2364,7 +2363,7 @@ export default function ScopeOfSupply() {
         <div className="py-10 flex item-center justify-center">
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
             <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
-              <Scope_image width="240" height="240" className="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
+              <Scope_image width="240" height="240" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
                 part="/scope/Seawage-Treatment-Plant_ccexpress-238x238.png"
                 alt=""
               />
@@ -2375,20 +2374,20 @@ export default function ScopeOfSupply() {
                 <div className="my-2 px-2">
                  <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/european-union.png"
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
                   <Scope_image width="44" height="28"  className="h-8" part="/brand/grundfos.png" alt="" />
-                  <Scope_image width="48" height="24"  className="h-8" part="/brand/becker.png" alt="" />
-                  <Scope_image width="48" height="24"  className="h-8" part="/brand/hamworthy.png" alt="" />
+                  <Scope_image width="40" height="24"  className="h-8" part="/brand/becker.png" alt="" />
+                  <Scope_image width="40" height="24"  className="h-8" part="/brand/hamworthy.png" alt="" />
                   
                 </div>
                 </div>
                    <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full mt-4 border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full mt-4 border border-gray-400"
                     part="/china.png"
                     alt=""
                   />
@@ -2400,7 +2399,7 @@ export default function ScopeOfSupply() {
                 
                  <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/japan.png"
                     alt=""
                   />
@@ -2412,7 +2411,7 @@ export default function ScopeOfSupply() {
                 </div>
                   <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/south-korea.png"
                     alt=""
                   />
@@ -2447,7 +2446,7 @@ export default function ScopeOfSupply() {
         <div className="py-10 flex item-center justify-center">
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
             <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
-              <Scope_image width="240" height="240" className="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
+              <Scope_image width="240" height="240" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
                 part="/scope/Steering-Gears_ccexpress.png"
                 alt=""
               />
@@ -2458,12 +2457,12 @@ export default function ScopeOfSupply() {
                 <div className="my-2 px-2">
                  <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/european-union.png"
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="44" height="28"  className="h-8" part="/brand/hydrostor.png" alt="" />
+                  <Scope_image width="44" height="24"  className="h-8" part="/brand/hydrostor.png" alt="" />
                   <Scope_image width="48" height="24"  className="h-8 -ml-2" part="/brand/abb.png" alt="" />
                   <Scope_image width="48" height="24"  className="h-8" part="/brand/hamworthy.png" alt="" />
                   <Scope_image width="48" height="24"  className="h-8" part="/brand/Rolls-Royce-Logo-250x250.png" alt="" />
@@ -2472,7 +2471,7 @@ export default function ScopeOfSupply() {
                 </div>
                    <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full mt-4 border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full mt-4 border border-gray-400"
                     part="/china.png"
                     alt=""
                   />
@@ -2484,7 +2483,7 @@ export default function ScopeOfSupply() {
                 
                  <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/japan.png"
                     alt=""
                   />
@@ -2497,12 +2496,12 @@ export default function ScopeOfSupply() {
                 </div>
                   <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/south-korea.png"
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="52" height="40"  className="h-12 -mt-2" part="/brand/flutek.png" alt="" />
+                  <Scope_image width="52" height="44"  className="h-12 -mt-2" part="/brand/flutek.png" alt="" />
                  
                 </div>
                 </div>
@@ -2531,7 +2530,7 @@ export default function ScopeOfSupply() {
        <div className="py-10 flex item-center justify-center">
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
             <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
-              <Scope_image width="240" height="240" className="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
+              <Scope_image width="240" height="240" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
                 part="/scope/Stern-Tube-Seal-and-Bearing-final-238x238.png"
                 alt=""
               />
@@ -2542,33 +2541,33 @@ export default function ScopeOfSupply() {
                 <div className="my-2 px-2">
                  <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/european-union.png"
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
                   <Scope_image width="44" height="28"  className="h-8" part="/brand/saacke.png" alt="" />
-                  <Scope_image width="44" height="28" className="h-10" part="/brand/corrpro.png" alt="" />
+                  <Scope_image width="44" height="32" className="h-10" part="/brand/corrpro.png" alt="" />
                   <Scope_image width="44" height="28" className="h-10" part="/brand/acg.png" alt="" />
-                  <Scope_image width="48" height="24" className="h-10" part="/brand/evac.png" alt="" />
+                  <Scope_image width="44" height="24" className="h-10" part="/brand/evac.png" alt="" />
                   
                 </div>
                 </div>
                    <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full mt-2 border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full mt-2 border border-gray-400"
                     part="/china.png"
                     alt=""
                   />
                   <div className="flex flex-row grid mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="52" height="32"  className="h-8" part="/brand/sealantern.png" alt="" />
+                  <Scope_image width="52" height="28"  className="h-8" part="/brand/sealantern.png" alt="" />
                   
                 </div>
                 </div>
                 
                  <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/japan.png"
                     alt=""
                   />
@@ -2579,12 +2578,12 @@ export default function ScopeOfSupply() {
                 </div>
                   <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/south-korea.png"
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="44" height="28"  className="h-8" part="/brand/wilsonwalton.png" alt="" />
+                  <Scope_image width="44" height="32"  className="h-8" part="/brand/wilsonwalton.png" alt="" />
                 
                 </div>
                 </div>
@@ -2616,7 +2615,7 @@ export default function ScopeOfSupply() {
         <div className="py-10 flex item-center justify-center">
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
             <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
-              <Scope_image width="240" height="240" className="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
+              <Scope_image width="240" height="240" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
                 part="/scope/Valves_ccexpress-238x238.png"
                 alt=""
               />
@@ -2627,12 +2626,12 @@ export default function ScopeOfSupply() {
                 <div className="my-2 px-2">
                  <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/european-union.png"
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="44" height="28" className="h-10" part="/brand/pleiger.png" alt="" />
+                  <Scope_image width="40" height="24" className="h-10" part="/brand/pleiger.png" alt="" />
                   <Scope_image width="44" height="28" className="h-10" part="/brand/Damco.png" alt="" />
                   <Scope_image width="44" height="28" className="h-10" part="/brand/bac.png" alt="" />
                   <Scope_image width="52" height="20" className="h-10" part="/brand/lk.png" alt="" />
@@ -2641,7 +2640,7 @@ export default function ScopeOfSupply() {
                 </div>
                    <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/china.png"
                     alt=""
                   />
@@ -2654,11 +2653,11 @@ export default function ScopeOfSupply() {
                 
                  <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/japan.png"
                     alt=""
                   />
-                  <div className="flex flex-row grid mt-1 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
+                  <div className="flex flex-row grid mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
                   <Scope_image width="52" height="24" className="h-6" part="/brand/misuzu.png" alt="" />
                   <Scope_image width="52" height="24" className="h-6" part="/brand/yuken.png" alt="" />
                   <Scope_image width="52" height="24" className="h-6" part="/brand/tomoe.png" alt="" />
@@ -2667,12 +2666,12 @@ export default function ScopeOfSupply() {
                 </div>
                   <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 mt-2 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 mt-2 rounded-full border border-gray-400"
                     part="/south-korea.png"
                     alt=""
                   />
-                  <div className="flex flex-row grid  mt-2 mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="56" height="24" className="h-10" part="/brand/acevalve.png" alt="" />
+                  <div className="flex flex-row grid mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
+                  <Scope_image width="52" height="28" className="h-10" part="/brand/acevalve.png" alt="" />
                   <Scope_image width="52" height="12"  className="h-8" part="/brand/tyco.png" alt="" />
                   
                 </div>
@@ -2702,7 +2701,7 @@ export default function ScopeOfSupply() {
         <div className="py-10 flex item-center justify-center">
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
             <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
-              <Scope_image width="240" height="240" className="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
+              <Scope_image width="240" height="240" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
                 part="/scope/Viscosity-Controllers_ccexpress-238x238.png"
                 alt=""
               />
@@ -2713,7 +2712,7 @@ export default function ScopeOfSupply() {
                 <div className="my-2 px-2">
                  <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/european-union.png"
                     alt=""
                   />
@@ -2725,7 +2724,7 @@ export default function ScopeOfSupply() {
                 </div>
                  {/** <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/china.png"
                     alt=""
                   />
@@ -2740,21 +2739,20 @@ export default function ScopeOfSupply() {
                 
                  <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/japan.png"
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="44" height="28"  className="h-8" part="/brand/nakakita.png" alt="" />
-                  <Scope_image width="56" height="16" className="h-4 mt-2" part="/brand/saginomiya.png" alt="" />
-                 
+                  <Scope_image width="44" height="32"  className="h-8" part="/brand/nakakita.png" alt="" />
+                  
                   
                   
                 </div>
                 </div>
                   <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/south-korea.png"
                     alt=""
                   />
@@ -2789,7 +2787,7 @@ export default function ScopeOfSupply() {
         <div className="py-10 flex item-center justify-center">
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
             <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
-              <Scope_image width="240" height="240" className="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
+              <Scope_image width="240" height="240" class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
                 part="/scope/wiper-238x238.png"
                 alt=""
               />
@@ -2800,7 +2798,7 @@ export default function ScopeOfSupply() {
                 <div className="my-2 px-2">
                  <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/european-union.png"
                     alt=""
                   />
@@ -2811,7 +2809,7 @@ export default function ScopeOfSupply() {
                 </div>
                   {/** <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/china.png"
                     alt=""
                   />
@@ -2826,7 +2824,7 @@ export default function ScopeOfSupply() {
                 
                  <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/japan.png"
                     alt=""
                   />
@@ -2838,7 +2836,7 @@ export default function ScopeOfSupply() {
                 </div>
                   <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/south-korea.png"
                     alt=""
                   />
@@ -2874,7 +2872,7 @@ export default function ScopeOfSupply() {
         <div className="py-5 flex item-center justify-center">
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
             <div className="rounded-lg shadow-2xl flex flex-row">
-              <Scope_image width="240" height="240" className="bg-gray-100 rounded-l-lg h-48 sm:h-auto w-48 sm:w-48 border-8 border-white p-5"
+              <Scope_image width="240" height="240" class_scope="bg-gray-100 rounded-l-lg h-48 sm:h-auto w-48 sm:w-48 border-8 border-white p-5"
                 part="/construction.png"
                 alt=""
               />

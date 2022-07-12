@@ -16,7 +16,8 @@ export default function Generatorengine({generatorengine}) {
       </h1>
       <div className="my-2 px-2">
        <div className="flex flex-row">
-        <Scope_image width="32"  height="32" className="h-8 w-8 rounded-full border border-gray-400"
+        <Scope_image width="32" height="32"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
           part="/european-union.png"
           alt=""
         />
@@ -27,7 +28,8 @@ export default function Generatorengine({generatorengine}) {
          </div>
       </div>
          <div className="flex flex-row">
-        <Scope_image width="32"  height="32" className="h-8 w-8 rounded-full border border-gray-400"
+        <Scope_image width="32" height="32"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
           part="/china.png"
           alt=""
         />
@@ -38,7 +40,8 @@ export default function Generatorengine({generatorengine}) {
       </div>
       
        <div className="flex flex-row">
-        <Scope_image width="32"  height="32" className="h-8 w-8 rounded-full border border-gray-400"
+        <Scope_image width="32" height="32"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
           part="/japan.png"
           alt=""
         />
@@ -50,7 +53,8 @@ export default function Generatorengine({generatorengine}) {
       </div>
       </div>
        {/** <div className="flex flex-row">
-        <Scope_image width="32"  height="32" className="h-8 w-8 rounded-full border border-gray-400"
+        <Scope_image width="32" height="32"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
           part="/south-korea.png"
           alt=""
         />

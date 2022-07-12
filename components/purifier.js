@@ -6,7 +6,7 @@ export default function Purifier({purifier}) {
           <div className="w-4/5 lg:w-3/4 xl:w-2/4">
             <div className="rounded-lg shadow-lg md:w-auto w-96 flex flex-col md:flex-row  transform transition hover:scale-105 duration-300 ease-in-out">
               <Scope_image width="240" height="240"
-                className="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
+                class_scope="bg-gray-100 rounded-l-lg md:h-auto md:w-60  w-full border-8 border-white p-5"
                 part="/scope/purifier_ccexpress-238x238.png"
                 alt=""
               />
@@ -17,12 +17,12 @@ export default function Purifier({purifier}) {
                 <div className="my-2 px-2">
                  <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/european-union.png"
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="52" height="24" className="h-8" part="/brand/gea.png" alt="" />
+                  <Scope_image width="48" height="24" className="h-8" part="/brand/gea.png" alt="" />
                   <Scope_image width="52" height="24" className="h-6" part="/brand/alfalaval.png" alt="" />
                   
                 </div>
@@ -44,7 +44,7 @@ export default function Purifier({purifier}) {
                 
                  <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/japan.png"
                     alt=""
                   />
@@ -54,7 +54,7 @@ export default function Purifier({purifier}) {
                 </div>
                   <div className="flex flex-row">
                   <Scope_image width="32" height="32"
-                    className="h-8 w-8 rounded-full border border-gray-400"
+                    class_scope="h-8 w-8 rounded-full border border-gray-400"
                     part="/south-korea.png"
                     alt=""
                   />
