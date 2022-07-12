@@ -48,7 +48,7 @@ export default function Cranes({cranes}){
                   alt=""
                 />
                 <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                <Scope_image width="52" height="44" className="h-12 -mt-2" part="/Brands/mac.svg" alt="" />
+                <Scope_image width="52" height="28" className="h-12 -mt-2" part="/Brands/mac.svg" alt="" />
                 </div>
               </div>
                 <div className="flex flex-row">

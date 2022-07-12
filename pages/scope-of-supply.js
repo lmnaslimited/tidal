@@ -217,7 +217,7 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="52" height="40"  className="h-12 -mt-1" part="/Brands/becker.svg" alt="" />
+                  <Scope_image width="52" height="28"  className="h-12 -mt-1" part="/Brands/becker.svg" alt="" />
                  
                 </div>
                 </div>
@@ -301,10 +301,10 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="52" height="40"  className="h-12 -mt-2" part="/Brands/siemens.svg" alt="" />
-                  <Scope_image width="52" height="40"  className="h-12 -mt-2" part="/Brands/saacke.svg" alt="" />
-                  <Scope_image width="40" height="32"  className="h-8 " part="/Brands/kral.svg" alt="" />
-                  <Scope_image width="52" height="40"  className="h-12 -mt-2" part="/Brands/weishaupt.svg" alt="" />
+                  <Scope_image width="52" height="28"  className="h-12 -mt-2" part="/Brands/siemens.svg" alt="" />
+                  <Scope_image width="52" height="28"  className="h-12 -mt-2" part="/Brands/saacke.svg" alt="" />
+                  <Scope_image width="40" height="28"  className="h-8 " part="/Brands/kral.svg" alt="" />
+                  <Scope_image width="52" height="28"  className="h-12 -mt-2" part="/Brands/weishaupt.svg" alt="" />
                   
                 </div>
                 </div>
@@ -328,10 +328,10 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="52" height="40"  className="h-12 -mt-2" part="/Brands/miura.svg" alt="" />
-                  <Scope_image width="40" height="40"  className="h-12 -mt-2" part="/Brands/sunflame.svg" alt="" />
-                  <Scope_image width="36" height="32"  className="h-6" part="/Brands/azbil.svg" alt="" />
-                  <Scope_image width="52" height="40"  className="h-12 -mt-2" part="/Brands/misuzu.svg" alt="" />
+                  <Scope_image width="52" height="28"  className="h-12 -mt-2" part="/Brands/miura.svg" alt="" />
+                  <Scope_image width="40" height="24"  className="h-12 -mt-2" part="/Brands/sunflame.svg" alt="" />
+                  <Scope_image width="36" height="28"  className="h-6" part="/Brands/azbil.svg" alt="" />
+                  <Scope_image width="52" height="28"  className="h-12 -mt-2" part="/Brands/misuzu.svg" alt="" />
                   
                 </div>
                 </div>
@@ -414,8 +414,8 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="44" height="40"  className="h-12 -mt-2" part="/Brands/hitachi.svg" alt="" />
-                  <Scope_image width="36" height="40"  className="h-12 -mt-2" part="/Brands/kte.svg" alt="" />
+                  <Scope_image width="44" height="28"  className="h-12 -mt-2" part="/Brands/hitachi.svg" alt="" />
+                  <Scope_image width="36" height="28"  className="h-12 -mt-2" part="/Brands/kte.svg" alt="" />
                   
                 </div>
                 </div>
@@ -426,7 +426,7 @@ export default function ScopeOfSupply() {
                     alt=""
                   />
                   <div className="flex flex-row grid  mx-4 gap-2 grid-cols-5 lg:grid-cols-5">
-                  <Scope_image width="44" height="40"  className="h-12 -mt-2" part="/Brands/hanbo.svg" alt="" />
+                  <Scope_image width="44" height="28"  className="h-12 -mt-2" part="/Brands/hanbo.svg" alt="" />
                  
                 </div>
                 </div>
